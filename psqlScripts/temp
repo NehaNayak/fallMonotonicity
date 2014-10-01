@@ -1,0 +1,195 @@
+['The', 'French', 'Anti-Doping', 'agency', '(', 'AFLD', ')', 'on', 'Thursday', 'adjourned', 'its', 'hearing', 'into', 'the', 'doping', 'case', 'against', 'Tour', 'de', 'France', 'winner', 'Floyd', 'Landis', '.']
+['O', 'NATIONALITY', 'O', 'O', 'O', 'O', 'O', 'O', 'DATE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'MISC', 'MISC', 'COUNTRY', 'O', 'PERSON', 'PERSON', 'O']
+Floyd nn France
+['Embattled', 'Bush', 'to', 'veto', 'Iraq', 'deadline']
+['O', 'PERSON', 'O', 'O', 'COUNTRY', 'O']
+Bush xcomp Iraq
+['Key', 'US', 'Senate', 'panel', 'approves', 'Petraeus', 'to', 'head', 'US', 'forces', 'in', 'Iraq']
+['O', 'ORGANIZATION', 'ORGANIZATION', 'O', 'O', 'PERSON', 'O', 'O', 'LOCATION', 'O', 'O', 'COUNTRY']
+Petraeus xcomp US
+['New', 'Zealand', 'cricket', 'boss', 'Martin', 'Sneddon', 'started', 'the', 'ball', 'rolling', 'at', 'the', 'post', '-', 'match', 'ceremony', '.']
+['COUNTRY', 'COUNTRY', 'O', 'O', 'PERSON', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Martin nn Zealand
+['Taiwan', "'s", 'ex-president', 'Lee', 'may', 'visit', 'Japan', ':', 'report']
+['COUNTRY', 'O', 'O', 'PERSON', 'O', 'O', 'COUNTRY', 'O', 'O']
+Lee rcmod Japan
+['US', 'House', 'condemns', 'Bush', 'Iraq', 'strategy']
+['LOCATION', 'O', 'O', 'PERSON', 'COUNTRY', 'O']
+Bush iobj Iraq
+['Football', ':', "'", 'Asian', 'Maradona', "'", 'hails', 'Iran', 'fightback']
+['O', 'O', 'O', 'NATIONALITY', 'PERSON', 'O', 'O', 'COUNTRY', 'O']
+Maradona rcmod Iran
+['Football', ':', 'Man', 'City', 'boss', 'Pearce', 'delighted', 'with', 'Barton', 'pledge']
+['O', 'O', 'LOCATION', 'LOCATION', 'O', 'PERSON', 'O', 'O', 'PERSON', 'O']
+Pearce nn City
+['Joining', 'Kerr', 'and', 'Sharp', 'in', 'sixth', 'place', 'were', 'Sweden', "'s", 'Maria', 'Hjorth', 'and', 'Australian', "'s", 'Rachel', 'Hetherington', '.']
+['O', 'PERSON', 'O', 'PERSON', 'O', 'ORDINAL', 'O', 'O', 'COUNTRY', 'O', 'PERSON', 'PERSON', 'O', 'NATIONALITY', 'O', 'PERSON', 'PERSON', 'O']
+Kerr aux Sweden
+['Jaish', 'was', 'banned', 'by', 'key', 'US', 'ally', 'President', 'Pervez', 'Musharraf', 'in', '2002', '.']
+['PERSON', 'O', 'O', 'O', 'O', 'LOCATION', 'O', 'TITLE', 'PERSON', 'PERSON', 'O', 'DATE', 'O']
+Musharraf amod US
+['Smith', ',', 'originally', 'named', 'the', 'Africa', 'captain', ',', 'was', 'replaced', 'with', 'his', 'South', 'Africa', 'team-mate', 'Mark', 'Boucher', 'after', 'undergoing', 'knee', 'surgery', 'last', 'month', '.']
+['PERSON', 'O', 'O', 'O', 'O', 'LOCATION', 'TITLE', 'O', 'O', 'O', 'O', 'O', 'COUNTRY', 'COUNTRY', 'O', 'PERSON', 'PERSON', 'O', 'O', 'O', 'CAUSE_OF_DEATH', 'DATE', 'DATE', 'O']
+Mark nn Africa
+['Smith', ',', 'originally', 'named', 'the', 'Africa', 'captain', ',', 'was', 'replaced', 'with', 'his', 'South', 'Africa', 'team-mate', 'Mark', 'Boucher', 'after', 'undergoing', 'knee', 'surgery', 'last', 'month', '.']
+['PERSON', 'O', 'O', 'O', 'O', 'LOCATION', 'TITLE', 'O', 'O', 'O', 'O', 'O', 'COUNTRY', 'COUNTRY', 'O', 'PERSON', 'PERSON', 'O', 'O', 'O', 'CAUSE_OF_DEATH', 'DATE', 'DATE', 'O']
+Mark poss South
+['-', 'West', 'Indies', 'captain', 'Brian', 'Lara', '.']
+['O', 'LOCATION', 'LOCATION', 'TITLE', 'PERSON', 'PERSON', 'O']
+Brian nn Indies
+['The', 'most', 'important', 'thing', 'is', 'getting', 'England', 'back', 'on', 'track', ',', '"', 'said', 'Vaughan', '.']
+['O', 'O', 'O', 'O', 'O', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'O', 'O', 'PERSON', 'O']
+Vaughan ccomp England
+['Cricket', ':', 'Ton-up', 'Tendulkar', 'leads', 'India', 'run', 'feast']
+['O', 'O', 'PERSON', 'PERSON', 'O', 'COUNTRY', 'O', 'O']
+Tendulkar rcmod India
+['Earlier', 'this', 'year', 'US', 'magnates', 'George', 'Gillett', 'and', 'Tom', 'Hicks', 'bought', 'Liverpool', 'for', '438', 'million', 'pounds', '.']
+['DATE', 'DATE', 'DATE', 'LOCATION', 'O', 'PERSON', 'PERSON', 'O', 'PERSON', 'PERSON', 'O', 'ORGANIZATION', 'O', 'MONEY', 'MONEY', 'MONEY', 'O']
+George dep US
+['URGENT', 'Denmark', "'s", 'Tour', 'de', 'France', 'winner', 'Riis', 'admits', 'to', 'doping']
+['O', 'COUNTRY', 'O', 'MISC', 'MISC', 'COUNTRY', 'O', 'PERSON', 'O', 'O', 'O']
+Riis nn France
+['-', 'New', 'Zealand', 'captain', 'Stephen', 'Fleming']
+['O', 'COUNTRY', 'COUNTRY', 'TITLE', 'PERSON', 'PERSON']
+Stephen nn Zealand
+['Only', 'Russia', "'s", 'foreign', 'minister', ',', 'Sergei', 'Lavrov', ',', 'defended', 'Lukashenko', ',', 'saying', 'the', 'protest', 'had', 'not', 'been', 'authorised', '"', 'as', 'is', 'required', 'under', 'the', 'law', '.', '"']
+['O', 'COUNTRY', 'O', 'O', 'TITLE', 'O', 'PERSON', 'PERSON', 'O', 'O', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Lukashenko advmod Russia
+['On', 'Thursday', ',', 'Fatah', "'s", 'one-time', 'Gaza', 'strongman', 'Mohammed', 'Dahlan', 'formally', 'resigned', 'as', 'national', 'security', 'adviser', 'at', 'the', 'request', 'of', 'the', 'commission', '.']
+['O', 'DATE', 'O', 'ORGANIZATION', 'O', 'O', 'LOCATION', 'O', 'PERSON', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Mohammed amod Gaza
+["'", 'We', 'love', 'Assad', "'", 'posters', 'fill', 'Syria', 'for', 'no-contest', 'vote', 'by', 'Roueida', 'Mabardi']
+['O', 'O', 'O', 'PERSON', 'O', 'O', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'PERSON', 'PERSON']
+Assad ccomp Syria
+['URGENT', '\xc2\xa5', '\xc2\xa5', '\xc2\xa5', 'Talabani', 'says', 'Iraq', 'could', 'extradite', 'rebels', ':', 'Turkish', 'govt', 'source']
+['O', 'O', 'MONEY', 'MONEY', 'PERSON', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'NATIONALITY', 'O', 'O']
+Talabani rcmod Iraq
+['Northern', 'Ireland', 'manager', 'Nigel', 'Worthington', 'admits', 'he', 'is', 'unsure', 'of', 'his', 'future', 'after', 'his', 'side', "'s", 'heroic', 'effort', 'to', 'reach', 'Euro', '2008', 'ended', 'in', 'failure', '.']
+['LOCATION', 'LOCATION', 'TITLE', 'PERSON', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'DATE', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'DATE', 'O', 'O', 'O', 'O']
+Nigel amod Ireland
+['His', 'US', 'counterpart', 'Zalmay', 'Khalilzad', 'however', 'noted', 'that', 'although', 'Russia', 'was', 'also', 'a', 'member', 'of', 'the', 'Contact', 'Group', ',', 'it', 'had', 'no', 'right', 'of', 'veto', 'in', 'the', 'process', '.']
+['O', 'LOCATION', 'O', 'PERSON', 'PERSON', 'O', 'O', 'O', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'O', 'O', 'ORGANIZATION', 'ORGANIZATION', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Zalmay poss US
+['It', 'was', "n't", 'always', 'a', 'pretty', 'sight', 'and', ',', 'not', 'for', 'the', 'first', 'time', ',', 'Australia', 'great', 'David', 'Campese', 'slammed', 'England', 'for', 'their', '"', 'boring', '"', 'rugby', '.']
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'ORDINAL', 'O', 'O', 'COUNTRY', 'O', 'PERSON', 'PERSON', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+David ccomp England
+['US', 'Attorney', 'General', 'Gonzales', 'visits', 'Iraq']
+['LOCATION', 'TITLE', 'TITLE', 'PERSON', 'O', 'COUNTRY']
+Gonzales dep Iraq
+['US', 'says', 'Ramadan', 'could', 'decide', 'Iraq', 'troop', 'cut']
+['LOCATION', 'O', 'PERSON', 'O', 'O', 'COUNTRY', 'O', 'O']
+Ramadan ccomp Iraq
+['Justine', 'Caines', ',', 'whose', 'new', 'political', 'party', 'What', 'Women', 'Want', 'debuted', 'at', 'Saturday', "'s", 'election', ',', 'also', 'welcomed', 'Gillard', "'s", 'new', 'status', 'but', 'said', 'Australia', "'s", 'major', 'parties', 'had', 'traditionally', 'been', 'unkind', 'to', 'women', '.']
+['PERSON', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'DATE', 'O', 'O', 'O', 'O', 'O', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Gillard conj_but Australia
+['"', 'What', 'caused', 'Sharon', 'to', 'leave', 'Gaza', ',', 'Barak', 'to', 'leave', 'Lebanon', 'in', '2000', '?', '"']
+['O', 'O', 'O', 'PERSON', 'O', 'O', 'LOCATION', 'O', 'PERSON', 'O', 'O', 'COUNTRY', 'O', 'DATE', 'O', 'O']
+Sharon xcomp Gaza
+['Others', 'present', 'from', 'the', 'league', 'champions', 'were', 'former', 'Seville', 'stars', 'Sergio', 'Ramos', ',', 'Javier', 'Saviola', 'and', 'Brazilian', 'Julio', 'Baptista', '.']
+['O', 'DATE', 'O', 'O', 'O', 'O', 'O', 'O', 'LOCATION', 'O', 'PERSON', 'PERSON', 'O', 'PERSON', 'PERSON', 'O', 'NATIONALITY', 'PERSON', 'PERSON', 'O']
+Sergio amod Seville
+['URGENT', '\xc2\xa5', '\xc2\xa5', '\xc2\xa5', 'US', 'backs', 'Strauss-Kahn', 'for', 'top', 'IMF', 'post']
+['O', 'O', 'MONEY', 'MONEY', 'LOCATION', 'O', 'PERSON', 'O', 'O', 'ORGANIZATION', 'O']
+Strauss-Kahn num US
+['Successor', 'named', 'to', 'veteran', 'N.', 'Ireland', 'leader', 'Paisley']
+['O', 'O', 'O', 'O', 'LOCATION', 'LOCATION', 'TITLE', 'PERSON']
+Paisley amod N.
+['Successor', 'named', 'to', 'veteran', 'N.', 'Ireland', 'leader', 'Paisley']
+['O', 'O', 'O', 'O', 'LOCATION', 'LOCATION', 'TITLE', 'PERSON']
+Paisley nn Ireland
+['After', 'the', 'Cole', 'bombing', 'that', 'killed', '17', 'US', 'sailors', 'Badawi', 'was', 'featured', 'on', 'a', 'US', 'list', 'of', 'most-wanted', 'terrorists', 'with', 'a', 'five', '-', 'million-dollar', 'bounty', 'on', 'his', 'head', '.']
+['O', 'O', 'MISC', 'CRIMINAL_CHARGE', 'O', 'O', 'NUMBER', 'LOCATION', 'O', 'PERSON', 'O', 'O', 'O', 'O', 'LOCATION', 'O', 'O', 'O', 'O', 'O', 'O', 'NUMBER', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Badawi num US
+['Abbas', 'urges', 'Obama', 'to', 'make', 'Mideast', 'peace', 'a', 'priority']
+['PERSON', 'O', 'PERSON', 'O', 'O', 'LOCATION', 'O', 'O', 'O']
+Obama xcomp Mideast
+['The', 'BBC', 'quoted', 'Assad', 'as', 'saying', 'Syria', 'reserved', 'the', 'right', 'to', 'respond', 'to', 'the', 'attack', '.']
+['O', 'ORGANIZATION', 'O', 'PERSON', 'O', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'CAUSE_OF_DEATH', 'O']
+Assad prepc_as Syria
+['URGENT', '\xc2\xa5', '\xc2\xa5', '\xc2\xa5', 'US', 'envoy', 'Hill', 'to', 'meet', 'NKorean', 'counterpart']
+['O', 'O', 'MONEY', 'MONEY', 'LOCATION', 'O', 'PERSON', 'O', 'O', 'MISC', 'O']
+Hill num US
+['US', 'envoy', 'warns', 'Bush', 'is', 'pushing', 'Turkey', ',', 'Iran', 'together']
+['LOCATION', 'O', 'O', 'PERSON', 'O', 'O', 'COUNTRY', 'O', 'COUNTRY', 'O']
+Bush ccomp Turkey
+['We', 'go', 'out', 'with', 'our', 'heads', 'held', 'high', ',', '"', 'said', 'the', 'Northern', 'Ireland', 'manager', 'Nigel', 'Worthington', '.']
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'LOCATION', 'LOCATION', 'TITLE', 'PERSON', 'PERSON', 'O']
+Nigel det Northern
+['We', 'go', 'out', 'with', 'our', 'heads', 'held', 'high', ',', '"', 'said', 'the', 'Northern', 'Ireland', 'manager', 'Nigel', 'Worthington', '.']
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'LOCATION', 'LOCATION', 'TITLE', 'PERSON', 'PERSON', 'O']
+Nigel amod Ireland
+['Athletics', ':', 'Recalled', 'Koech', 'joins', 'Kenya', "'s", 'Olympic', 'squad']
+['O', 'O', 'O', 'PERSON', 'O', 'COUNTRY', 'O', 'MISC', 'O']
+Koech ccomp Kenya
+['Defiant', 'Merkel', 'urges', 'China', 'to', 'talk', 'to', 'Dalai', 'Lama', ':', 'report']
+['O', 'PERSON', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Merkel rcmod China
+['"', 'I', 'do', "n't", 'think', 'Australia', 'is', 'interested', ',', '"', 'said', 'Jones', '.']
+['O', 'O', 'O', 'O', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'O', 'PERSON', 'O']
+Jones ccomp Australia
+['former', 'US', 'attorney', 'general', 'Ramsey', 'Clark', 'told', 'reporters', 'last', 'month', '.']
+['O', 'LOCATION', 'TITLE', 'TITLE', 'PERSON', 'PERSON', 'O', 'O', 'DATE', 'DATE', 'O']
+Clark amod US
+['At', 'the', 'Shanghai', 'competition', ',', 'Powell', 'complained', 'that', 'he', 'was', '"', 'not', 'allowed', '"', 'to', 'face', 'arch-rival', 'US', 'sprinter', 'Tyson', 'Gay', 'in', 'a', 'rematch', 'of', 'their', 'world', 'championship', 'final', '.']
+['O', 'O', 'CITY', 'O', 'O', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'LOCATION', 'O', 'PERSON', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Tyson amod US
+['Democrats', 'prod', 'Bush', 'to', 'tighten', 'US', 'Pakistan', 'strategy']
+['IDEOLOGY', 'O', 'PERSON', 'O', 'O', 'LOCATION', 'LOCATION', 'O']
+Bush xcomp US
+['Tennis', ':', 'Ailing', 'opponent', 'irritates', 'Pennetta', 'in', 'testing', 'Bali', 'victory']
+['O', 'O', 'O', 'O', 'O', 'PERSON', 'O', 'O', 'LOCATION', 'O']
+Pennetta prep_in Bali
+['Steinmeier', 'met', 'with', 'visiting', 'UN', 'chief', 'Ban', 'Ki-moon', 'Tuesday', 'and', 'called', 'Lavrov', 'and', 'US', 'Secretary', 'of', 'State', 'Condoleezza', 'Rice', 'this', 'week', 'to', 'discuss', 'Abkhazia', '.']
+['PERSON', 'O', 'O', 'O', 'ORGANIZATION', 'TITLE', 'O', 'O', 'DATE', 'O', 'O', 'PERSON', 'O', 'LOCATION', 'TITLE', 'O', 'O', 'PERSON', 'PERSON', 'DATE', 'DATE', 'O', 'O', 'LOCATION', 'O']
+Lavrov xcomp Abkhazia
+['URGENT', '\xc2\xa5', '\xc2\xa5', '\xc2\xa5', 'Film', 'maker', 'Spielberg', 'boycotts', 'China', 'Olympics', 'over', 'Darfur']
+['O', 'O', 'MONEY', 'MONEY', 'O', 'O', 'PERSON', 'O', 'COUNTRY', 'MISC', 'O', 'LOCATION']
+Spielberg dep China
+['A', 'team', 'led', 'by', 'Howard', 'Hughes', 'Medical', 'Institute', 'investigator', 'Christopher', 'Walsh', 'visited', 'Turkey', ',', 'Dubai', ',', 'Kuwait', 'and', 'Saudi', 'Arabia', 'to', 'confirm', 'the', 'diagnoses', ',', 'researchers', 'said', '.']
+['O', 'O', 'O', 'O', 'ORGANIZATION', 'ORGANIZATION', 'ORGANIZATION', 'ORGANIZATION', 'TITLE', 'PERSON', 'PERSON', 'O', 'COUNTRY', 'O', 'CITY', 'O', 'COUNTRY', 'O', 'COUNTRY', 'COUNTRY', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Christopher rcmod Turkey
+['RugbyU', ':', 'All', 'Blacks', 'recall', 'Smith', 'to', 'face', 'England']
+['O', 'O', 'ORGANIZATION', 'ORGANIZATION', 'O', 'PERSON', 'O', 'O', 'COUNTRY']
+Smith xcomp England
+['The', 'two', 'foreign', 'ministers', 'signed', 'a', 'treaty', 'on', 'avoiding', 'double', 'taxation', ',', 'with', 'Komura', 'thanking', 'Smith', 'for', 'visiting', 'Japan', 'so', 'early', 'in', 'the', 'two-month-old', 'government', "'s", 'tenure', '.']
+['O', 'NUMBER', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'PERSON', 'O', 'PERSON', 'O', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'DURATION', 'O', 'O', 'O', 'O']
+Smith prepc_for Japan
+['British', 'PM', 'backs', 'Zimbabwe', 'arms', 'embargo', ',', 'condemns', 'Mugabe']
+['NATIONALITY', 'O', 'O', 'COUNTRY', 'O', 'O', 'O', 'O', 'PERSON']
+Mugabe nsubj Zimbabwe
+['They', 'chose', 'China', 'first', ',', '"', 'said', 'Lee', 'Joong-Hoon', ',', 'head', 'of', 'the', 'Korean', 'Association', 'of', 'India', '.']
+['O', 'O', 'COUNTRY', 'ORDINAL', 'O', 'O', 'O', 'PERSON', 'PERSON', 'O', 'O', 'O', 'O', 'ORGANIZATION', 'ORGANIZATION', 'ORGANIZATION', 'ORGANIZATION', 'O']
+Lee ccomp China
+['But', 'they', 'then', 'struggled', 'to', 'get', 'out', 'of', 'their', 'own', '22', 'as', 'Saracens', ',', 'with', 'veteran', 'England', 'back-row', 'Richard', 'Hill', 'involved', ',', 'attacked', 'at', 'a', 'ferocious', 'pace', '.']
+['O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'NUMBER', 'O', 'LOCATION', 'O', 'O', 'O', 'COUNTRY', 'O', 'PERSON', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Richard amod England
+['-', 'April', '12', ':', 'Chinese', 'President', 'Hu', 'Jintao', 'meets', 'Taiwan', "'s", 'vice', 'president-elect', 'Vincent', 'Siew', 'on', 'the', 'Chinese', 'island', 'of', 'Hainan', '.']
+['O', 'DATE', 'DATE', 'O', 'NATIONALITY', 'TITLE', 'PERSON', 'PERSON', 'O', 'COUNTRY', 'O', 'O', 'O', 'PERSON', 'PERSON', 'O', 'O', 'NATIONALITY', 'O', 'O', 'STATE_OR_PROVINCE', 'O']
+Hu rcmod Taiwan
+['With', 'no', 'love', 'lost', 'between', 'Chavez', 'and', 'Uribe', ',', 'Chavez', 'slammed', 'Uribe', 'for', 'violating', 'Ecuador', "'s", 'territorial', 'integrity']
+['O', 'O', 'O', 'O', 'O', 'PERSON', 'O', 'PERSON', 'O', 'PERSON', 'O', 'PERSON', 'O', 'O', 'COUNTRY', 'O', 'O', 'O']
+Uribe prepc_for Ecuador
+['Democratic', 'Republic', 'of', 'Congo', 'troops', 'entered', 'Mushake', ',', 'a', 'strategic', 'eastern', 'village', ',', 'on', 'Tuesday', 'after', 'a', 'second', 'day', 'of', 'heavy', 'clashes', 'with', 'rebel', 'soldiers', ',', 'officers', 'said', '.']
+['LOCATION', 'LOCATION', 'LOCATION', 'LOCATION', 'O', 'O', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'DATE', 'O', 'DURATION', 'DURATION', 'DURATION', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Mushake nsubj of
+['With', 'a', '2-1', 'overnight', 'advantage', 'victory', 'was', 'assured', 'when', 'Romania', "'s", 'Victor', 'Hanescu', 'defeated', 'Prakash', 'Amritraj', ',', '6-2', ',', '6-3', ',', '6-1', '.']
+['O', 'O', 'NUMBER', 'TIME', 'O', 'O', 'O', 'O', 'O', 'COUNTRY', 'O', 'PERSON', 'PERSON', 'O', 'PERSON', 'PERSON', 'O', 'NUMBER', 'O', 'NUMBER', 'O', 'NUMBER', 'O']
+Prakash advmod Romania
+['Cuba', 'hails', 'Obama', 'win', ',', 'hopes', 'US', 'embargo', 'will', 'ease']
+['COUNTRY', 'O', 'PERSON', 'O', 'O', 'O', 'LOCATION', 'O', 'O', 'O']
+Obama dep US
+['German', 'Foreign', 'Minister', 'Frank', 'Walter', 'Steinmeier', 'has', 'called', 'his', 'US', 'counterpart', 'Condoleezza', 'Rice', 'to', 'discuss', 'the', 'case', ',', 'the', 'spokesman', 'said', '.']
+['NATIONALITY', 'O', 'TITLE', 'PERSON', 'PERSON', 'PERSON', 'O', 'O', 'O', 'LOCATION', 'O', 'PERSON', 'PERSON', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O']
+Condoleezza poss US
+['Olympics', ':', 'Merritt', 'stuns', 'Wariner', 'to', 'lead', 'US', '400m', 'medal', 'sweep', 'by', 'Jim', 'Slater']
+['O', 'O', 'PERSON', 'O', 'PERSON', 'O', 'O', 'LOCATION', 'O', 'O', 'O', 'O', 'PERSON', 'PERSON']
+Wariner xcomp US
+['Britain', 'urges', 'Arab', 'leaders', 'to', 'pressure', 'Iran']
+['COUNTRY', 'O', 'PERSON', 'O', 'O', 'O', 'COUNTRY']
+Arab xcomp Iran
+['Olympics', ':', 'Birthday', 'girl', 'Wang', 'helps', 'China', 'claim', 'third', 'dive', 'gold']
+['O', 'O', 'O', 'O', 'PERSON', 'O', 'COUNTRY', 'O', 'ORDINAL', 'O', 'O']
+Wang rcmod China
+['The', 'Lebanese', 'army', 'was', 'split', 'at', 'the', 'time', ',', 'with', 'most', 'supporting', 'Aoun', 'and', 'the', 'rest', 'Syria', '.']
+['O', 'NATIONALITY', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'O', 'PERSON', 'O', 'O', 'O', 'COUNTRY', 'O']
+Aoun dobj Syria
