@@ -1,0 +1,8 @@
+python psqlScripts/findPotentialTriggers.py > data/triggerPaths.txt
+
+cat data/triggerPaths.txt | cut -f2,3,4 | sort | uniq -c | awk '{print $1"\t"$2"\t"$3"\t"$4}' | sort -nrk1,1 > data/triggerCounts.txt
+cat data/triggerPaths.txt | cut -f5 | sort | uniq -c | awk '{print $1"\t"$2}' | sort -nrk1,1 > data/People.txt
+cat data/triggerPaths.txt | cut -f1 | sort | uniq -c | awk '{print $1"\t"$2}' | sort -nrk1,1 > data/Places.txt
+cut -f2 Places.txt | tr 'A-Z' 'a-z'> Places.list
+
+cat ../monotonicity/lcn/final_lin.txt | cut -f1,2 | python scripts/findRelevantPairs.py data/Places.list > data/placePairsOccurring.txt
