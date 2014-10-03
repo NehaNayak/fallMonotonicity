@@ -10,3 +10,4 @@ cat ../monotonicity/lcn/final_lin.txt | cut -f1,2 | python scripts/findRelevantP
 cut -f2,3,4 data/triggerCounts.txt |tr 'A-Z' 'a-z'| awk '{print $1"="$2"="$3}' > Triggers.list
 
 cat data/triggerPaths.list | python scripts/checkIfTrigger.py data/placePairsOccurring.txt | sort -k4,4 > data/firstLookTriggers.txt
+awk '{print $1}' data/firstLookTriggers.txt | sort | uniq -c | awk '{print $1"\t"$2}' | sort -nrk1,1 > data/firstLookTriggers_uniq.txt
