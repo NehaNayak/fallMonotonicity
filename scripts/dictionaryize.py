@@ -5,6 +5,6 @@ triggerDict = {}
 
 for line in sys.stdin:
 	(place, dep1, verb, dep2, person, sentence) = line.split()
-	triggerDict[(place, dep1+"="+verb+"="+dep2, person)] = sentence
+	triggerDict[(place.lower(), dep1+"="+verb+"="+dep2, person.lower())] = sentence
 
 pickle.dump(triggerDict,sys.stdout)	

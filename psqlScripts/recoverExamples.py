@@ -18,11 +18,13 @@ def main():
 
     for line in sys.stdin:
 	(place,path,person) = line.split()
-	sentenceid = mapToIDs[(place,path,person)]
-	cur.execute("""SELECT text FROM sentence WHERE sentence_id = '"""+line[:-1]+"""'; """)
-	text = cur.fetchone()
-	sys.stdout.write("\t".join([place,path,person,text])+"\n")
- 
+	try:
+		sentenceid = mapToIDs[(place,path,person)]
+		cur.execute("""SELECT text FROM sentence WHERE sentence_id = '"""+sentenceid+"""'; """)
+		text = cur.fetchone()[0][:-1].replace('\n','\\n')
+		sys.stdout.write("\t".join([place,path,person,text])+"\n")
+	except KeyError:
+		pass 
     conn.close()
 
 if __name__ == '__main__':

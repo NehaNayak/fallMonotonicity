@@ -1,0 +1,872 @@
+kandahar	prep_from=reported=nsubj	taimoor_shah	TRUCK BOMB SHAKES SOUTHERN AFGHAN CITY Taimoor Shah reported from\nKandahar, Afghanistan, and C.J. Chivers from Kabul, Afghanistan.
+afghanistan	prep_from=reported=nsubj	taimoor_shah	TRUCK BOMB SHAKES SOUTHERN AFGHAN CITY Taimoor Shah reported from\nKandahar, Afghanistan, and C.J. Chivers from Kabul, Afghanistan.
+kandahar	prep_from=reported=prep_from	c.j._chivers	TRUCK BOMB SHAKES SOUTHERN AFGHAN CITY Taimoor Shah reported from\nKandahar, Afghanistan, and C.J. Chivers from Kabul, Afghanistan.
+afghanistan	prep_from=reported=prep_from	c.j._chivers	TRUCK BOMB SHAKES SOUTHERN AFGHAN CITY Taimoor Shah reported from\nKandahar, Afghanistan, and C.J. Chivers from Kabul, Afghanistan.
+kandahar	prep_from=reporting=prep_from	eric_schmitt	9 AMERICANS DIE IN TALIBAN'S BOLD AFGHAN ATTACK Taimoor Shah\ncontributed reporting from Kandahar, Afghanistan, Jane Perlez\nfrom Islamabad, Pakistan, and Eric Schmitt from Washington.
+afghanistan	prep_from=reporting=prep_from	eric_schmitt	9 AMERICANS DIE IN TALIBAN'S BOLD AFGHAN ATTACK Taimoor Shah\ncontributed reporting from Kandahar, Afghanistan, Jane Perlez\nfrom Islamabad, Pakistan, and Eric Schmitt from Washington.
+kandahar	prep_from=reporting=prep_from	jane_perlez	9 AMERICANS DIE IN TALIBAN'S BOLD AFGHAN ATTACK Taimoor Shah\ncontributed reporting from Kandahar, Afghanistan, Jane Perlez\nfrom Islamabad, Pakistan, and Eric Schmitt from Washington.
+afghanistan	prep_from=reporting=prep_from	jane_perlez	9 AMERICANS DIE IN TALIBAN'S BOLD AFGHAN ATTACK Taimoor Shah\ncontributed reporting from Kandahar, Afghanistan, Jane Perlez\nfrom Islamabad, Pakistan, and Eric Schmitt from Washington.
+ghazni_province	prep_in=arrested=nsubjpass	aafia_siddiqui	Aafia Siddiqui, who was educated at the elite Massachusetts\nInstitute of Technology (MIT), was arrested on July 17 in Ghazni\nprovince, Afghanistan, said US Attorney for the Southern District\nof New York Michael Garcia.
+afghanistan	prep_in=arrested=nsubjpass	aafia_siddiqui	Aafia Siddiqui, a former US resident, was arrested last month in\nAfghanistan, said the US attorney for the Southern District of\nNew York, Michael Garcia.
+kandahar	prep_in=arrived=nsubj	des_browne	Treasury chief Brown, who is expected to succeed Prime Minister\nTony Blair within months, and Defense Secretary Des Browne\narrived Friday in Kandahar.
+afghanistan	prep_in=arrived=nsubj	des_browne	British Defence Secretary Des Browne arrived in troubled southern\nAfghanistan Tuesday for a two day visit, a British military\nspokesman said.
+helmand_province	prep_in=been=nsubj	harry	Harry has been in Helmand Province, where most of the 7,800\nBritish soldiers in Afghanistan are based.
+afghanistan	prep_in=been=nsubj	harry	Harry, who is third in line to the throne, has been in\nAfghanistan since December.
+ghazni	prep_in=contributed=nsubj	amir_shah	Associated Press writers Amir Shah in Ghazni, Afghanistan, David\nStringer in London and Lily Hindy in New York contributed to this\nreport.
+afghanistan	prep_in=contributed=nsubj	amir_shah	Associated Press writers Amir Shah and Jason Straziuso in Kabul,\nAfghanistan, and Kirsten Grieshaber in Berlin, Germany,\ncontributed to this report.
+ghazni	prep_in=contributed=prep_in	david_stringer	Associated Press writers Amir Shah in Ghazni, Afghanistan, David\nStringer in London and Lily Hindy in New York contributed to this\nreport.
+afghanistan	prep_in=contributed=prep_in	david_stringer	Associated Press writers Amir Shah in Ghazni, Afghanistan, David\nStringer in London and Lily Hindy in New York contributed to this\nreport.
+ghazni	prep_in=contributed=prep_in	lily_hindy	Associated Press writers Amir Shah in Ghazni, Afghanistan, David\nStringer in London and Lily Hindy in New York contributed to this\nreport.
+afghanistan	prep_in=contributed=prep_in	lily_hindy	Associated Press writers Amir Shah in Ghazni, Afghanistan, David\nStringer in London and Lily Hindy in New York contributed to this\nreport.
+helmand_province	prep_in=fighting=nsubj	harry	Harry, 23, has been fighting in Helmand province, where most of\nthe 7,800 British troops in Afghanistan are based.
+afghanistan	prep_in=fighting=nsubj	harry	An Australian magazine apologized Monday for publishing a story\nrevealing that Britain's Prince Harry was fighting with British\ntroops in Afghanistan, eventually resulting in the royal being\nsent home.
+kandahar	prep_in=met=prep_with	osama_bin_laden	Kidwai acknowledged that two Pakistani nuclear scientists had met\nwith Osama bin Laden in Kandahar, Afghanistan, during the rule of\nthe Taliban regime.
+afghanistan	prep_in=met=prep_with	osama_bin_laden	In 2001, just weeks before the Sept. 11 attacks, two Pakistani\nnuclear experts met with Osama bin Laden in Afghanistan to\ndiscuss how al-Qaida should go about building a nuclear device.
+bagram_air_base	prep_in=was=nsubj	cheney	Cheney was in the Bagram Air Base, about 60 kilometres (40 miles)\nfrom the capital Kabul, when a Taliban bomber blew himself up\nTuesday, killing at least 14 people.
+afghanistan	prep_in=was=nsubj	cheney	Cheney was in Afghanistan and had been expected to meet Afghan\nPresident Hamid Karzai to offer support ahead of a feared spring\noffensive by Taliban militants and their Al-Qaeda allies.
+kandahar	prep_in=was=nsubj	omar	Andrew Card, U.S. President George W. Bush's chief of staff, said\nFriday that U.S. officials were ``pretty sure'' Omar was still in\nKandahar, and Khalid Pashtun, a spokesman for Agha, claimed Omar was\nunder the ``protection'' of Naqibullah.
+afghanistan	prep_in=was=nsubj	omar	Musharraf said he was "500 percent sure" that Omar\nwas in Afghanistan.
+kandahar	prep_to=made=nsubj	padilla	Padilla made his way to Kandahar, Afghanistan, where his terrorist\ntraining allegedly began.
+afghanistan	prep_to=made=nsubj	padilla	Padilla eventually made his way to\nAfghanistan, where in 2000 he filled out a form introduced at\ntrial to attend an al-Qaida terrorist training camp.
+kandahar	rcmod=met=dobj	osama_bin_laden	The ministry said Rijal was sent by the group to Afghanistan for\ntraining at Al- Qaeda's Camp Farouq in Kandahar where he met\nOsama bin Laden on a number of occasions.
+afghanistan	rcmod=met=dobj	osama_bin_laden	He trained at an al-Qaida camp in\nAfghanistan, where he met Osama bin Laden.
+antigua	prep_for=issued=prep_for	st._vincent	Tropical storm warnings were issued for Antigua; Barbados;\nBarbuda; Grenada and its dependencies; Monserrat; Nevis; Saba;\nSt. Eustatius; St. Kitts; St. Vincent and the Grenadines; and St.\nMaarten.
+antigua_and_barbuda	prep_for=issued=prep_for	st._vincent	Tropical storm warnings have been issued for the U.S. Virgin\nIslands, the British Virgin Islands, Puerto Rico, Antigua and\nBarbuda, Barbados, Montserrat, St. Kitts and Nevis, Anguilla and\nSt. Maarten, Grenada, St. Vincent and the Grenadines.
+barbuda	prep_for=issued=prep_for	st._vincent	Tropical storm warnings were issued for Anguilla, Antigua;\nBarbados; Barbuda; Grenada and its dependencies; Monserrat;\nNevis; Saba; St. Eustatius; St. Kitts; St. Vincent and the\nGrenadines; and St. Maarten.
+antigua_and_barbuda	prep_for=issued=prep_for	st._vincent	Tropical storm warnings have been issued for the U.S. Virgin\nIslands, the British Virgin Islands, Puerto Rico, Antigua and\nBarbuda, Barbados, Montserrat, St. Kitts and Nevis, Anguilla and\nSt. Maarten, Grenada, St. Vincent and the Grenadines.
+western_australia	prep_in=arrived=rcmod	hu_jintao	The APEC summit brings Bush together with 20 other world leaders,\nincluding Russian President Vladimir Putin and China's Hu Jintao,\nwho arrived Monday in Western Australia.
+australia	prep_in=arrived=rcmod	hu_jintao	The APEC summit brings Bush together with 20 other world leaders,\nincluding Russian President Valdimir Putin and China's Hu Jintao,\nwho arrived Monday in western Australia.
+somersby	prep_in=said=nsubj	howard	"I do respect the tough stand that he's taken but that respect\ncan't justify and excuse extra-constitutional behavior," Howard\nsaid in Somersby in the state of New South Wales.
+australia	prep_in=said=nsubj	howard	In Australia, Prime Minister Howard said Australia had a much\nsmaller percentage of the sort of risky subprime mortgage loans\nthan in the United States and urged people not to overreact.
+royal_darwin_hospital	prep_to=airlifted=nsubjpass	ramos-horta	Ramos-Horta was airlifted to the Royal Darwin Hospital on the day\nof the assassination attempt and stayed there until March 3, when\nhe was moved to the nearby Darwin Private Hospital.
+australia	prep_to=airlifted=nsubjpass	ramos-horta	Ramos-Horta, 58, was attacked by rebel soldiers in a dawn\ngunbattle at his residence on the outskirts of Dili and was\nairlifted to Australia for medical treatment.
+royal_darwin_hospital	prep_to=flown=nsubjpass	ramos-horta	He said Ramos-Horta was "very seriously" injured in the attack\nand would be flown to Australia's Royal Darwin Hospital for\nsurgery.
+australia	prep_to=flown=nsubjpass	ramos-horta	Gusmao escaped unhurt, but Ramos-Horta was seriously wounded and\nflown to Australia for surgery after being shot at his home.
+semmering	prep_in=won=nsubj	therese_borssen	She could become the first\nnon-Austrian winner of a women's World Cup slalom race since Dec.\n29, 2006, when Therese Borssen of Sweden won in Semmering,\nAustria.
+austria	prep_in=won=nsubj	therese_borssen	Costazza is the first Italian in 10 years to win a women's World\nCup slalom, and the first non-Austrian winner since Dec. 29,\n2006, when Therese Borssen of Sweden won in Semmering, Austria.
+bad_gastein	prep_in=won=rcmod	schiavone	Schiavone, who won her first WTA Tour title earlier\nthis season in Bad Gastein, Austria, takes on top-seeded Anna\nChakvatadze in the second round.
+austria	prep_in=won=rcmod	schiavone	Schiavone, who won her first WTA title this year in Austria, said\nshe was feeling better after the match, and did not expect the\ninjury to hamper her play this week.
+kosovo	tmod=covered=nsubj	dusan_stojanovic	Dusan Stojanovic has covered Serbia, Kosovo and the Balkans for\nThe Associated Press since 1984.
+balkans	tmod=covered=nsubj	dusan_stojanovic	Dusan Stojanovic has covered Serbia and the Balkans for the\nAssociated Press since 1984.
+vitebsk	prep_in=born=nsubjpass	joseph_solman	Joseph Solman was born in 1909 in Vitebsk, then part of Russia\nand now in Belarus.
+belarus	prep_in=born=nsubjpass	joseph_solman	Joseph Solman was born in 1909 in Vitebsk, then part of Russia\nand now in Belarus.
+pailin	prep_in=arrested=nsubjpass	nuon_chea	--Nuon Chea, the top surviving leader of the Khmer Rouge, is\narrested in Pailin, Cambodia, and charged with war crimes and\ncrimes against humanity.
+cambodia	prep_in=arrested=nsubjpass	nuon_chea	Former Khmer Rouge ideologist Nuon Chea -- who is 82 and in\ndeclining health from an earlier stroke -- was arrested Wednesday\nin the northwestern Cambodia and flown to the capital, Phnom\nPenh, where he was formally charged with crimes against humanity\nbefore the tribunal.
+pailin	prep_in=live=nsubj	nuon_chea	His deputy Nuon Chea and former head of state Khieu Samphan live\nin Pailin, the Khmer Rouge's last stronghold in northwest\nCambodia.
+cambodia	prep_in=live=nsubj	nuon_chea	Nuon Chea, Pol Pot's right-hand man, and Khieu Samphan, the\nregime's former head of state, live freely in Cambodia --\nalthough they are likely among those whom the tribunal will seek\nto indict.
+eastern_ontario	prep_in=live=conj_and	linda_stephens	My name is Linda Stephens and I live in Eastern Ontario in Canada.
+canada	prep_in=live=conj_and	linda_stephens	My name is Linda Stephens and I live in Eastern Ontario in Canada.
+ndjamena	dobj=left=nsubj	sarkozy	Sarkozy left Ndjamena for an official two-day trip to South\nAfrica describing his flying visit as "useful."
+chad	dobj=left=nsubj	sarkozy	Sarkozy met with Chad's leader, Idriss Deby, and later left Chad\non his official jet with three French journalists and four flight\nattendants from Spain.
+ndjamena	dobj=visited=nsubj	herve_morin	French Defence Minister Herve Morin visited Ndjamena on\nWednesday.
+chad	dobj=visited=nsubj	herve_morin	French Defense Minister Herve Morin visited Chad Wednesday and\nassured President Deby of France's "unwavering support" in the\nface of the rebellion, which is threatening to tear the oil-rich\ncentral African nation apart.
+ndjamena	prep_in=said=nsubj	sarkozy	"Just because the Chadian government is legitimate it doesn't\nmean that it can do whatever it wants," Sarkozy said in Ndjamena,\nafter assuring representatives from six rights groups in Paris\nthat he would push for the international probe.
+chad	prep_in=said=nsubj	sarkozy	Earlier in Chad, Sarkozy said he hoped the six remaining French\nnationals -- all volunteers for the charity -- would face trial\nin France and recognised that Zoe's Ark had acted "so very\nbadly."
+ndjamena	prep_to=made=nsubj	sarkozy	Sarkozy on Sunday made a snap visit to Ndjamena to bring back\nthree French journalists and four Spanish air hostesses who were\narrested after the Zoe's Ark charity tried to fly 103 children\nout of Chad to France last month.
+chad	prep_to=made=nsubj	sarkozy	Chadian authorities arrested 17 people in the case, and this week\nSarkozy made a fast trip to Chad to bring back three French\njournalists and four Spanish flight attendants from the charter\nplane that had been booked to fly the children out.
+dantewada	prep_in=running=prep_in	bastar	In Chhattisgarh, buses were not running in Dantewada and Bastar\n-- insurgent hotbeds -- and only freight trains were allowed to\nrun in the two districts as a precaution against attacks, police\ninspector general R.K. Vij said.
+chhattisgarh	prep_in=running=prep_in	bastar	In Chhattisgarh, buses were not running in Dantewada and Bastar\n-- insurgent hotbeds -- and only freight trains were allowed to\nrun in the two districts as a precaution against attacks, police\ninspector general R.K. Vij said.
+lhasa	dobj=fled=nsubj	dalai_lama	The Dalai Lama, Tibet's traditional Buddhist leader,\nfled Lhasa in 1959 following a failed uprising against Chinese\nrule.
+china	dobj=fled=nsubj	dalai_lama	The Dalai Lama fled China after a failed rebellion in 1959.
+liaoning	dobj=led=nsubj	olumide_oyedeji	Olumide Oyedeji led Liaoning with 18 points and 13 rebounds.
+china	dobj=led=nsubj	olumide_oyedeji	Olumide Oyedeji led China with 25 points.
+kunshan	dobj=visit=nsubj	chiang	According to Chang, Chiang will leave for China next Thursday and\nvisit Shanghai, Kunshan, Xiamen and Shenzhen, where a large\nnumber of Taiwan businessmen are clustered, to thank them for\ntheir support of President-elect Ma Ying-jeou and Vice President-\nelect Vincent Siew.
+china	dobj=visit=nsubj	chiang	The report said Chiang will visit China on April 20 and if he has\nthe chance, he will meet with his possible counterpart Chen\nYunlin, who has been reported to take over the post of chairman\nof the Association for Relations Across the Taiwan Straits.
+east_china	nsubj=braces=prep_for	krosa	3rd Ld-China Focus: East China braces for super typhoon Krosa
+china	nsubj=braces=prep_for	krosa	China braces for storm Krosa; 4 killed in Taiwan
+boao	prep_for=left=nsubj	siew	Siew left for Boao Friday to attend the annual Boao Forum for\nAsia (BFA) in his capacity as chairman of the private Taipei-\nbased Cross-Straits Common Market Foundation.
+china	prep_for=left=nsubj	siew	Siew left for China early Friday to take part in the Boao Forum\nfor Asia being held in China's southern Hainan province from\nApril 11 to 13.
+zhangqiu	prep_from=contributed=nsubj	rujun_shen	Rujun Shen also\ncontributed reporting from Zhangqiu.
+china	prep_from=contributed=nsubj	rujun_shen	R.M. Koster contributed from Panama; Guangming Xu\nand Rujun Shen contributed from China.
+zhangqiu	prep_from=reporting=prep_from	alexei_barrionuevo	EXPERTS SAY PET CHEMICAL AN UNLIKELY HUMAN THREAT David Barboza\ncontributed reporting from Zhangqiu, China, and Alexei\nBarrionuevo from Chicago.
+china	prep_from=reporting=prep_from	alexei_barrionuevo	EXPERTS SAY PET CHEMICAL AN UNLIKELY HUMAN THREAT David Barboza\ncontributed reporting from Zhangqiu, China, and Alexei\nBarrionuevo from Chicago.
+xiaogan	prep_in=born=nsubjpass	dong	Dong was born in Xiaogan in Hubei province in central China and\nwas named bishop of Hankou, a city in Hubei, in 1958, Xinhua\nsaid.
+china	prep_in=born=nsubjpass	dong	Dong was born in Xiaogan in Hubei province in central China and\nwas named bishop of Hankou, a city in Hubei, in 1958, Xinhua\nsaid.
+manchuria	prep_in=born=nsubjpass	kim_ryong-yon	Kim Ryong-Yon was born in Manchuria in China and served as a\nmessenger for Kim Il-Sung's anti-Japanese guerrilla forces before\nWorld War II.
+china	prep_in=born=nsubjpass	kim_ryong-yon	Kim Ryong-Yon was born in Manchuria in China and served as a\nmessenger for Kim Il-Sung's anti-Japanese guerrilla forces before\nWorld War II.
+lhasa	prep_in=born=nsubjpass	ngapoi_ngawang_jigme	Ngapoi Ngawang Jigme, now 98 years old, was born in Lhasa of\nTibet in southwest China, and had worked for the old Tibetan\nlocal government before the peaceful liberation of Tibet in the\nearly 1950s.
+china	prep_in=born=nsubjpass	ngapoi_ngawang_jigme	Ngapoi Ngawang Jigme, now 98 years old, was born in Lhasa of\nTibet in southwest China, and had worked for the old Tibetan\nlocal government before the peaceful liberation of Tibet in the\nearly 1950s.
+great_hall_of_the_people	prep_in=met=nsubj	hu_jintao	Chinese President Hu Jintao on Saturday met separately with\nseveral foreign leaders in the Great Hall of the People in\ncentral Beijing.
+china	prep_in=met=nsubj	hu_jintao	In China, Communist Party chief Hu Jintao met with wheat farmers,\npolice and a model worker in central Henan province.
+sanya	prep_in=said=nsubj	li	Li said many cab drivers assembled in front of the municipal\ngovernment office in Sanya for a second day Tuesday, but he did\nnot give a crowd estimate.
+china	prep_in=said=nsubj	li	"In China," Li said,\n"it's hard to get old.
+shifang	prep_in=surnamed=dobj	zhang	"Wen visited here this morning," said a man surnamed Zhang in\nneighboring Shifang, who declined to give his first name given\nthe sensitivity of speaking to foreigners.
+china	prep_in=surnamed=dobj	zhang	Xinhua said the painting had been kept by an entrepreneur\nsurnamed Zhang from Tianjin in northern China for more than 80\nyears.
+sanya	rcmod=met=prep_with	hu_jintao	Kikwete kicked off his visit to China on April 11 in Sanya, where\nhe met with Chinese President Hu Jintao and exchanged views on\nbilateral relations and international and regional issues of\ncommon concern.
+china	rcmod=met=prep_with	hu_jintao	From Jan. 9 to 11, Israeli Prime Minister Ehud Olmert paid an\nofficial visit to China, where he met with Chinese President Hu\nJintao and Premier Wen Jiabao.
+homosassa	prep_in=murdering=dobj	jessica_lunsford	(Miami) -- Ongoing coverage of the trial of John Couey, accused\nof murdering 9-year-old Jessica Lunsford in Homosassa.
+citrus_county	prep_in=murdering=dobj	jessica_lunsford	(Miami) -- Testimony continues in the trial of John Couey,\naccused of murdering 9-year-old Jessica Lunsford in Citrus\nCounty.
+havana	agent=wanted=nsubjpass	posada	A former US Central Intelligence Agency agent, Posada is wanted\nby Havana and Caracas in the downing of a Cuban airliner that\nleft 73 people dead.
+cuba	agent=wanted=nsubjpass	posada	Posada -- a Cuban-born former CIA operative and naturalized\nVenezuelan citizen -- is also wanted by Cuba and Venezuela on\ncharges that he plotted the 1976 bombing of a Cuban jetliner\nwhile in Caracas.
+guantanamo_bay	dep=beheaded=dobj	daniel_pearl	Suspected 9/11 mastermind Khalid Sheikh Mohammed boasted at a\nmilitary hearing at Guantanamo Bay, Cuba, that he personally\nbeheaded American journalist Daniel Pearl.
+cuba	dep=beheaded=dobj	daniel_pearl	Suspected 9/11 mastermind Khalid Sheikh Mohammed boasted at a\nmilitary hearing at Guantanamo Bay, Cuba that he personally\nbeheaded American journalist Daniel Pearl, according to a revised\nPentagon transcript released Thursday.
+havana	dobj=hit=nsubj	ike	Forecasters feared Ike might hit Havana on Tuesday  with winds\nexceeding 100 mph.
+cuba	dobj=hit=nsubj	ike	Hurricanes Gustav and Ike hit Cuba last week, killing five people\nand causing millions of U.S. dollars' worth of damage to\ninfrastructure and farmland.
+havana	dobj=spared=nsubj	fay	Tropical Storm Fay spared Havana as it sped across Cuba's Bay of\nPigs and took aim at Florida on Monday.
+cuba	dobj=spared=nsubj	fay	Tropical Storm Fay spared Cuba as it sped across the island's Bay\nof Pigs and took aim at Florida on Monday.
+havana	nsubj=accuses=dobj	posada	Havana accuses the Cuban-born Posada\nof orchestrating a 1976 airliner bombing that killed 73 people --\na charge he denies.
+cuba	nsubj=accuses=dobj	posada	Cuba also accuses Posada of plotting a series of bombings at\nseveral Havana hotels in 1997, including one that killed 32-year-\nold Italian tourist Fabio di Celmo.
+havana	nsubj=meets=prep_with	fidel_castro	HAVANA -- Bolivian President Evo Morales meets with Fidel Castro\nfor nearly three hours and said the convalescing Cuban leader\nlooked well.
+cuba	nsubj=meets=prep_with	fidel_castro	Bolivian President Morales visits Cuba, meets with Fidel Castro
+guantanamo_bay	prep_at=torture=nsubj	rumsfeld	The French complaint accuses Rumsfeld of authorizing torture at\nGuantanamo Bay, Cuba, and the Abu Ghraib prison in Iraq under the\nConvention Against Torture ratified by the United Nations in\n1984.
+cuba	prep_at=torture=nsubj	rumsfeld	The French complaint accuses Rumsfeld of authorizing torture at\nGuantanamo Bay, Cuba, and the Abu Ghraib prison in Iraq under the\nConvention Against Torture ratified by the United Nations in\n1984.
+guantanamo_bay	prep_from=made=nsubj	hicks	Hicks, the first terrorist suspect convicted by a U.S. military\ncommission in Cuba, made the flight from Guantanamo Bay in a\ngovernment-chartered Gulfstream G550 jet with an entourage of\nAustralian police, prison officers and his Australia lawyer.
+cuba	prep_from=made=nsubj	hicks	Hicks, the first of hundreds of Guantanamo Bay detainees to face\na U.S. military tribunal, made the flight from Cuba in a\ngovernment-chartered Gulfstream G550 jet with an entourage of\nAustralian police, prison officers and his Australian lawyer.
+havana	prep_in=arrived=nsubj	chavez	Chavez arrived in Havana Wednesday to attend the summit of\nPetroCaribe in the south central Cuban city of Cienfuegos.
+cuba	prep_in=arrived=nsubj	chavez	Chavez arrived in Cuba on Friday for an official visit.
+havana	prep_in=arrived=nsubj	dmitry_medvedev	HAVANA, Nov. 27 (Xinhua) -&#8211; Russian President Dmitry\nMedvedev arrived on Thursday noon in Havana, where he was\nwelcomed by Cuban vice President Ricardo Cabrisas.
+cuba	prep_in=arrived=nsubj	dmitry_medvedev	Russian President Dmitry Medvedev arrived in Cuba Thursday to\nrevive ties with the former Soviet Union's Cold War ally, on the\nlast leg of a tour to boost Russia's reach in Latin America.
+havana	prep_in=arrived=nsubj	hugo_chavez	Venezuelan President Hugo Chavez arrived in Cuban capital Havana\nfor talks with Cuban leader Fidel Castro on energy issues and a\nregional trade pact, official sources said on Tuesday.
+cuba	prep_in=arrived=nsubj	hugo_chavez	On June 12, Venezuelan President Hugo Chavez arrived in Cuba for\na surprise visit and talked for six hours behind closed doors\nwith Castro.
+havana	prep_in=blamed=nsubj	fidel_castro	Cuban President Fidel Castro blamed the United States for the\nfatal attempted hijacking of a plane by two deserting soldiers in\nHavana last week, in a newspaper article released Monday night.
+cuba	prep_in=blamed=nsubj	fidel_castro	President Fidel Castro in his latest newspaper article Wednesday\nblamed the US dollar for the emergence of inequality and wasteful\nspending in Cuba since the adoption of the US currency to help\nease economic hardships.
+san_antonio_de_las_vueltas	prep_in=born=nsubjpass	machado_ventura	Machado Ventura was born in San Antonio de las Vueltas, in\ncentral Cuba, on Oct. 26, 1930.
+cuba	prep_in=born=nsubjpass	machado_ventura	Machado Ventura was born in San Antonio de las Vueltas, in\ncentral Cuba, on Oct. 26, 1930.
+havana	prep_in=born=rcmod	gutierrez	Interest in Cuba comes naturally to Gutierrez, who was born in\nHavana and left Cuba at age six for Florida with his family.
+cuba	prep_in=born=rcmod	gutierrez	Gutierrez, who was born in Cuba, said the United States does not\nplan to meddle in Cuban politics but wants to see the country\nmake the transition to democracy.
+guantanamo_bay	prep_in=held=nsubjpass	khadr	Khadr has been held at the US naval base in Guantanamo Bay, Cuba\nsince his arrest in 2002, when he was 15 years old, and faces a\ntrial before a special US military tribunal for alleged war\ncrimes in October.
+cuba	prep_in=held=nsubjpass	khadr	Khadr was arrested and has been held at the US naval base at\nGuantanamo Bay in Cuba since then.
+guantanamo_bay	prep_in=held=rcmod	omar_khadr	Attorneys for Omar Khadr, who is being held at the U.S. military\nprison in Guantanamo Bay, say international law bars governments\nfrom detaining people that young as enemy combatants or\nprosecuting them for war crimes.
+cuba	prep_in=held=rcmod	omar_khadr	A secret government report indicates that Omar Khadr, a Canadian\nwho has been held at the Guantanamo Bay detention camp in Cuba\nsince he was 16, has been abused by interrogators, his U.S.\nmilitary lawyer said Thursday.
+havana	prep_in=met=nsubj	castro	Morales was among several leaders Castro met with separately with\nbehind closed doors on the sidelines of the Nonaligned Movement\nsummit in Havana in mid-September.
+cuba	prep_in=met=nsubj	castro	Castro met on Thursday with leftist Bolivian President Evo\nMorales, in Cuba on a lightning "working visit."
+havana	prep_in=met=nsubj	fidel_castro	Fidel\nCastro met with the Brazilian president recently in Havana.
+cuba	prep_in=met=nsubj	fidel_castro	Ailing Cuban President Fidel Castro met Tuesday in Cuba with\nBrazilian President Luiz Inacio Lula da Silva, a Brazilian\nofficial told AFP.
+guantanamo_bay	prep_in=released=nsubjpass	sami_al-haj	--Al-Jazeera TV cameraman Sami al-Haj is released from U.S.\ncustody in Guantanamo Bay, Cuba, and returns home to Sudan after\nsix years of imprisonment.
+cuba	prep_in=released=nsubjpass	sami_al-haj	--Al-Jazeera TV cameraman Sami al-Haj is released from U.S.\ncustody in Guantanamo Bay, Cuba, and returns home to Sudan after\nsix years of imprisonment.
+havana	prep_in=took=rcmod	fidel_castro	Sunday's Cuban press had extensive coverage of a meeting between\ntheir leader Fidel Castro and Nong Duc Manh, the secretary\ngeneral of Vietnam's Communist Party Central Committee, which\ntook place in Havana on Saturday night.
+cuba	prep_in=took=rcmod	fidel_castro	Fidel Castro, who took power in Cuba in January 1959, is still on\nthe mend from major intestinal surgery, penning regular\neditorials in state news media.
+havana	prep_in=was=nsubj	morales	Morales was among several leaders Castro met with separately\nbehind closed doors during the Nonaligned Movement summit in\nHavana in September.
+cuba	prep_in=was=nsubj	morales	Morales, 47, was last in Cuba to celebrate Castro's 80th birthday\nin August 2006.
+twickenham	prep_at=injured=rcmod	josh_sole	Blindside flanker\nAlessandro Zanni replaces Josh Sole, who injured his elbow at\nTwickenham.
+england	prep_at=injured=rcmod	josh_sole	Zanni will win his 12th cap at Murrayfield on Saturday in place\nof Josh Sole, who injured his elbow in a 20-7 loss at world\nchampion England two weeks ago.
+shropshire	prep_in=educated=nsubjpass	blair	Born on March 19, 1953, Blair was educated in Shropshire, western\nEngland, and Los Angeles, before studying English Language and\nLiterature at Oxford, where he gained a second class honours\ndegree.
+england	prep_in=educated=nsubjpass	blair	Born on March 19, 1953, Blair was educated in Shropshire, western\nEngland, and Los Angeles, before studying English Language and\nLiterature at Oxford, where he gained a second class honours\ndegree.
+woking	prep_in=features=prep_in	lewis_hamilton	The film features the McLaren\nTechnology Center in Woking, England and Lewis Hamilton and his\nF1team.
+england	prep_in=features=prep_in	lewis_hamilton	The film features the McLaren\nTechnology Center in Woking, England and Lewis Hamilton and his\nF1team.
+anfield	prep_to=move=nsubj	barry	Villa manager Martin O'Neill had expected Barry to move to\nAnfield weeks ago but the two clubs could not agree on a transfer\nfee.
+england	prep_to=move=nsubj	barry	Former South Africa centre De Wet Barry will move to England to\nplay for Harlequins in October after agreeing a two year deal\nwith the London-based Premiership club.
+addis_ababa	prep_from=travel=nsubj	gedi	The spokeman said Gedi would travel to Saudi Arabia from Addis\nAbaba, where he is currently holding talks with Ethiopian\nofficials and diplomats based there.
+ethiopia	prep_from=travel=nsubj	gedi	He said Gedi would travel to Saudi Arabia from Ethiopia where he\nis currently holding talks with officials and foreign diplomats.
+addis_ababa	prep_in=contributed=nsubj	anita_powell	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+ethiopia	prep_in=contributed=nsubj	anita_powell	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+addis_ababa	prep_in=contributed=nsubj	heidi_vogt	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+ethiopia	prep_in=contributed=nsubj	heidi_vogt	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+addis_ababa	prep_in=contributed=prep_in	katharine_houreld	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+ethiopia	prep_in=contributed=prep_in	katharine_houreld	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+addis_ababa	prep_in=contributed=prep_in	malkhadir_m._muhumed	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+ethiopia	prep_in=contributed=prep_in	malkhadir_m._muhumed	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+addis_ababa	prep_in=contributed=prep_in	matti_huuhtanen	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+ethiopia	prep_in=contributed=prep_in	matti_huuhtanen	Associated Press writers Anita Powell and Heidi Vogt in Addis\nAbaba, Ethiopia, Katharine Houreld in Eldoret, and Matti\nHuuhtanen and Malkhadir M. Muhumed in Nairobi contributed to this\nreport.
+addis_ababa	prep_in=reached=prep_in	abudja	Ban urged Khartoum to accept all contents in agreements reached\nin Addis Ababa, Ethiopia, and Abudja, Nigeria.
+ethiopia	prep_in=reached=prep_in	abudja	Ban urged Khartoum to accept all contents in agreements reached\nin Addis Ababa, Ethiopia, and Abudja, Nigeria.
+addis_ababa	prep_in=said=nsubj	jendayi_frazer	I listened to the victims,"\nUS Assistant Secretary of State Jendayi Frazer said in Addis\nAbaba Wednesday, on the sidelines of preparatory meetings for the\nsummit.
+ethiopia	prep_in=said=nsubj	jendayi_frazer	I listened to the victims,"\nUS Assistant Secretary of State Jendayi Frazer said in Ethiopia.
+suva	prep_in=said=nsubj	voreqe_bainimarama	Fijian interim Prime Minister Commodore Voreqe Bainimarama said\nin Suva that his government was committed to hold general\nelections in March next year, the Fijilive website reported on\nWednesday.
+fiji	prep_in=said=nsubj	voreqe_bainimarama	In Fiji, coup leader Voreqe Bainimarama, who ousted the elected\ngovernment last December, said he also hoped to hold talks with\nthe new team in Canberra.
+lodeve	prep_in=attend=nsubj	carla_bruni-sarkozy	Instead, first lady Carla Bruni-Sarkozy will attend the\ninauguration of a temple in Lodeve in southern France Friday next\nweek.
+france	prep_in=attend=nsubj	carla_bruni-sarkozy	No government-level meetings are planned during his stay,\nalthough first lady Carla Bruni-Sarkozy will attend the\ninauguration of a temple in Lodeve in southern France Friday next\nweek.
+elysee_palace	prep_in=meet=dobj	sarkozy	The French heroes were scheduled to meet Sarkozy in the Elysee\nPalace at 18:45 local time (1645GMT), a government spokesman said\nearlier.
+france	prep_in=meet=dobj	sarkozy	Betancourt to meet Sarkozy in France, says she survived thanks to\nFrench
+french_guiana	prep_in=met=nsubj	nicolas_sarkozy	French President Nicolas Sarkozy and his Brazilian counterpart,\nLuiz Inacio Lula da Silva, met in French Guiana for closed talks\nbefore declaring they wanted to forge a "strategic alliance"\naccord this year.
+france	prep_in=met=nsubj	nicolas_sarkozy	And French President Nicolas Sarkozy and German Chancellor Angela\nMerkel met Saturday in France, putting on a show of unity the day\nbefore a Paris summit of the leaders of the 15 eurozone economies\nas well as British Prime Minister Gordon Brown.
+rimpar	prep_from=immigrated=nsubj	henry_lehman	The company's roots began in 1844 when Henry Lehman immigrated\nfrom Rimpar, Germany, to Alabama, where he established a dry\ngoods store that catered to local cotton farmers in Montgomery.
+germany	prep_from=immigrated=nsubj	henry_lehman	The company's roots began in 1844 when Henry Lehman immigrated from Rimpar, Germany to Alabama, where he established a dry goods store that catered to local cotton farmers in Montgomery.
+heiligendamm	prep_in=arrived=rcmod	bush	Bush, who arrived here late Friday following the Group of Eight\nsummit in Heiligendamm, Germany, and a brief stop in Poland,\nbegan the day with a courtesy visit to Italian President Giorgio\nNapolitano.
+germany	prep_in=arrived=rcmod	bush	President Bush, who arrived in Germany from the Czech Republic on\nTuesday, met for lunch Wednesday with German Chancellor Angela\nMerkel, the host for the gathering.
+heiligendamm	prep_in=attend=nsubj	bush	The meetings are to prepare the economic agenda for the annual\nsummit that President Bush and the other leaders will attend on\nJune 6-8 in Heiligendamm, Germany.
+germany	prep_in=attend=nsubj	bush	Bush to attend G8 summit in Germany
+wilhelmsthal	prep_in=born=nsubjpass	wolfgang_heinrich_vogel	Wolfgang Heinrich Vogel was born Oct. 30, 1925, in Wilhelmsthal,\nSilesia, then in eastern Germany.
+germany	prep_in=born=nsubjpass	wolfgang_heinrich_vogel	Wolfgang Heinrich Vogel was born Oct. 30, 1925, in Wilhelmsthal,\nSilesia, then in eastern Germany.
+siegsdorf	prep_in=died=pobj	roddie_gilliard	Black, a native of El Paso, Texas, died Saturday of cancer in\nSiegsdorf, Germany, according to Roddie Gilliard, a British\nmusician who performed with him.
+germany	prep_in=died=pobj	roddie_gilliard	He died in Siegsdorf, Germany, according to Roddie Gilliard, who\nperformed with Black in recent years as part of the Muffin Men, a\nBritish group that specialized in performing Zappa's music live.
+heiligendamm	prep_to=travel=nsubj	bush	Later Tuesday, Bush will travel to Heiligendamm in Germany for\nthe G8 summit, where he is scheduled to meet with Putin.
+germany	prep_to=travel=nsubj	bush	Bush will travel this week to Germany for the G-8 summit, a\nmeeting of leading industrial nations.
+patras	prep_in=occurred=prep_in	hania	Protests also occurred at prisons near the cities of Larisa and\nTrikala in central Greece, Patras in the southwest, Diavata near\nThessaloniki, Komotini and Corfu in northern Greece, as well as\nAlikarnassos and Hania on Crete.
+greece	prep_in=occurred=prep_in	hania	Protests also occurred at prisons near the cities of Larisa and\nTrikala in central Greece, Patras in the southwest, Diavata near\nThessaloniki, Komotini and Corfu in northern Greece, as well as\nAlikarnassos and Hania on Crete.
+iximche	dobj=visited=nsubj	bush	Bush visited Iximche, capital of the prehispanic Kaqchiqueles\nkingdom, during his daylong trip to Guatemala as part of a five-\nnation tour of Latin America.
+guatemala	dobj=visited=nsubj	bush	Two weeks ago, Bush visited Brazil, Uruguay, Colombia, Guatemala\nand Mexico, while Chavez, who claims Bush is the "devil," mounted\na road show of sorts to compete with Bush's message.
+iximche	prep_to=traveled=nsubj	bush	Bush traveled to Iximche along narrow roads that wound through\nseveral villages.
+guatemala	prep_to=traveled=nsubj	bush	Bush met with conservative Colombian President Alvaro Uribe, his\nstrongest ally in the region, in the capital of Bogota on Sunday\nand traveled to Guatemala that night.
+ahmedabad	prep_in=arrived=nsubj	sunita_williams	Sunita Williams, whose father Dr. Deepak Pandya hails from Gujarat,\narrived in Ahmedabad last week on a week-long visit to India
+india	prep_in=arrived=nsubj	sunita_williams	Indian-American astronaut Sunita Williams, who made it to the\nrecord books in June for the longest uninterrupted space flight\nby a woman, arrived in India to a hero's welcome, witnesses said.
+kerala	prep_in=born=rcmod	malil	Malil, who was born in Kerala, India, is accused of stabbing\nBeebe more than 20 times before she was discovered at her home\nlate Sunday.
+india	prep_in=born=rcmod	malil	Malil, who was born in Kerala, India, was the boyfriend of a\nwoman stabbed more than 20 times before she was discovered at her\nhome in San Marcos, northern San Diego County, late Sunday,\nofficer Phil Brust said.
+shillong	prep_in=said=nsubj	manmohan_singh	Shillong, February 27: No political party other than\nCongress believes and practises secularism and cares for\nthe people living in the Northeast, Prime Minister Manmohan\nSingh said in Shillong on Wednesday.
+india	prep_in=said=nsubj	manmohan_singh	In India, Prime Minister Manmohan Singh said he was "shocked and\nhorrified to hear of the heinous assassination," and he called\nBhutto, who had tried to improve relations between the countries,\n"irreplaceable."
+timor	nsubj=finalize=nsubj	leste	On his turn, President Horta said that Indonesia and Timor- Leste\nwould finalize their negotiation on the border demarcation that\nhas been nearly finalized now.
+indonesia	nsubj=finalize=nsubj	leste	On his turn, President Horta said that Indonesia and Timor- Leste\nwould finalize their negotiation on the border demarcation that\nhas been nearly finalized now.
+bali	prep_in=won=nsubj	davenport	Upon her return last year Davenport promptly won titles in Bali\nand Quebec City, and she has captured two titles already this\nyear, at Auckland and Memphis.
+indonesia	prep_in=won=nsubj	davenport	Davenport won the singles title at the Wismilak International in\nIndonesia last week after an absence of almost a year from the\ntour.
+bali	prep_to=goes=nsubj	rudd	She will become the\nfirst woman to be formally in charge of the country, as acting\nprime minister, when Rudd goes to Bali.
+indonesia	prep_to=goes=nsubj	rudd	Next week she will become the first\nwoman to be formally in charge of the country, as acting prime\nminister, when Rudd goes to Indonesia to attend international\nclimate change talks.
+tehran	dep=called=nsubj	mahmoud_ahmadinejad	TEHRAN -- Iranian President Mahmoud Ahmadinejad has called on\nEuropean countries not to back Washington's "unilateralist\nhegemonic" policies in the Middle East, the state television\nreported on its website on Friday.
+iran	dep=called=nsubj	mahmoud_ahmadinejad	Diplomats said the resolution was inspired by Iran, whose\nPresident Mahmoud Ahmadinejad has called the systematic murder of\nsix million Jews a "myth."
+tehran	dep=cast=nsubj	mahmoud_ahmadinejad	TEHRAN, Iran (AP) -- Iran's hard-line President Mahmoud Ahmadinejad cast doubt over the United\nStates' version of the September 11 attacks on Wednesday, calling them a pretext used to invade\nAfghanistan and Iraq.
+iran	dep=cast=nsubj	mahmoud_ahmadinejad	Diplomats said the move was aimed at Iran, whose President\nMahmoud Ahmadinejad has cast doubt on the murder of six million\nJews by the Nazis and their collaborators in World War II.
+tehran	dep=said=nsubj	mahmoud_ahmadinejad	TEHRAN -- Iranian President Mahmoud Ahmadinejad said on Sunday\nthat he was ready to talk with U.S. President George W. Bush\ndirectly, the official IRNA news agency reported.
+iran	dep=said=nsubj	mahmoud_ahmadinejad	TEHRAN, Iran -- Iranian President Mahmoud Ahmadinejad said Sunday\nthat diplomacy is the only way out of his country's standoff with\nthe West over its disputed nuclear program and insisted he was\nserious about negotiations.
+tehran	dep=vowed=nsubj	mahmoud_ahmadinejad	TEHRAN -- Iranian President Mahmoud Ahmadinejad and Qatari Emir\nSheikh Hamad bin Khalifa al-Thani on Thursday vowed to explore\nways to upgrade the Irani-Qatari relations, Iran's official IRNA\nnews agency reported.
+iran	dep=vowed=nsubj	mahmoud_ahmadinejad	TEHRAN, Iran -- President Mahmoud\nAhmadinejad vowed in a speech marking the 28th anniversary of the\nIslamic revolution here on Sunday that Iran would not stop its\nnuclear program despite a U.N. deadline next week.
+tehran	dobj=accused=nsubj	bush	Bush has sent warships to the\nwaters near Iran, is deploying the Air Force along the Iran-Iraq\nborder and repeatedly has accused Tehran of supplying Iraqi\nmilitias with weapons that are used against U.S. troops.
+iran	dobj=accused=nsubj	bush	* Finally, the same New York Times report says, &quot;Mr. Bush also accused\nIran of arming, training and financing the militias fighting against\nthe Iraqi forces&quot;;
+tehran	dobj=accused=nsubj	condoleezza_rice	On Monday, Condoleezza Rice, the U.S. secretary of state, accused\nTehran of stalling and said the United States would seek further\nsanctions if Iran ignored the two-week deadline.
+iran	dobj=accused=nsubj	condoleezza_rice	Secretary of State Condoleezza Rice accused Iran on Thursday of\ntrying to "perfect technologies that are going to lead to a\nnuclear weapon."
+tehran	dobj=accused=nsubj	george_w._bush	Iranian President Mahmoud Ahmadinejad expressed ardent support\nfor the Iraqi government on Wednesday, hours after U.S. President\nGeorge W. Bush accused Tehran of backing Shiite extremists in\nwar-torn Iraq.
+iran	dobj=accused=nsubj	george_w._bush	On Tuesday, U.S. President George W. Bush accused Iran of\nmeddling in Iraq's affairs and inciting violence in the country.
+tehran	dobj=accused=nsubj	mohamed_elbaradei	In his last report on Iran in May, IAEA chief Mohamed ElBaradei\naccused Tehran of withholding key information on the so-called\nweaponisation studies.
+iran	dobj=accused=nsubj	mohamed_elbaradei	In a new report released earlier this month, IAEA chief Mohamed\nElBaradei accused Iran of stalling his agency's six-year\ninvestigation, denying access to sites and documentation that\ncould reveal the true nature of its contested nuclear drive.
+tehran	dobj=accused=nsubj	odierno	Odierno, calling Iran the greatest long-term threat to Iraq,\naccused Tehran of trying to keep the Baghdad government weak for\nits own benefit.
+iran	dobj=accused=nsubj	odierno	Odierno, who runs day-to-day military operations in Iraq, also\naccused Iran of being involved in recent deadly attacks on\nBaghdad's high-security Green Zone, which is regularly hit by\nrocket and mortar fire from across the Tigris River.
+tehran	dobj=accuses=nsubj	george_w._bush	US President George W. Bush accuses Tehran of seeking to develop\nnuclear weapons, but Iran insists its atomic programme is purely\npeaceful.
+iran	dobj=accuses=nsubj	george_w._bush	U.S. President George W. Bush accuses Iran of "inexcusable\nbehavior."
+tehran	dobj=blamed=nsubj	siniora	Siniora has blamed Tehran and Damsacus of fomenting the unrest\nand accused the opposition of using "blackmail" to sabotage the\nParis conference "at a time we most need it and which will be a\none-time chance for Lebanon".
+iran	dobj=blamed=nsubj	siniora	Siniora himself warned that government forces will not accept\nattempts to disrupt public order and blamed Iran and Syria for\nthe nationwide strike led by Hezbollah, which is backed by the\ntwo regional allies.
+tehran	dobj=branded=nsubj	george_w._bush	The arrests came hours after US President George W. Bush branded\nTehran as "the world's leading state sponsor of terrorism," and\naccused it of backing Hamas, Hezbollah, Islamic Jihad and Shiite\nfighters killing US troops in Iraq.
+iran	dobj=branded=nsubj	george_w._bush	On a recent visit to the Gulf countries, U.S. President George W.\nBush branded Iran the leading state sponsor of terror, and said\n"all options" against Tehran remain on the table.
+tehran	dobj=denounced=nsubj	george_w._bush	Iran's leader flashed a thumbs-down Tuesday as U.S. President\nGeorge W. Bush denounced Tehran as a sponsor of global terrorism\nin his farewell address to the U.N.
+iran	dobj=denounced=nsubj	george_w._bush	Hostility has since deepened, with the late revolutionary leader\nAyatollah Ruhollah Khomeini branding the United States the "Great\nSatan" while President George W. Bush denounced Iran as part of\nan "axis of evil".
+tehran	dobj=discusses=nsubj	rice	Sarkozy, Merkel say Iran remains ' danger '  as Rice discusses\nTehran with Russia, NATO allies
+iran	dobj=discusses=nsubj	rice	Rice discusses Tibet, Iran with Chinese FM
+tehran	dobj=left=nsubj	ahmadinejad	Ahmadinejad left Tehran on Sunday for New York to attend the 63rd\nmeeting of UN General Assembly which is scheduled to open on\nSept. 23.
+iran	dobj=left=nsubj	ahmadinejad	Americans do not want\nthe relations to grow," Hosseini told reporters Sunday after\nAhmadinejad left Iran.
+tehran	dobj=left=nsubj	chavez	Chavez later on Monday afternoon left Tehran for Paris.
+iran	dobj=left=nsubj	chavez	It said Chavez then left Iran\nafter an official farewell ceremony.
+tehran	dobj=left=nsubj	mahmoud_ahmadinejad	Iranian President Mahmoud Ahmadinejad Thursday left Tehran for\nTurkey on an official visit, the official IRNA news agency\nreported.
+iran	dobj=left=nsubj	mahmoud_ahmadinejad	President Mahmoud Ahmadinejad on Sunday left Iran for the United\nStates, where he is due to address the UN General Assembly in New\nYork.
+tehran	dobj=lumped=nsubj	bush	Bush lumped Tehran and Al-Qaeda together as "two of the greatest\nthreats to America in this new century" and left little doubt\nthat he was threatening Iran with military action if it threatens\nUS interests in Iraq.
+iran	dobj=lumped=nsubj	bush	In his state-of-the union speech in 2002, Bush lumped Iraq, Iran\nand North Korea into an "axis of evil," part of a neoconservative\npolicy to promote pro-American democracy by pressuring such\nregimes until they crumble.
+tehran	dobj=persuade=nsubj	assad	But the two are also expected to discuss a request by the French\npresident that Assad help persuade Tehran to cooperate with the\ninternational community over its nuclear ambitions.
+iran	dobj=persuade=nsubj	assad	The French president asked Assad to\nstep in and persuade Iran to offer proof that it has no intention\nof developing nuclear weapons.
+tehran	dobj=put=nsubj	bush	In a stern warning to Iran days after a Jan. 6 confrontation with\nU.S. warships in the Persian Gulf, Bush put Tehran on notice that\nit needs to be careful.
+iran	dobj=put=nsubj	bush	For instance, President Bush put Iran in\nthe "axis of evil" and attacked the clerical hardliners there; and the\nBush administration has also denounced Lebanon's Hizbullah as a\nterrorist organization.
+tehran	dobj=urged=nsubj	bush	Amid escalating tensions with Iran, Bush also urged Tehran to\nfreeze uranium enrichment and warned that the United States will\n"confront those who threaten our troops" and defend its allies\nand "vital interests in the Persian Gulf."
+iran	dobj=urged=nsubj	bush	Bush also urged Iran to "verifiably suspend your nuclear\nenrichment so negotiations can begin.
+tehran	dobj=urged=nsubj	condoleezza_rice	Before nuclear talks between senior Iranian and EU negotiators,\nU.S. Secretary of State Condoleezza Rice urged Tehran on Thursday\nto heed the U.N. Security Council and freeze uranium enrichment,\nsaying Washington was ready for wide-ranging talks if it\ncomplied.
+iran	dobj=urged=nsubj	condoleezza_rice	U.S. Secretary of State Condoleezza Rice urged Iran to accept a\ndeal and halt enrichment.
+tehran	dobj=urged=nsubj	elbaradei	In September, ElBaradei praised Iran's cooperation with the\nagency so far, but urged Tehran to answer all questions --\nincluding those on reported experiments that link enrichment and\nmissile technology -- before the end of the year.
+iran	dobj=urged=nsubj	elbaradei	ElBaradei urged Iran not to speed up the process and to resolve\nits dispute with the international community over its nuclear\nprogram.
+tehran	dobj=urged=nsubj	frank-walter_steinmeier	Frank-Walter Steinmeier urged Tehran to fully disclose its\nnuclear work to the UN nuclear watchdog, during a 90-minute\nmeeting in Berlin with his Iranian opposite number Manouchehr\nMottaki, a diplomatic official said on condition of anonymity.
+iran	dobj=urged=nsubj	frank-walter_steinmeier	Germany's Foreign Minister Frank-Walter Steinmeier urged Iran to\nstop playing for time and deliver a "clear answer" to the latest\ninitiative.
+tehran	dobj=urged=nsubj	george_w._bush	President Mahmoud Ahmadinejad slammed "arrogant" Britain over\nIran's seizure of 15 British sailors even as both sides sought a\ndiplomatic solution and US President George W. Bush urged Tehran\nto back down.
+iran	dobj=urged=nsubj	george_w._bush	U.S. President George W. Bush urged Tuesday Iran to explain to\nthe world why it had a secret nuclear weapons program.
+tehran	dobj=urged=nsubj	hu_jintao	In a joint statement, Russian President Vladimir Putin and\nChinese President Hu Jintao, whose resistance to tough penalties\nagainst Iran have forced the United States, France and Britain to\naccept watered-down U.N. sanctions, urged Tehran to fulfill the\ncouncil's demands.
+iran	dobj=urged=nsubj	hu_jintao	Chinese President Hu Jintao urged Iran here Friday to make\n"serious response" to Resolution 1737 adopted by the UN Security\nCouncil last December.
+tehran	dobj=urged=nsubj	vladimir_putin	In a joint statement, Russian President Vladimir Putin and\nChinese President Hu Jintao, whose resistance to tough penalties\nagainst Iran have forced the United States, France and Britain to\naccept watered-down U.N. sanctions, urged Tehran to fulfill the\ncouncil's demands.
+iran	dobj=urged=nsubj	vladimir_putin	President Vladimir Putin has urged Iran to freeze its\ncontroversial uranium enrichment programme, Foreign Minister\nSergei Lavrov said Wednesday, Interfax reported.
+tehran	dobj=visited=nsubj	chavez	Chavez visited Tehran in\nJuly 2006, while Ahmadinejad has since been to Venezuela twice.
+iran	dobj=visited=nsubj	chavez	Chavez has visited Iran four times so far in his term as President.
+tehran	dobj=visited=nsubj	elbaradei	ElBaradei visited Tehran last week and held talks with Iranian\nPresident Mahmoud Ahmadinejad.
+iran	dobj=visited=nsubj	elbaradei	ElBaradei last visited Iran in April 2006, where he notably\nfailed to win any concession from Tehran over the question of\nenrichment.
+tehran	dobj=visited=nsubj	ivanov	Ivanov visited Tehran in February 2006 while his Iranian\ncounterpart Ali Larijani visited Moscow and talked with Russian\nPresident Vladimir Putin last November.
+iran	dobj=visited=nsubj	ivanov	Ivanov visited Iran late last month and met with Khamenei as well\nas others including Iran's top nuclear negotiator, Ali Larijani.
+tehran	dobj=visited=nsubj	pervez_musharraf	Pakistani President Pervez Musharraf visited Tehran on Monday for\na day of talks with Iranian leaders focused on his plan to find\nan Islamic solution to halt violence in the Middle East.
+iran	dobj=visited=nsubj	pervez_musharraf	Pakistani President Gen. Pervez Musharraf recently visited the\nsix countries as well as Iran and Syria for talks on settling\nconflicts in the Middle East, including fighting in Iraq and\ntensions between Washington and Tehran.
+tehran	dobj=visited=nsubj	putin	The call came about a week after Putin visited Tehran, marking\nthe first visit by a Kremlin leader to the Iranian capital in\nWorld War II.
+iran	dobj=visited=nsubj	putin	Despite the rumor Putin visited Iran and met Iranian leaders to\ndiscuss bilateral, regional and international issues.
+tehran	dobj=warned=nsubj	bush	Bush also warned Tehran of "serious consequences" if it attacked\nUS warships in the Gulf.
+iran	dobj=warned=nsubj	bush	Bush again warned Iran against meddling in Iraq, a common refrain\nthat nonetheless took on added significance on a week when Bush's\nmilitary commanders leveled new charges that Iranian roadside\nbombs were killing Americans there.
+tehran	dobj=warned=nsubj	condoleezza_rice	A day after Iran, the United States and four other powers met in\nGeneva on July 19, Secretary of State Condoleezza Rice warned\nTehran of further "punitive measures" if it failed to come up\nwith a clear response in two weeks.
+iran	dobj=warned=nsubj	condoleezza_rice	The report came hours after U.S. Secretary of State Condoleezza\nRice warned Iran that Washington will not back down in the face\nof threats against Israel.
+tehran	dobj=warned=nsubj	dick_cheney	In a speech Sunday, Vice President Dick Cheney warned Tehran of\n"serious consequences" if it continues on its present course.
+iran	dobj=warned=nsubj	dick_cheney	Bush recently evoked the frightening\npossibility of "World War III" and Vice President Dick Cheney\nwarned Iran of "serious consequences" if it built a nuclear bomb.
+tehran	dobj=warned=nsubj	javier_solana	EU foreign policy chief Javier Solana warned Tehran that the\nEuropean Union wanted to see quick progress in international\nnegotiations over its nuclear program.
+iran	dobj=warned=nsubj	javier_solana	EU foreign policy chief Javier Solana warned Iran Wednesday that\nthe European Union wanted to see progress in international\nnegotiations over its nuclear program or risk new sanctions by\nthe end of the year.
+tehran	dobj=warned=nsubj	tony_blair	British Prime Minister Tony Blair expressed disgust Friday that\nthe captured service members had been "paraded and manipulated,"\nin video footage released by Iran, and warned Tehran it faced\nincreasing isolation if it did not free them.
+iran	dobj=warned=nsubj	tony_blair	*Tony Blair, in southern Iraq, warned Syria and Iran against\ninterfering in Iraq or supporting terrorism there.
+tehran	nsubjpass=lumped=agent	george_w._bush	The two nations have had hostile relations since the 1979 Islamic\nrevolution ousted the US-backed shah and Tehran has been lumped\nby US President George W. Bush into his "axis of evil".
+iran	nsubjpass=lumped=agent	george_w._bush	Iran and North Korea were both famously lumped by US President\nGeorge W. Bush into an "Axis of Evil", although Pyongyang has in\nrecent weeks been holding talks with US officials on a nuclear\ndisarmament programme.
+tehran	nsubjpass=represented=agent	mohammed_reza_baqeri	Tehran was represented by its Deputy Foreign Minister Mohammed\nReza Baqeri, while the UN Special Representative for Iraq, Ashraf\nQazi, was also attending the high-profile gathering.
+iran	nsubjpass=represented=agent	mohammed_reza_baqeri	Iran was represented by Deputy Foreign Minister Mohammed Reza\nBaqeri who said the day's negotiations had been "successful."
+tehran	nsubj=release=dobj	faye_turney	They also advised Tehran not to release Faye Turney, the lone\nfemale sailor held captive, or show any flexibility until the\nBritish apologized for violating Iran's borders.
+iran	nsubj=release=dobj	faye_turney	Earlier on Wednesday, Iranian Foreign Ministry spokesman Mohammad\nAli Hosseini confirmed that Mottaki had announced that Iran would\nrelease British servicewoman Faye Turney on Wednesday or\nThursday.
+tehran	prep_at=hit=nsubj	bush	Bush hit out at Tehran in the speech, saying it was "today the\nworld's leading state sponsor of terror" and, with Al-Qaeda, the\nmain threat to the region's stability.
+iran	prep_at=hit=nsubj	bush	On Sunday Bush hit out at Iran in a speech in the United Arab\nEmirates, charging that Tehran had become "the world's leading\nstate sponsor of terror" and, along with Al-Qaeda, the main\nthreat to the region's stability.
+tehran	prep_for=left=nsubj	pervez_musharraf	Pakistani President General Pervez Musharraf on Monday left for\nTehran on the first leg of his two-day visit to Iran and Turkey\nfor the solution of the Palestine issue, the state-run Pakistan\nTelevision reported.
+iran	prep_for=left=nsubj	pervez_musharraf	Pakistani President Gen. Pervez Musharraf left Monday for Iran,\nthe latest in a series of trips to Muslim countries designed to\ninject new life into peace efforts in the Middle East.
+tehran	prep_from=reported=nsubj	karimi	Karimi reported from Tehran, and Reid from Amman, Jordan.
+iran	prep_from=reported=nsubj	karimi	Karimi reported from Tehran, Iran, and Harvey from Cairo, Egypt.
+tehran	prep_from=reported=nsubj	murphy	Murphy reported from London and Tehran, Iran, and Rotella from\nLondon.
+iran	prep_from=reported=nsubj	murphy	Murphy reported from London and Tehran, Iran, and Rotella from\nLondon.
+tehran	prep_from=reported=prep_from	harvey	Karimi reported from Tehran, Iran, and Harvey from Cairo, Egypt.
+iran	prep_from=reported=prep_from	harvey	Karimi reported from Tehran, Iran, and Harvey from Cairo, Egypt.
+tehran	prep_from=reported=prep_from	rotella	Murphy reported from London and Tehran, Iran, and Rotella from\nLondon.
+iran	prep_from=reported=prep_from	rotella	Murphy reported from London and Tehran, Iran, and Rotella from\nLondon.
+tehran	prep_from=returned=nsubj	putin	Monday's phone talk was their first since Putin returned to\nMoscow from Tehran.
+iran	prep_from=returned=nsubj	putin	Olmert's one-day visit was announced only after Putin had\nreturned from Iran, where he vowed Tuesday to support Iran's\npursuit of nuclear energy and warned "outside forces" -- hinting\nat the United States -- against using force against Iran.
+tehran	prep_in=arrived=nsubj	alexander_rumyantsev	Alexander Rumyantsev, head of Russia's Federal Atomic Energy  Agency,\narrived Friday in Tehran on a credibly purported mission to sign the\nimportant agreement on nuclear fuel supply to Iran's  Bushehr nuclear\npower plant.
+iran	prep_in=arrived=nsubj	alexander_rumyantsev	Russia's Atomic Energy Minister Alexander Rumyantsev arrived in Iran\nSunday to discuss nuclear energy cooperation and sign an agreement on\nsending spent nuclear fuel from a plant in southern Iran to Russia,\nstate-run Tehran radio reported.
+tehran	prep_in=arrived=nsubj	bashar_al-assad	Syrian President Bashar al-Assad arrived in Tehran on Saturday\nfor talks with staunch regional ally Iran that an official said\nwould include the Islamic republic's controversial nuclear\nambitions.
+iran	prep_in=arrived=nsubj	bashar_al-assad	Syrian President Bashar al-Assad on Saturday arrived in Iran, his\ncountry's closest regional ally, for talks with President Mahmoud\nAhmadinejad and other Iranian leaders, official media said.
+tehran	prep_in=arrived=nsubj	chavez	Chavez arrived in Tehran late Saturday for a two-day visit which\nofficials said was aimed at boosting political and economic\ncooperation between the two countries.
+iran	prep_in=arrived=nsubj	chavez	Chavez arrived in Iran on Saturday for a two-day visit, as part\nof a three-nation tour after stops in Russia and Belarus.
+tehran	prep_in=arrived=nsubj	christine_levinson	Christine Levinson and her 22-year-old son, Daniel, arrived in\nTehran on Tuesday to seek information about her husband, who was\non Kish to investigate a cigarette smuggler for a client of his\nsecurity firm.
+iran	prep_in=arrived=nsubj	christine_levinson	Christine Levinson, the wife of private investigator Robert\nLevinson, arrived in Iran with her son and sister on Tuesday to\nretrace her husband's steps during what was supposed to have been\na 24-hour trip to the southern Iranian island of Kish in March.
+tehran	prep_in=arrived=nsubj	maliki	Iraqi police and witnesses said nine civilians were killed in the\nattack, which occurred hours before Prime Minister Nouri al-\nMaliki arrived in Tehran for his second visit in less than a\nyear.
+iran	prep_in=arrived=nsubj	maliki	Maliki arrived in Iran from neighbouring Turkey where on Tuesday\nhe signed a document of cooperation to end the safe haven that\nseparatist Turkish Kurd rebels enjoy in Kurdish-run northern\nIraq.
+tehran	prep_in=arrived=nsubj	nuri_al-maliki	The renewed US accusations of Iranian interference -- which are\nroutinely denied by Tehran -- came as Iraqi Prime Minister Nuri\nal-Maliki arrived in Tehran for talks on ways to improve security\nin the country.
+iran	prep_in=arrived=nsubj	nuri_al-maliki	It opened just as Iraqi Prime Minister Nuri al-Maliki arrived in\nIran on a visit aimed at winning Tehran's full support for\nrestoring security to his war-torn country and continuing talks\nwith the United States.
+tehran	prep_in=arrived=nsubj	vladimir_putin	Russian President Vladimir Putin arrived in Tehran on Tuesday\nmorning for a landmark visit despite warnings of a possible\nassassination plot.
+iran	prep_in=arrived=nsubj	vladimir_putin	Iranian state media also reported Putin had arrived at Mehrabad\nairport in the Iranian capital, while the state broadcasting said\non its website that "President Vladimir Putin arrived in Iran in\nthe last minutes."
+tehran	prep_in=arrives=nsubj	assad	Update: Syrian President Assad arrives in Tehran to discuss\nMideast issues
+iran	prep_in=arrives=nsubj	assad	Syria's Assad arrives in Iran
+tehran	prep_in=arrives=nsubj	putin	Update: Russian President Putin arrives in Tehran
+iran	prep_in=arrives=nsubj	putin	Russian leader Putin arrives in Iran for historic visit despite\nassassination warning
+tehran	prep_in=born=nsubjpass	dejagah	Dejagah was born in Tehran and he explained his Iranian roots\nmeant he would not be able to play in Israel.
+iran	prep_in=born=nsubjpass	dejagah	Dejagah, 21, was born in Iran and moved to Germany\nwith his parents.
+tehran	prep_in=born=rcmod	james	Security sources said the actions of James, who was born in Tehran, had been a serious embarrassment for the British Army and undermined relations with allies, who might feel constrained from sharing future intelligence.
+iran	prep_in=born=rcmod	james	James, 45, who was born in Iran but moved to Britain as a\nteenager, denied the charges.
+tehran	prep_in=contributed=nsubj	hassan_sarbakhshian	Associated Press writers Hassan Sarbakhshian and Nasser Karimi in\nTehran, Iran, and Jim Krane in Muscat, Oman, contributed to this\nreport.
+iran	prep_in=contributed=nsubj	hassan_sarbakhshian	Associated Press writers Hassan Sarbakhshian and Nasser Karimi in\nTehran, Iran, and Jim Krane in Muscat, Oman, contributed to this\nreport.
+tehran	prep_in=contributed=nsubj	nasser_karimi	Associated Press writers Hassan Sarbakhshian and Nasser Karimi in\nTehran, Iran, and Jim Krane in Muscat, Oman, contributed to this\nreport.
+iran	prep_in=contributed=nsubj	nasser_karimi	Associated Press writers Nasser Karimi and Ali Akbar Dareini in\nIran and David McHugh in Germany contributed to this report.
+tehran	prep_in=contributed=prep_in	jim_krane	Associated Press writers Hassan Sarbakhshian and Nasser Karimi in\nTehran, Iran, and Jim Krane in Muscat, Oman, contributed to this\nreport.
+iran	prep_in=contributed=prep_in	jim_krane	Associated Press writers Hassan Sarbakhshian and Nasser Karimi in\nTehran, Iran, and Jim Krane in Muscat, Oman, contributed to this\nreport.
+evin_prison	prep_in=held=nsubjpass	ali_shakeri	Ali\nShakeri, a California businessman, and Kian Tajbakhsh, an Open\nSociety Institute consultant and social scientist, are being held\nin Evin Prison, where Ms. Esfandiari was jailed.
+iran	prep_in=held=nsubjpass	ali_shakeri	Ali\nShakeri, of the Center for Citizen Peacebuilding at the\nUniversity of California, Irvine, is also being held in Iran.
+tehran	prep_in=jailed=nsubjpass	haleh_esfandiari	Haleh Esfandiari, an Iranian-American academic well-known in\nWashington where she leads a Middle East studies program, was\njailed in Tehran after being barred from leaving the country four\nmonths ago, The New York Times reported.
+iran	prep_in=jailed=nsubjpass	haleh_esfandiari	Also jailed in Iran are American scholar Haleh Esfandiari,\ndirector of Middle East programs at the Woodrow Wilson\nInternational Center for Scholars, and social scientist Kian\nTajbakhsh.
+isfahan	prep_in=said=nsubj	ahmadinejad	"If you think that by bombing and assassinating Palestinian\nleaders you are preparing ground for new attacks on Lebanon in\nthe summer, I am telling you that you are seriously wrong,"\nAhmadinejad said in Isfahan.
+iran	prep_in=said=nsubj	ahmadinejad	In Iran, Ahmadinejad said the disputed nuclear program was\ncrucial for his country's development and would not be\nrelinquished.
+tehran	prep_in=said=nsubj	ahmadinejad	Meanwhile in Tehran, Ahmadinejad also said Iran was willing to\nresume negotiations, although both he and Larijani rejected a\ncondition for talks set by the U.N. Security Council that Iran\nfirst freeze its uranium enrichment program.
+iran	prep_in=said=nsubj	ahmadinejad	In Iran, Ahmadinejad said the disputed nuclear program was\ncrucial for his country's development and would not be\nrelinquished.
+tehran	prep_in=said=nsubj	ayatollah_ali_khamenei	In Tehran, Ayatollah Ali Khamenei, Iran's supreme leader, said on\nWednesday that his country had "clearly defined red lines" that\nhad to be respected in negotiations, a reference to Iran's\ninsistence that it has the right to peaceful nuclear energy.
+iran	prep_in=said=nsubj	ayatollah_ali_khamenei	In Iran, Ayatollah Ali Khamenei said in a speech that the\nconference "has already failed" and that the U.S. was only trying\nto preserve its reputation.
+tehran	prep_in=said=nsubj	mahmoud_ahmadinejad	And in Tehran, Iranian President Mahmoud Ahmadinejad said\nWednesday that Israel is dying and that its 60th anniversary\ncelebrations are an attempt to prevent its "annihilation."
+iran	prep_in=said=nsubj	mahmoud_ahmadinejad	Meanwhile in Iran, President Mahmoud Ahmadinejad said on Saturday\nthat the oil- producing country had boosted the number of\nuranium-enriching centrifuges to up to 6,000, in an expansion of\nits nuclear drive that defies international calls for a freeze.
+tehran	prep_in=said=nsubj	manouchehr_mottaki	On Wednesday, Iranian Foreign Minister Manouchehr Mottaki said in\nTehran no one should see a bad intention behind the fact that\nAhmadinejad's meetings with Turkish officials will take place in\nIstanbul, rather than in Turkey's capital.
+iran	prep_in=said=nsubj	manouchehr_mottaki	In Iran, Foreign Minister Manouchehr Mottaki said\nthe U.S. raid constituted an intervention in Iranian-Iraqi\naffairs.
+tehran	prep_in=said=nsubj	mohammad_ali_hosseini	In Tehran, Mohammad Ali Hosseini, an Iranian Foreign Ministry\nspokesman, said that his country was willing to continue the\ndialogue and that "we support any efforts that will bring Iraq\nout of its current problems."
+iran	prep_in=said=nsubj	mohammad_ali_hosseini	In Iran, Foreign Ministry spokesman Mohammad Ali Hosseini said\nthe deal was an "example of regional integration for achieving\nstability and tranquility."
+tehran	prep_in=said=nsubj	saeed_jalili	In Tehran, Iran's top nuclear negotiator Saeed Jalili said in\nremarks carried by state television Saturday that the new\nresolution would cause "mistrust" and would not help global peace\nand security.
+iran	prep_in=said=nsubj	saeed_jalili	In Iran, chief nuclear negotiator Saeed Jalili said the report\nshowed that Iran had been transparent, but hinted that Tehran\nwould halt its cooperation if more sanctions were imposed.
+tehran	prep_in=told=nsubj	ahmadinejad	Ahmadinejad told journalists in Tehran on Tuesday: "We do not\ntake these declarations seriously.
+iran	prep_in=told=nsubj	ahmadinejad	And, in northern Iran, Ahmadinejad told a crowd of thousands:\n"The Iranian nation has resisted all bullies and corrupt powers\nand it will fully defend all its rights," according to state\ntelevision.
+tehran	prep_in=told=nsubj	mahmoud_ahmadinejad	In Tehran, President Mahmoud Ahmadinejad told a rally\non Sunday that the country would not give up uranium enrichment\nbut was prepared to talk with the international community.
+iran	prep_in=told=nsubj	mahmoud_ahmadinejad	In central Iran, President Mahmoud Ahmadinejad reportedly told a\nrally that ``issuing such torn pieces of paper . . . will not\nhave an impact on (the) Iranian nation's will,'' according to the\nofficial news agency, IRNA.
+tehran	prep_in=warned=nsubj	mahmoud_ahmadinejad	Iranian President Mahmoud Ahmadinejad warned last week in Tehran\nthat Iran has "broken through to a new stage and it is too late\nto push us back."
+iran	prep_in=warned=nsubj	mahmoud_ahmadinejad	In Iran on Wednesday, President Mahmoud Ahmadinejad warned that\nthose imposing pressure on Iran on enrichment will suffer even as\nhe said that his country remained prepared to discuss its nuclear\nactivities with the outside world.
+evin_prison	prep_in=was=nsubj	akbar_ganji	Akbar Ganji, an Iranian journalist and dissident, was in Evin\nPrison from 2000 to 2006.
+iran	prep_in=was=nsubj	akbar_ganji	Akbar Ganji was in prison in Iran for several years...
+tehran	prep_in=was=nsubj	esfandiari	Esfandiari, who runs the Middle East program at the Smithsonian's\nWoodrow Wilson International Center for Scholars, was in Tehran\nvisiting her 93-year-old mother.
+iran	prep_in=was=nsubj	esfandiari	Esfandiari, a 67-year-old grandmother who is a dual U.S. and\nIranian national, was originally in Iran to take care of her 93\n-year-old mother when her passport was taken in a robbery as she\nwas en route to the airport Dec. 30.
+tehran	prep_in=was=nsubj	sadr	It was unclear however if Sadr was in Tehran or the holy\nIranian city of Qom.
+iran	prep_in=was=nsubj	sadr	An adviser to Iraq's prime minister said last Thursday that al-\nSadr was in Iran, but denied that the cleric had fled there due\nto fear of arrest during a security crackdown.
+tehran	prep_to=came=nsubj	hoshyar_zebari	Last week Iraqi Foreign Minister Hoshyar Zebari came to Tehran to\npersuade the government to attend the conference, and told\nreporters Iran's participation was "vital."
+iran	prep_to=came=nsubj	hoshyar_zebari	Iraqi Foreign Minister Hoshyar Zebari came to Iran on Wednesday\ntrying to convince Tehran to participate in the conference, which\nthe United States is attending, along with top U.N. powers.
+tehran	prep_to=send=dobj	philippe_douste-blazy	But Chirac was so eager to secure Iran's\nsupport on Lebanon, where about 1,700 French troops are stationed\nas U.N. peacekeepers, that earlier this month he arranged to send\nForeign Minister Philippe Douste-Blazy to Tehran.
+iran	prep_to=send=dobj	philippe_douste-blazy	PRESIDENT Jacques Chirac of France is not the first statesman to\nlose his touch at the end of a long reign, but his recently\nsuspended plan to send foreign minister Philippe Douste-Blazy to\nIran later this month qualifies as an extreme example of that\ncommon syndrome.
+tehran	prep_to=travel=nsubj	levinson	Levinson, her 22-year-old son, Daniel, and other relatives will\ntravel to Tehran in mid-December and will stay about one week.
+iran	prep_to=travel=nsubj	levinson	Iranian authorities agreed in September to let Mrs. Levinson\ntravel to Iran even though they said the Swiss Embassy in Tehran,\nwhich handles U.S. interests with the Islamic republic, had been\ninformed repeatedly that no sign of his presence in Iran had been\nfound.
+tehran	prep_to=went=nsubj	daqduq	Daqduq went to Tehran in 2006 with Yussef Hashim, another\nHezbollah operative who serves as the head of the group's\noperations in Iraq.
+iran	prep_to=went=nsubj	daqduq	Daqduq allegedly commanded a Hezbollah special operations group,\nprovided security for the militia's leader, Hasan Nasrallah, and\nin May 2006 went to Iran to work with the Quds Force to train\nIraqi Shiite militiamen, which Bergner described as ``special\ngroups.''
+tehran	prep_with=developing=prep_until	shah	Israel was an ally of Iran's imperial regime of shah Mohammad\nReza Pahlavi, developing close military and economic ties with\nTehran until the shah's overthrow in the Islamic revolution of\n1979.
+iran	prep_with=developing=prep_until	shah	Israel was an ally of the imperial regime of shah Mohammad Reza\nPahlavi, developing close military and economic ties with Iran\nuntil the shah's overthrow in the Islamic revolution of 1979.
+tehran	rcmod=called=dobj	mahmoud_ahmadinejad	Tehran, whose President Mahmoud Ahmadinejad has called for the\ndestruction of the Jewish state, has refused to suspend its\nuranium enrichment programme and insists its nuclear ambitions\nare purely peaceful.
+iran	rcmod=called=dobj	mahmoud_ahmadinejad	Iran, whose President Mahmoud Ahmadinejad has repeatedly called\nfor Israel to be "wiped off the map," belongs to the 57-member\nIslamic conference.
+tehran	rcmod=called=nsubj	mahmoud_ahmadinejad	Tehran, whose President Mahmoud Ahmadinejad has called for the\ndestruction of the Jewish state, has refused to suspend its\nuranium enrichment programme and insists its nuclear ambitions\nare purely peaceful.
+iran	rcmod=called=nsubj	mahmoud_ahmadinejad	Iran, whose President Mahmoud Ahmadinejad has repeatedly called\nfor Israel to be "wiped off the map," belongs to the 57-member\nIslamic conference.
+tehran	rcmod=described=nsubj	bush	And despite tensions with Iran over Lebanon, Riyadh is unlikely\nto endorse Washington's tough line on Tehran, which Bush has\ndescribed as the "single biggest threat" to peace in the region,\nthey told AFP.
+iran	rcmod=described=nsubj	bush	Little is known about Chavez's plans in Iran, which Bush once\ndescribed as part of an "axis of evil" and is now locked in an\ninternational dispute over its nuclear ambitions.
+tehran	rcmod=met=dobj	mahmoud_ahmadinejad	Musharraf flew in from Tehran, where he had met Iranian President\nMahmoud Ahmadinejad, and was due to meet his Turkish counterpart\nAhmet Necdet Sezer, the Anatolia news agency reported.
+iran	rcmod=met=dobj	mahmoud_ahmadinejad	Calmy-Rey defended her trip to Iran, where she met Iran's\nhardline President Mahmoud Ahmadinejad and witnessed the signing\nof the gas accord.
+sadr_city	ccomp=said=nsubj	zebari	It's near Sadr City,\nwhich is a Shia- dominated area controlled by mainly Moqtada al-\nSadr's organization, the Mahdi army, who have been very active\nthere," Zebari said.
+iraq	ccomp=said=nsubj	zebari	Iraq and its neighbors have held nine meetings, Zebari said.
+basra	dobj=visited=rcmod	brown	Brown, who visited Baghdad and Basra on Saturday, gave no\nspecifics on the number of troops likely to be pulled out, but\nstressed Britain's role in Iraq would be markedly different from\nin the past.
+iraq	dobj=visited=rcmod	brown	Brown, who last week visited Iraq and announced that 1,000 fewer\nsoldiers would be in the country by the end of the year, said the\ndecision was made because the Iraqis themselves were able to run\ntheir own security.
+basra	nsubj=contributed=nsubj	saad_sarhan	Special correspondents Aahad Ali in Basra, Naseer Nouri, Zaid\nSabah, K.I. Ibrahim in Baghdad and Saad Sarhan in Najaf\ncontributed to this report.
+iraq	nsubj=contributed=nsubj	saad_sarhan	Staff writer Ann Scott Tyson in\nWashington, special correspondent Saad Sarhan in Najaf, Iraq, and\nother Washington Post staff in Iraq contributed to this report.
+mosul	prep_from=returned=nsubj	ham	Ham arrived\nat the scene 20 minutes later to find the devastation.When Ham\nreturned from Mosul to Fort Lewis, Wash., in February 2005, something\nin the affable officer was missing.
+iraq	prep_from=returned=nsubj	ham	Anxiety after coming homeAfter\nHam returned from Iraq, he joined the Joint staff at the Pentagon.
+mosul	prep_in=apprehended=nsubjpass	watban_ibrahim_hasan_al-tikriti	Barzan Ibrahim, 53, was the second of Saddam's three half brothers to\nbe taken into custody; former Interior Minister Watban Ibrahim Hasan\nal-Tikriti was apprehended last week in Mosul in northern Iraq.
+iraq	prep_in=apprehended=nsubjpass	watban_ibrahim_hasan_al-tikriti	Barzan Ibrahim, 53, was the second of Saddam's three half brothers to\nbe taken into custody; former Interior Minister Watban Ibrahim Hasan\nal-Tikriti was apprehended last week in Mosul in northern Iraq.
+mosul	prep_in=arrived=nsubj	gates	Gates arrived in Mosul at midmorning Wednesday and planned a full\nday of meetings with his military commanders and Iraqi officials.
+iraq	prep_in=arrived=nsubj	gates	Gates arrived in Iraq early Wednesday and stopped at the volatile\nnorthern city of Mosul before came to Baghdad.
+nasiriyah	prep_in=arrived=nsubj	kouchner	Kouchner arrived in Nasiriyah in southern Iraq at the start of a\ntwo-day trip during which he held talks with Vice President Adel\nAbdel Mahdi, said a diplomatic source who asked not to be named.
+iraq	prep_in=arrived=nsubj	kouchner	Kouchner arrived in Nasiriyah in southern Iraq at the start of a\ntwo-day trip during which he held talks with Vice President Adel\nAbdel Mahdi, said a diplomatic source who asked not to be named.
+basra	prep_in=arrived=rcmod	browne	According to media reports, a British military spokesman in\nsouthern Iraq said that Browne, who arrived in Basra late on\nTuesday, discussed with the British Commander in southern Iraq,\nMajor-General Jonathan Shaw, the handover of the security in\nBasra to Iraqis.
+iraq	prep_in=arrived=rcmod	browne	Browne, who arrived in Iraq unannounced on Monday, was making his\nfourth trip to the country, and said that he was "confident" that\ncoalition forces were helping Iraqi authorities deal with the\n"serious challenges" still present there.
+mosul	prep_in=born=rcmod	al-banna	Al-Banna, who was born in Mosul, in northern Iraq, and moved to the\nUnited States in 1966, wasn't sure at first that he wanted to live in\na rural enclave dominated by tobacco farmers and watermen.
+iraq	prep_in=born=rcmod	al-banna	Al-Banna, who was born in Mosul, in northern Iraq, and moved to the\nUnited States in 1966, wasn't sure at first that he wanted to live in\na rural enclave dominated by tobacco farmers and watermen.
+anbar	prep_in=called=nsubj	petraeus	The increase of U.S. troops in Iraq so far had produced what\nPetraeus yesterday called ``slow progress'' and ``a bit of\ntraction'' in the Baghdad plan and in especially in Anbar.
+iraq	prep_in=called=nsubj	petraeus	During a day of hearings against the backdrop of a heated\ncampaign for the White House, Petraeus called security in Iraq\n"significantly better" than before last year's troop buildup but\nstill "fragile and reversible."
+anbar	prep_in=cited=nsubj	petraeus	Petraeus and Crocker took issue with the portrayal of last week's\nPentagon report as overwhelmingly negative and cited successes in\nAnbar and in some Baghdad neighborhoods.
+iraq	prep_in=cited=nsubj	petraeus	In making his case for   withdrawal, Petraeus cited improvements\nin Iraqi security forces, cooperation by Sunni sheiks in Anbar\nprovince and successes   against extremists and al-Qaida\noperatives in Iraq.
+kut	prep_in=commands=rcmod	pawel_lamla	SCIRI controls the provincial council, but al-\nSadr forces are popular on the streets and have infiltrated the\npolice, said Polish Maj. Gen. Pawel Lamla, who commands the 1,500\nforeign troops in both Diwaniyah and Kut.
+iraq	prep_in=commands=rcmod	pawel_lamla	Gen. Pawel Lamla, who commands the Polish troops in Iraq, told\nPoland's PAP news agency that the intensified attacks have come\nas insurgents have turned their attention to the south amid\nincreased U.S. pressure on them in Baghdad.
+najaf	prep_in=contributed=nsubj	saad_sarhan	Special correspondent Saad Sarhan in Najaf and other Washington\nPost staff in Iraq contributed to this report.
+iraq	prep_in=contributed=nsubj	saad_sarhan	Special correspondent Saad Sarhan in Najaf and other Washington\nPost staff in Iraq contributed to this report.
+basra	prep_in=killed=nsubjpass	thomas	Reg Keys -- whose son Thomas was killed while on active service\nin Basra in 2003 -- said he found the decision distasteful.
+iraq	prep_in=killed=nsubjpass	thomas	Reg Keys, whose son Thomas was killed in Iraq four years ago,\nsaid he believed the government was using the sailors to pursue a\npropaganda battle with Iran, and he found that offensive.
+sadr_city	prep_in=kill=prep_by	ammar_karim	Fierce clashes kill 45 in Baghdad's Sadr City by Ammar Karim
+iraq	prep_in=kill=prep_by	ammar_karim	Suicide blasts against police kill 23 in Iraq by Ammar Karim
+basra	prep_in=launched=nsubj	nouri_al-maliki	Prime Minister Nouri al-Maliki launched the campaign last month\nin Basra with the stated aim of eliminating militias and gangs,\nthough most of the fighting appeared to focus on Sadrists.
+iraq	prep_in=launched=nsubj	nouri_al-maliki	Heavy fighting broke out between Mahdi Army forces and Iraqi security\nmembers in Basra on Tuesday after Prime Minister Nouri al-Maliki\nlaunched a crackdown on &quot;armed groups&quot; in Iraq.
+sadr_city	prep_in=launched=nsubj	nouri_al-maliki	Prime Minister Nouri al-Maliki launched crackdowns in Basra and\nSadr City in late March and early April aimed at putting down\nShiite militiamen.
+iraq	prep_in=launched=nsubj	nouri_al-maliki	Heavy fighting broke out between Mahdi Army forces and Iraqi security\nmembers in Basra on Tuesday after Prime Minister Nouri al-Maliki\nlaunched a crackdown on &quot;armed groups&quot; in Iraq.
+basra	prep_in=met=nsubj	obama	In Basra, on his second trip to Iraq after a similar\nCongressional fact-finding tour in January 2006, Obama met\nLieutenant General Lloyd Austin, the number two commander of US\nforces in Iraq.
+iraq	prep_in=met=nsubj	obama	Obama also met with leaders in Iraq,\nAfghanistan, Jordan and Israel, as well as with Palestinian\nleaders.
+basra	prep_in=ordered=nsubj	maliki	Mahdi Army militiamen have been battling Iraqi troops in the two\nShiite strongholds since March 25, when Maliki ordered a\ncrackdown on militiamen in Basra.
+iraq	prep_in=ordered=nsubj	maliki	On Tuesday, Maliki ordered the closure of all offices of the PKK\nin Iraq in what was seen as a concession to intense pressure from\nWashington and Ankara following deadly attacks by the rebels\nagainst the Turkish army.
+mosul	prep_in=ordered=nsubj	maliki	Maliki ordered security forces in Mosul, capital of restive\nNineveh province, to set up a committee to investigate the crime,\na statement from his office said.
+iraq	prep_in=ordered=nsubj	maliki	On Tuesday, Maliki ordered the closure of all offices of the PKK\nin Iraq in what was seen as a concession to intense pressure from\nWashington and Ankara following deadly attacks by the rebels\nagainst the Turkish army.
+najaf	prep_in=preached=nsubj	sad_al-din_al-qubanji	In Najaf, Sad al-Din al-Qubanji of the Supreme Council for Islamic\nRevolution in Iraq preached at the mosque attached to the shrine of\nImam Ali.
+iraq	prep_in=preached=nsubj	sad_al-din_al-qubanji	In Najaf, Sad al-Din al-Qubanji of the Supreme Council for Islamic\nRevolution in Iraq preached at the mosque attached to the shrine of\nImam Ali.
+mosul	prep_in=served=nsubj	ham	Ham served as the U.S. commander in Mosul in northern Iraq from\n2004-05.
+iraq	prep_in=served=nsubj	ham	Ham served as the U.S. commander in Mosul in northern Iraq from\n2004-05.
+mosul	prep_in=served=rcmod	bensley	Bensley, who served in\nsouthern Iraq, Mosul and Diyala province, is in debt, trying to\npay for college.
+iraq	prep_in=served=rcmod	bensley	Bensley, who served in\nsouthern Iraq, Mosul and Diyala province, is in debt, trying to\npay for college.
+mosul	prep_in=spent=rcmod	petraeus	Petraeus, who spent 2003 commanding the 101st Airborne Division\nin Mosul, grew dismayed by the heavy-handed tactics fellow\nmilitary commanders were using to combat insurgents.
+iraq	prep_in=spent=rcmod	petraeus	Petraeus, who has spent four years in Iraq on three separate\ntours of duty, has been nominated to become the commander of\nCentral Command, or CENTCOM, the Tampa.
+anbar	prep_to=accompanied=dobj	bush	Rice's visit was her first since she accompanied Bush to Anbar in\nwestern Iraq, and her first to Baghdad since the early weeks of\nthe troops escalation last spring.
+iraq	prep_to=accompanied=dobj	bush	Secretary of State Condoleezza Rice, who had accompanied Bush to\nIraq, said "this act of terrorism can only be seen as an attempt\nto silence and intimidate those who are determined to build a\npeaceful, unified, and stable Iraq.
+basra	prep_to=deployed=nsubjpass	harry	Royal officials announced Thursday that 22-year-old Harry would\nbe deployed to Basra, confirming the tabloid speculation about\nthe future of the best-recognized tank commander in Britain.
+iraq	prep_to=deployed=nsubjpass	harry	The head of the British Army General Sir Richard Dannatt said\nMonday that Prince Harry will be deployed to Iraq with his\nregiment as planned.
+basra	prep_to=flew=nsubj	blair	After his brief visit to the Green Zone on Saturday, Blair flew\nto Basra, Iraq's second-largest city, 550 kilometers (340 miles)\nsoutheast of Baghdad.
+iraq	prep_to=flew=nsubj	blair	She said Blair flew to Iraq\ndirectly from Washington, where he met last week with President\nBush.
+fallujah	prep_to=flew=nsubj	gates	Gates flew to Fallujah in Iraq's Sunni-dominated Anbar province,\nwhere he said a decline in violence and an increase in locally\nrecruited security forces were encouraging.
+iraq	prep_to=flew=nsubj	gates	Gates flew to Iraq from\nAfghanistan, where on Tuesday he heard appeals from senior Afghan\nleaders for more money and weapons to combat the recent rise in\ninsurgent activity there.
+mosul	prep_to=flew=nsubj	gates	Earlier in the day, Rayyan said that Gates flew to Mosul, some\n400 km north of Baghdad, after he paid a visit to Afghanistan\nwhere he urged the international community to curb the escalating\nviolence there.
+iraq	prep_to=flew=nsubj	gates	Gates flew to Iraq from\nAfghanistan, where on Tuesday he heard appeals from senior Afghan\nleaders for more money and weapons to combat the recent rise in\ninsurgent activity there.
+anbar	prep_to=made=nsubj	bush	A week later, Bush made a surprise visit to\nAnbar where he met with Maliki and the others to congratulate\nthem, then met with the sheiks to highlight the success of the\nU.S.-tribal coalition.
+iraq	prep_to=made=nsubj	bush	A day after President Bush made an unannounced visit to Iraq, the\nlatest by U.S. officials pressing Prime Minister Nouri al- Maliki\nto hasten political progress, none of the bills seen as crucial\nto driving national reconciliation came up for discussion.
+mosul	prep_to=paid=nsubj	bamir_topi	Albanian President Bamir Topi paid a surprise visit to Mosul\nSunday to visit the 120 Albanian troops stationed there.
+iraq	prep_to=paid=nsubj	bamir_topi	Albanian President Bamir Topi paid a surprise visit to Iraq on\nSunday, saying his country is willing to contribute more troops\nto Iraq, a statement from the president' s press office said on\nMonday.
+nasiriyah	prep_to=sent=nsubj	berlusconi	Then Berlusconi\nstrongly backed Bush, and sent Italian troops to Nasiriyah (where o26\nof them have been killed).
+iraq	prep_to=sent=nsubj	berlusconi	Berlusconi sent troops to Iraq over fierce opposition, but\nbegan to withdraw them before his term ended.
+abu_ghraib	rcmod=wants=nsubj	bush	You might think we are talking about that one cell block in Abu\nGhraib, where President Bush wants the world to believe a few\nrogue soldiers dreamed up a sadistic nightmare.
+iraq	rcmod=wants=nsubj	bush	I'm\ndisappointed they don't immediately stop the troops from going to\nIraq that Bush wants.
+sderot	dobj=left=nsubj	olmert	Shortly after Olmert left Sderot, a rocket hit a synagogue in the\ntown, causing damage.
+israel	dobj=left=nsubj	olmert	Olmert left Israel for Ankara, where he is to meet members of the\nTurkish Jewish community late Wednesday ahead of talks on\nThursday with Prime Minister Recep Tayyip Erdogan, Foreign\nMinister Abdullah Gul and other senior officials.
+masada	dobj=toured=nsubj	bush	Before his planed Knesset address, Bush toured Masada, the\nancient fortress on a plateau in the desert overlooking the Dead\nSea.
+israel	dobj=toured=nsubj	bush	But  early this month, as President\nBush toured Israel and the West Bank, officials made clear that\nthe deal he's now talking about is not a long-awaited final\nagreement but a preliminary pact aimed at setting the terms for\ntalks.
+capernaum	dobj=visited=nsubj	bush	Bush visited Capernaum, a site where Jesus is said to have\nperformed miracles.
+israel	dobj=visited=nsubj	bush	Indeed, when Bush visited Israel in January, Olmert called the U.S.\npresident &quot;my confidante.&quot;
+rosh_hanikra	nsubj=cross=nsubj	samir_kantar	ROSH HANIKRA, Israel -- Lebanese militant Samir Kantar and four\nother prisoners cross into a buffer zone between Lebanon and\nIsrael, part of a dramatic prisoner swap that also involved the\nreturn of two dead Israeli soldiers to the Jewish state.
+israel	nsubj=cross=nsubj	samir_kantar	ROSH HANIKRA, Israel -- Lebanese militant Samir Kantar and four\nother prisoners cross into a buffer zone between Lebanon and\nIsrael, part of a dramatic prisoner swap that also involved the\nreturn of two dead Israeli soldiers to the Jewish state.
+beersheba	prep_in=told=nsubj	matan_vilnai	"There's no doubt we are approaching a huge military operation in\nthe Gaza Strip," Deputy Defence Minister Matan Vilnai told the\nstation in Beersheba.
+israel	prep_in=told=nsubj	matan_vilnai	In Israel, Deputy Defence Minister Matan Vilnai told army radio\nthat "we will not shy away from any action" to halt the near-\ndaily rocket fire from Gaza.
+sderot	prep_in=visited=nsubj	obama	In Sderot, Obama visited a family whose home was destroyed by a\nrocket.
+israel	prep_in=visited=nsubj	obama	In Israel on Wednesday, Obama visited two of the country's most\nsymbolically important places: the Yad Vashem Holocaust museum in\nJerusalem and the town of Sderot in southern Israel, which has\nendured years of rocket fire from militants across the border in\nGaza.
+sderot	prep_to=came=rcmod	eliyahu_cohen	Eliyahu Cohen, who came to Israel from Morocco in 1956, and to\nSderot in 1960, said he had no intention of leaving this town of\nabout 24,000.
+israel	prep_to=came=rcmod	eliyahu_cohen	Eliyahu Cohen, who came to Israel from Morocco in 1956, and to\nSderot in 1960, said he had no intention of leaving this town of\nabout 24,000.
+sderot	prep_to=traveled=nsubj	obama	Obama traveled to Sderot by helicopter with Foreign Minister\nTzipi Livni "to see firsthand the topography, the terrain, and\nthe strategic implications of the terrain," according to Rice.
+israel	prep_to=traveled=nsubj	obama	Obama traveled on to Israel with a contingent of foreign policy\nexperts.
+capernaum	prep_to=went=nsubj	bush	In January, his first\nvisit here as president, Bush went to Capernaum and the nearby\nSea of Galilee, retracing the steps of Jesus and his disciples.
+israel	prep_to=went=nsubj	bush	In a\npowerful sign of support, President Bush went to Israel and the\nWest Bank.
+liguria	prep_in=carried=prep_in	emilia_romagna	In Italy, searches were being carried out in northern Lombardy,\nLiguria and Emilia Romagna, Sky said.
+italy	prep_in=carried=prep_in	emilia_romagna	In Italy, searches were being carried out in northern Lombardy,\nLiguria and Emilia Romagna, Sky said.
+lombardy	prep_in=carried=prep_in	emilia_romagna	In Italy, searches were being carried out in northern Lombardy,\nLiguria and Emilia Romagna, Sky said.
+italy	prep_in=carried=prep_in	emilia_romagna	In Italy, searches were being carried out in northern Lombardy,\nLiguria and Emilia Romagna, Sky said.
+bormio	prep_in=won=nsubj	miller	In 2005, Miller won gold in the downhill and\nsuper-G in Bormio, Italy.
+italy	prep_in=won=nsubj	miller	Miller won two of the five super-G events this season, in Val\nGardena, Italy, and Hinterstoder, Austria, in December.
+yasukuni_shrine	dobj=visited=nsubj	lee	Beijing also rebuked Japan after Lee visited Tokyo's\ncontroversial Yasukuni Shrine, which honors Japan's war dead,\ncomplicating relations between Beijing and Tokyo.
+japan	dobj=visited=nsubj	lee	Lee visited Japan earlier this month for a three-way summit with\nAso and Chinese Prime Minister Wen Jiabao, symbolising an era of\nsmoother relations among the Northeast Asian neighbours.
+kyoto	dobj=visit=nsubj	wen	He also confirmed that Wen would visit Kyoto besides Tokyo during\nhis tour.
+japan	dobj=visit=nsubj	wen	"Premier Wen will visit the Republic of Korea from April 10-11\nand visit Japan from April 11-13," spokesman Qin Gang said.
+morioka	prep_at=triumphed=nsubj	kjetil_andre_aamodt	Lasse Kjus won\nin 1999 at Vail, Colorado, and Kjetil Andre Aamodt triumphed in\n1993 at Morioka, Japan.
+japan	prep_at=triumphed=nsubj	kjetil_andre_aamodt	Lasse Kjus won the title in 1999 at Vail, Colorado, and Kjetil\nAndre Aamodt triumphed in 1993 at Morioka, Japan.
+toyako	prep_in=arrived=nsubj	george_w._bush	U.S. President George W. Bush arrived in Toyako as the first\nmarch was being held.
+japan	prep_in=arrived=nsubj	george_w._bush	US President George W. Bush arrived in  Japan on Sunday for talks\nwith Prime Minister Yasuo Fukua on the next steps in the North\nKorean nuclear dispute as well as a summit of industrialized\nnations.ok/th
+sapporo	prep_in=arrived=nsubj	hu	President Hu arrived Monday in Sapporo, capital of Japan's\nHokkaido, for the Outreach Session of the G8 summit, which\ndiscussed pressing global issues such as the world economy,\nclimate change and energy security.
+japan	prep_in=arrived=nsubj	hu	On Saturday morning, Hu arrived in Japan's ancient capital Nara\nfor a tour.
+okinawa_prefecture	prep_in=arrived=nsubj	lee	Lee arrived Monday in Japan's Okinawa Prefecture on the Ryukyu\nIslands on his fourth visit to Japan since he retired from the\npresidency in 2000.
+japan	prep_in=arrived=nsubj	lee	Lee arrived in Japan Sunday and will meet with Japanese Prime\nMinister Fukuda on Monday.
+toyako	prep_in=arrived=nsubj	singh	Singh arrived Monday in Toyako, where he was expected to tell\nBush he will move ahead on the stalled nuclear cooperation accord\ndespite tough opposition.
+japan	prep_in=arrived=nsubj	singh	When Singh first arrived in Japan in the 70s, the wounds had only\npartially healed and the bad guy foreigner could find plenty of\nopportunities in the ring.
+fukuoka	prep_in=arrived=nsubj	wen	Wen arrived in Fukuoka on Saturday morning for a tripartite\nmeeting with Japanese Prime Minister Taro Aso and South Korean\nPresident Lee Myung-bak, and he returned to Beijing later in the\nday.
+japan	prep_in=arrived=nsubj	wen	Wen arrived in Japan on Wednesday on what he called an "ice-\nmelting" trip as the two countries struggle to reverse the\ndeterioration of ties in recent years, part of it caused by\ndisagreements about the past.
+osaka	prep_in=born=rcmod	lee	Lee, who was born in Osaka, has said that unlike his\npredecessors, he would not urge Japan to apologise for past\natrocities.
+japan	prep_in=born=rcmod	lee	Lee, who was born in Japan and has touted a pragmatic approach to\nforeign policy, is hoping to boost relations with Japan which are\noften tainted with bitterness over Tokyo's 1910-1945 colonial\nrule over the Korean peninsula.
+osaka	prep_in=eliminated=nsubjpass	keita	Keita -- third in the 400 hurdles at the 2004 Athens Olympics --\nwas eliminated in the semifinals in Osaka.
+japan	prep_in=eliminated=nsubjpass	keita	Keita -- who was third in the 400-meter hurdles at the 2004\nAthens Olympics -- was eliminated in the semifinals during the\nworld championships, in Osaka, Japan last week.
+kyoto	prep_in=give=nsubj	merkel	In Japan, Merkel will give a speech in Kyoto to mark 10 years\nsince the international accord on cutting greenhouse gases was\nagreed in the city.
+japan	prep_in=give=nsubj	merkel	In Japan, Merkel will give a speech in Kyoto to mark 10 years\nsince the international accord on cutting greenhouse gases was\nagreed in the city.
+yamaguchi_prefecture	prep_in=grew=nsubj	yoshimi	Yoshimi grew up in Yamaguchi Prefecture in western Japan, in a\nhousehold with fresh memories of the war.
+japan	prep_in=grew=nsubj	yoshimi	Yoshimi grew up in Yamaguchi Prefecture in western Japan, in a\nhousehold with fresh memories of the war.
+toyako	prep_in=said=nsubj	sarkozy	"The group of six nations plan to send Mr Solana (to Iran) for\nin-depth discussions on the differences between their latest\nproposals and the ones that were already on the table," Sarkozy\nsaid in Toyako in northern Japan.
+japan	prep_in=said=nsubj	sarkozy	"The group of six nations plan to send Mr Solana (to Iran) for\nin-depth discussions on the differences between their latest\nproposals and the ones that were already on the table," Sarkozy\nsaid in Toyako in northern Japan.
+kyoto	prep_in=said=nsubj	taro_aso	Taro Aso said late Saturday in Kyoto that then-US Defence\nSecretary Donald Rumsfeld -- now replaced -- "started off the\nwar, but the operation after the occupation was very naive."
+japan	prep_in=said=nsubj	taro_aso	In Japan, Prime Minister Taro Aso said the government would\nexpand a program that gave banks access to public funds and would\nstrengthen regulation of the short-selling of shares.
+miyazaki	prep_in=told=nsubj	miyako_suda	"When uncertainties are growing, it's important for us to take\nsteps gradually while examining the situation," BOJ board member\nMiyako Suda told business leaders in Miyazaki, in southern Japan.
+japan	prep_in=told=nsubj	miyako_suda	"When uncertainties are growing, it's important for us to take\nsteps gradually while examining the situation," BOJ board member\nMiyako Suda told business leaders in Miyazaki, in southern Japan.
+nagasaki	prep_in=was=rcmod	shinzo_abe	Prime Minister Shinzo Abe, who was in Nagasaki in southern Japan\nto campaign ahead of parliamentary elections later this month,\nwill return to Tokyo to deal with the quake, Kyodo said.
+japan	prep_in=was=rcmod	shinzo_abe	Prime Minister Shinzo Abe, who was in Nagasaki in southern Japan\nto campaign ahead of parliamentary elections later this month,\nwill return to Tokyo to deal with the quake, Kyodo said.
+fukuoka	prep_to=invited=nsubj	aso	Aso invited Chinese and Korean leaders earlier this month to\nFukuoka for a first three-way summit.
+japan	prep_to=invited=nsubj	aso	Aso invited Calderon to Japan next year.
+kyoto	prep_to=travel=nsubj	wen	Chinese\nperformers will entertain Abe in Tokyo this week and Wen will\ntravel Friday to Kyoto, where he is expected to toss pitches with\nlocal baseball players.
+japan	prep_to=travel=nsubj	wen	After his stay in South Korea, Wen will travel to Japan Wednesday\non what he described as an "ice-melting journey," after his\nJapanese counterpart Shinzo Abe's "ice-breaking journey" to China\nlast October.
+toyako	rcmod=attending=nsubj	bush	"I know that Prime Minister al-Maliki has said that he doesn't\nwant a precipitous withdrawal because of the security\nconsequences," Johndroe said in Toyako, Japan, where President\nBush is attending the G-8 summit.
+japan	rcmod=attending=nsubj	bush	"They should also refrain from further missile tests if they\ntruly seek to gain the trust of the world," he added, speaking\nfrom Japan where President Bush is attending the Group of Eight\nsummit.
+amman	agent=wanted=nsubjpass	abssi	Abssi made his base in Nahr al-Bared after being freed\nfrom a Syrian jail last year but is wanted by both Damascus and\nAmman.
+jordan	agent=wanted=nsubjpass	abssi	In addition to being hunted by Lebanese troops, Abssi is wanted\nby both Syria and Jordan for radical activities, including a plot\nthat killed a US diplomat in Amman.
+amman	dobj=left=nsubj	abdullah	Jordan's King Abdullah, together with his wife Queen Rania al\nAbdullah, left Amman on July 9 for a private visit to the United\nStates.
+jordan	dobj=left=nsubj	abdullah	Abdullah has already left Jordan for Bahrain, on his way to\nWashington.
+amman	dobj=visited=nsubj	bush	Bush visited Amman in Novemeber for talks with Iraqi Prime\nMinister Nuri al- Maliki on ways of quelling the sectarian\nbloodshed in Iraq.
+jordan	dobj=visited=nsubj	bush	Nidal Momani, Sattam Zawahra and Tharwat Ali Draz were arrested\non November 28, a day before Bush visited Jordan, and later\nindicted on charges of "conspiracy to carry out terrorist plots,"\na judicial source said.
+amman	prep_between=shuttles=rcmod	al-dulaimi	Unlike al-Dulaimi, who shuttles between Amman, Jordan, and the Iraqi\ncapital, al-Obeidi chose to continue to live in Baghdad despite the\ntenuous security and the killing of two members of the trial's defense\nteam last year.
+jordan	prep_between=shuttles=rcmod	al-dulaimi	Unlike al-Dulaimi, who shuttles between Amman, Jordan, and the Iraqi\ncapital, al-Obeidi chose to continue to live in Baghdad despite the\ntenuous security and the killing of two members of the trial's defense\nteam last year.
+amman	prep_for=left=nsubj	abbas	Coming from Lisbon, Portugal, Abbas left for Amman after his\nseveral-hour visit to Egypt.
+jordan	prep_for=left=nsubj	abbas	In other developments Saturday, Abbas left for Jordan for talks\nwith King Abdullah, ahead of Monday's Mideast peace summit in the\nEgyptian Red Sea resort of Sharm el-Sheik.
+amman	prep_for=left=nsubj	rice	The announcements Monday came just after Rice left for Amman to\nmeet Palestinian President Mahmoud Abbas.
+jordan	prep_for=left=nsubj	rice	After meeting Abbas, Rice left for Jordan to see Abdullah, told\nher the U.S. must "actively push" for progress toward Israel-\nPalestinian peace, according to a statement from the king's\noffice.
+aqaba	prep_from=reporting=prep_from	rina_castelnuovo	Taghreed El-Khodary contributed reporting from Aqaba, Jordan, and\nRina Castelnuovo from Sderot, Israel.
+jordan	prep_from=reporting=prep_from	rina_castelnuovo	Taghreed El-Khodary contributed reporting from Aqaba, Jordan, and\nRina Castelnuovo from Sderot, Israel.
+amman	prep_in=admitted=nsubjpass	talabani	Talabani was admitted to King Hussein Medical Center in Amman in\nneighboring Jordan Feb. 25 after he collapsed in Sulaimaniyah.
+jordan	prep_in=admitted=nsubjpass	talabani	Talabani was admitted to King Hussein Medical Center in Amman in\nneighboring Jordan Feb. 25 after he collapsed in Sulaimaniyah.
+amman	prep_in=arrived=nsubj	abbas	Earlier on Tuesday, Abbas arrived in Amman on the first leg of\nhis Arab and European tour aimed at earning supports for the\nMecca agreement.
+jordan	prep_in=arrived=nsubj	abbas	Abbas arrived in Jordan from Egypt on Wednesday afternoon for a\nshort visit.
+amman	prep_in=arrived=nsubj	gates	Gates arrived in Amman Monday on a tour aimed at rallying support\nfor the Iraqi government and countering Iran's growing influence\nin the Middle East.
+jordan	prep_in=arrived=nsubj	gates	Gates arrived in Jordan on Monday at the start of his three-\nnation Middle East tour aimed at urging allies in the region to\nhelp bolster the fledgling Iraqi government and offset the\nIranian influence there.
+amman	prep_in=arrived=nsubj	mahmoud_abbas	Palestinian President Mahmoud Abbas on Sunday arrived in Amman to\nhold a series of meetings with Jordan's King Abdullah II and\nRussian President Vladimir Putin.
+jordan	prep_in=arrived=nsubj	mahmoud_abbas	Palestinian President Mahmoud Abbas also arrived in Jordan for\ntalks with the king, after failing to persuade Israel and Rice\nthat the incoming Palestinian government would fulfill conditions\nfor the restoration of foreign aid.
+amman	prep_in=arrived=nsubj	obama	Obama has arrived in Amman Tuesday to continue his week-long\nMideast and Europe tour after visiting Afghanistan and Iraq.
+jordan	prep_in=arrived=nsubj	obama	Obama arrived in Jordan Tuesday and then was slated to visit\nIsrael later in the day.
+amman	prep_in=arrived=nsubj	putin	Putin arrived late on Monday in Amman, the third US ally on his\ntrip which had already taken him to Saudi Arabia and Qatar\nimmediately after he had made a blistering attack on the\n"ruinous" dominance of the United States.
+jordan	prep_in=arrived=nsubj	putin	Putin arrived in Jordan Monday night on the final leg of his\nregional tour.
+amman	prep_in=arrived=nsubj	rice	Rice arrived in Amman Monday on a visit to Jordan during which\nshe is also expected to hold her second meeting with Palestinian\nPresident Mahmoud Abbas in less than 24 hours.
+jordan	prep_in=arrived=nsubj	rice	Rice arrived in Jordan on Sunday for a weeklong tour of the\nregion.
+amman	prep_in=arrived=rcmod	abbas	Abbas, who arrived in Amman Wednesday, briefed Jordanian Prime\nMinister Marouf al-Bakhit on his European and Arab tour to lobby\nthe West to support the unity deal.
+jordan	prep_in=arrived=rcmod	abbas	Abbas, who arrived in Jordan from Saudi Arabia, welcomed Monday's\nrelease of 429 Palestinian prisoners from Israeli jails, calling\nit a "positive step."
+aqaba	prep_in=arrives=nsubj	merkel	Germany's Merkel arrives in Aqaba for talks with Jordan's king on\nMideast peacemaking
+jordan	prep_in=arrives=nsubj	merkel	Germany's Merkel arrives in Jordan for talks on Mideast peace\nprocess
+amman	prep_in=born=prep_in	serdar_tatar	Two\nother suspects, Mohamad Ibrahim Shnewer, 22, a Palestinian born\nin Amman, Jordan, and Serdar Tatar, 23, a Turkish immigrant, were\nalso charged with plotting the attack to kill American soldiers\non the Army base in New Jersey.
+jordan	prep_in=born=prep_in	serdar_tatar	Two\nother suspects, Mohamad Ibrahim Shnewer, 22, a Palestinian born\nin Amman, Jordan, and Serdar Tatar, 23, a Turkish immigrant, were\nalso charged with plotting the attack to kill American soldiers\non the Army base in New Jersey.
+amman	prep_in=contributed=nsubj	jamal_halaby	Associated Press writer Jamal Halaby in Amman contributed to this\nreport.
+jordan	prep_in=contributed=nsubj	jamal_halaby	Associated Press correspondents Jamal Halaby in Amman, Jordan,\nand Salah Nasrawi in Cairo, Egypt, contributed to this report.
+amman	prep_in=contributed=prep_in	bassem_mroue	Associated Press reporters Jamal Halaby in Amman, Jordan, Maggie\nMichael in Cairo and Bassem Mroue, Qassim Abdul-Zahra and Omar Sinan\ncontributed to this report.
+jordan	prep_in=contributed=prep_in	bassem_mroue	Associated Press reporters Jamal Halaby in Amman, Jordan, Maggie\nMichael in Cairo and Bassem Mroue, Qassim Abdul-Zahra and Omar Sinan\ncontributed to this report.
+amman	prep_in=contributed=prep_in	maggie_michael	Associated Press reporters Jamal Halaby in Amman, Jordan, Maggie\nMichael in Cairo and Bassem Mroue, Qassim Abdul-Zahra and Omar Sinan\ncontributed to this report.
+jordan	prep_in=contributed=prep_in	maggie_michael	Associated Press reporters Jamal Halaby in Amman, Jordan, Maggie\nMichael in Cairo and Bassem Mroue, Qassim Abdul-Zahra and Omar Sinan\ncontributed to this report.
+amman	prep_in=contributed=prep_in	omar_sinan	Associated Press reporters Jamal Halaby in Amman, Jordan, Maggie\nMichael in Cairo and Bassem Mroue, Qassim Abdul-Zahra and Omar Sinan\ncontributed to this report.
+jordan	prep_in=contributed=prep_in	omar_sinan	Associated Press reporters Jamal Halaby in Amman, Jordan, Maggie\nMichael in Cairo and Bassem Mroue, Qassim Abdul-Zahra and Omar Sinan\ncontributed to this report.
+amman	prep_in=contributed=prep_in	qassim_abdul-zahra	Associated Press reporters Jamal Halaby in Amman, Jordan, Maggie\nMichael in Cairo and Bassem Mroue, Qassim Abdul-Zahra and Omar Sinan\ncontributed to this report.
+jordan	prep_in=contributed=prep_in	qassim_abdul-zahra	Associated Press reporters Jamal Halaby in Amman, Jordan, Maggie\nMichael in Cairo and Bassem Mroue, Qassim Abdul-Zahra and Omar Sinan\ncontributed to this report.
+amman	prep_in=died=nsubj	george_habash	George Habash, founder of the Popular Front for the Liberation of\nPalestine (PFLP), died on Saturday in Amman, an official\nJordanian source told AFP.
+jordan	prep_in=died=nsubj	george_habash	George Habash, founder of the Popular Front for the Liberation of\nPalestine, a hard-line Marxist group that shocked the world with a\ncampaign of airline hijackings and bombings in the late 1960s and\nearly 1970s, died Saturday of a heart attack in Amman, Jordan.
+amman	prep_in=held=nsubj	abbas	Abdullah and Abbas held talks separately with Rice in Amman\nearlier the day.
+jordan	prep_in=held=nsubj	abbas	In Jordan, Abbas held a surprise meeting with King Abdullah to\ndiscuss the mediation efforts.
+amman	prep_in=hospitalised=nsubjpass	talabani	Talabani, a Kurd, has been hospitalised in Amman since Sunday,\nsuffering from exhaustion and dehydration.
+jordan	prep_in=hospitalised=nsubjpass	talabani	In March, Talabani was hospitalised in Jordan for two weeks\nsuffering from what his doctors called fatigue dehydration.
+amman	prep_in=hospitalized=prep_in	nouri_al-maliki	The offices of President Jalal Talabani, who is hospitalized in\nAmman, Jordan, and Prime Minister Nouri al-Maliki, condemned the\nbombing.
+jordan	prep_in=hospitalized=prep_in	nouri_al-maliki	The offices of President Jalal Talabani, who is hospitalized in\nAmman, Jordan, and Prime Minister Nouri al-Maliki, condemned the\nbombing.
+amman	prep_in=lives=rcmod	raghad	Saddam's eldest daughter Raghad, who lives in Amman in Jordan,\ncame to Sanaa for the ceremony, as did his youngest daughter\nHala, who is believed to be based in Qatar with her mother,\nSajida.
+jordan	prep_in=lives=rcmod	raghad	Saddam's eldest daughter Raghad, who lives in Amman in Jordan,\ncame to Sanaa for the ceremony, as did his youngest daughter\nHala, who is believed to be based in Qatar with her mother,\nSajida.
+amman	prep_in=meet=dobj	mahmud_abbas	"The Knesset speaker will meet Mahmud Abbas as well as Jordanian\nForeign Minister Abdel Ilah Khatib in Amman," with talks to focus\non "the means to jump- start peace initiatives in the region," he\nsaid.
+jordan	prep_in=meet=dobj	mahmud_abbas	The top US diplomat was also expected to meet Palestinian\npresident Mahmud Abbas in Amman, Jordan on Sunday and again on\nMonday.
+amman	prep_in=meet=nsubj	abbas	Abbas will meet on Saturday in Amman with Abdullah and on Sunday\nin Cairo with Mubarak to coordinate Monday's summit, Abbas'\noffice said Friday.
+jordan	prep_in=meet=nsubj	abbas	Abbas, who has held rounds of telephone talks with Arab leaders\nin recent days to try to rally them to his side, will meet with\nRussian President Vladimir Putin in Jordan on Tuesday,\nPalestinian and Jordanian officials said.
+amman	prep_in=meet=nsubj	gates	In Amman, Gates will meet King Abdullah II and senior officials\nfor talks on regional developments but "Iran in particular", the\nofficial said.
+jordan	prep_in=meet=nsubj	gates	Gates will meet top military officials in Jordan, Egypt and\nIsrael on a trip that will also seek to reassure the three\ncountries of Washington's continued support, US officials said.
+amman	prep_in=meet=prep_in	ehud_olmert	The trio will meet with King Abdullah in Amman, Jordan, Israeli\nPrime Minister Ehud Olmert in Jerusalem, British Prime Minister\nGordon Brown in London and President Nicholas Sarkozy in Paris.
+jordan	prep_in=meet=prep_in	ehud_olmert	The trio will meet with King Abdullah in Amman, Jordan, Israeli\nPrime Minister Ehud Olmert in Jerusalem, British Prime Minister\nGordon Brown in London and President Nicholas Sarkozy in Paris.
+amman	prep_in=meet=prep_in	gordon_brown	The trio will meet with King Abdullah in Amman, Jordan, Israeli\nPrime Minister Ehud Olmert in Jerusalem, British Prime Minister\nGordon Brown in London and President Nicholas Sarkozy in Paris.
+jordan	prep_in=meet=prep_in	gordon_brown	The trio will meet with King Abdullah in Amman, Jordan, Israeli\nPrime Minister Ehud Olmert in Jerusalem, British Prime Minister\nGordon Brown in London and President Nicholas Sarkozy in Paris.
+amman	prep_in=meet=prep_in	nicholas_sarkozy	The trio will meet with King Abdullah in Amman, Jordan, Israeli\nPrime Minister Ehud Olmert in Jerusalem, British Prime Minister\nGordon Brown in London and President Nicholas Sarkozy in Paris.
+jordan	prep_in=meet=prep_in	nicholas_sarkozy	The trio will meet with King Abdullah in Amman, Jordan, Israeli\nPrime Minister Ehud Olmert in Jerusalem, British Prime Minister\nGordon Brown in London and President Nicholas Sarkozy in Paris.
+amman	prep_in=meet=prep_with	king_abdullah	The trio will meet with King Abdullah in Amman, Jordan, Israeli\nPrime Minister Ehud Olmert in Jerusalem, British Prime Minister\nGordon Brown in London and President Nicholas Sarkozy in Paris.
+jordan	prep_in=meet=prep_with	king_abdullah	The trio will meet with King Abdullah in Amman, Jordan, Israeli\nPrime Minister Ehud Olmert in Jerusalem, British Prime Minister\nGordon Brown in London and President Nicholas Sarkozy in Paris.
+amman	prep_in=meet=prep_with	mahmud_abbas	Rice also held three-way talks with top Palestinian negotiator\nAhmed Qorei and Israeli Foreign Minister Tzipi Livni, and she was\nscheduled to meet with Palestinian president Mahmud Abbas in\nAmman for the second time in two days.
+jordan	prep_in=meet=prep_with	mahmud_abbas	-- U.S. Secretary of State Condoleezza Rice on a shuttle mission\nsets to meet again with Palestinian president Mahmud Abbas in\nJordan for talks on Middle East peace efforts.
+aqaba	prep_in=meet=prep_with	mahmud_abbas	Erdogan, who arrived in Jordan from Syria, where he held talks\nwith President Bashar al-Assad, was scheduled to meet separately\nwith Palestinian leader Mahmud Abbas in Aqaba.
+jordan	prep_in=meet=prep_with	mahmud_abbas	-- U.S. Secretary of State Condoleezza Rice on a shuttle mission\nsets to meet again with Palestinian president Mahmud Abbas in\nJordan for talks on Middle East peace efforts.
+amman	prep_in=met=dobj	mahmud_abbas	In Amman he met Palestinian president Mahmud Abbas after talks\nwith King Abdullah II during which he agreed to a new push to\nrevive Israeli-Palestinian peace negotiations.
+jordan	prep_in=met=dobj	mahmud_abbas	Israeli parliament speaker Dalia Itzik met Palestinian president\nMahmud Abbas on Sunday in Jordan for talks on reviving the\nstalled Middle East peace process, officials said.
+amman	prep_in=met=nsubj	abdullah	A royal palace statement says Jordan's King Abdullah and\nPresident Mahmoud Abbas have met in Amman ahead of the\nPalestinian leader's talks in Moscow and Washington.
+jordan	prep_in=met=nsubj	abdullah	In March, Abdullah also met Obama's rival in November's\npresidential election, Republican Senator John McCain, in Jordan\nduring his tour of the region.
+amman	prep_in=met=nsubj	maliki	Sadr's bloc also withdrew from parliament for two months\nbeginning last November after Maliki met US President George W.\nBush in Amman.
+jordan	prep_in=met=nsubj	maliki	The official said U.S. and Iraqi leaders have been refining a new\nIraqi security plan, first discussed when Bush and Maliki met in\nJordan in November, in which Iraqi forces would take the lead\nwith Americans in support.
+amman	prep_in=met=nsubj	rice	In Amman, Rice met moderate Palestinian president Mahmud Abbas\nfor the second time in two days, before returning to Jerusalem\nfor fresh talks with Israeli officials including Olmert.
+jordan	prep_in=met=nsubj	rice	Later Friday, Rice met in Jordan with King Abdullah II.
+amman	prep_in=met=prep_with	abbas	Rice, on a regional tour of shuttle diplomacy, also met Monday in\nAmman with Abbas, their second encounter in 24 hours.
+jordan	prep_in=met=prep_with	abbas	He met\nwith Abbas in Jordan earlier this month.
+aqaba	prep_in=met=prep_with	king_abdullah_ii	Jordan also opposes any military action against Iran, said a\nJordanian official after Cheney met with King Abdullah II in\nAqaba.
+jordan	prep_in=met=prep_with	king_abdullah_ii	In Jordan, Obama met  with King Abdullah II at the royal Beit Al\nUrdun palace.
+amman	prep_in=met=rcmod	abbas	Abbas, who met in Amman with Jordan's King Abdullah II, said a\nplanned visit by U.S. President George W. Bush to the Middle East\nearly next year "is proof of his seriousness and commitment to\nachieve peace" between the Palestinians and the Israelis.
+jordan	prep_in=met=rcmod	abbas	Abbas, who met with Putin in Jordan in February, made his\nprevious trip to Moscow in May 2006.
+amman	prep_in=said=nsubj	mccain	In Amman, Jordan, before traveling to Israel, McCain said he\nwould make Israel-Palestinian peace efforts a top priority.
+jordan	prep_in=said=nsubj	mccain	Before arriving Tuesday, McCain said in Jordan he would make\nIsrael-Palestinian peace efforts a top priority.
+amman	prep_in=said=nsubj	obama	"There is security progress, but now we need a political\nsolution," Obama said in Amman, Jordan, in the first news\nconference of his highly publicized trip abroad.
+jordan	prep_in=said=nsubj	obama	Responding to a bulldozer rampage in Jerusalem which happened\nhours before his arrival late Tuesday, Obama had said in Jordan\nthat he strongly condemned the attack, and "will always support\nIsrael in confronting terrorism and pursuing lasting peace and\nsecurity."
+amman	prep_in=told=dobj	rice	In Amman, the Palestinian leader told Rice that Olmert needed to\nbe ready to talk about the substance of the peace process if\nintensive talks were to resume.
+jordan	prep_in=told=dobj	rice	In Jordan, King Abdullah told Rice on Sunday that he wants his\nlongtime U.S. friend to apply an equal amount of diplomatic\nenergy spent on Iraq to reviving the Israeli-Palestinian peace\nprocess.
+amman	prep_in=told=nsubj	obama	"Today's bulldozer attack is a reminder of what Israelis have had\nto courageously live with on a daily basis for far too long,"\nObama told a news conference in Amman ahead of a trip to Israel\nand the Palestinian territories.
+jordan	prep_in=told=nsubj	obama	"I think that the definition of success depends on how you look\nat it," Obama told reporters in Jordan.
+amman	prep_in=was=nsubj	bush	Bush was in Amman last year for a visit dominated by talks with\nIraqi Prime Minister Nuri al-Maliki on ways of quelling the\nsectarian bloodshed in Iraq.
+jordan	prep_in=was=nsubj	bush	Bush in fact traveled to Egypt, Jordan and Qatar in 2003, and was in Jordan\nagain in 2006.
+aqaba	prep_in=wrote=rcmod	david_kaufman	For a relaxing time on the Dead Sea near Amman, David Kaufman,\nwho wrote "In Aqaba, Jordan, Sun and Sand in the Red Sea" (Dec.\n3, 2006), suggests the Movenpick Resort and Spa Dead Sea (www\n.
+jordan	prep_in=wrote=rcmod	david_kaufman	For a relaxing time on the Dead Sea near Amman, David Kaufman,\nwho wrote "In Aqaba, Jordan, Sun and Sand in the Red Sea" (Dec.\n3, 2006), suggests the Movenpick Resort and Spa Dead Sea (www\n.
+aqaba	prep_to=flew=nsubj	abdullah	Abdullah and Olmert flew by helicopter to Aqaba to escape the\nmedia scrutiny that accompanied the Petra conference.
+jordan	prep_to=flew=nsubj	abdullah	In December 2006, Abdullah flew to Jordan, escorted by an uncle.
+amman	prep_to=flown=nsubjpass	damra	Immigration authorities said Friday that Damra was flown to\nAmman, Jordan, on Thursday, then crossed the Allenby Bridge to\nthe West Bank.
+jordan	prep_to=flown=nsubjpass	damra	Immigration and Customs Enforcement spokesman Greg Palmore said\nDamra was flown to Jordan on Thursday and handed over to\nPalestinian authorities at the Allenby Bridge, which connects\nJordan to the West Bank.
+amman	prep_to=flown=nsubjpass	talabani	Talabani was flown to Amman on February 25 from Sulaimaniyah in\nnorthern Iraq's Kurdish autonomous region after doctors diagnosed\nhim as suffering from fatigue and dehydration.
+jordan	prep_to=flown=nsubjpass	talabani	Talabani was flown to Jordan for treatment after he collapsed on\nFeb. 25 in Sulaimaniyah, 260 kilometers (160 miles) northeast of\nBaghdad.
+amman	prep_to=taken=nsubjpass	talabani	Talabani, from Iraq's Kurdish north, was taken to Amman after\nfalling unconscious Sunday.
+jordan	prep_to=taken=nsubjpass	talabani	His son told CNN Talabani was taken to Jordan because of the lack\nof medical facilities in the northern Iraqi region.
+amman	prep_to=traveled=nsubj	rice	After talks with Israeli and Palestinian officials, Rice traveled\nto Amman, Jordan, for a second meeting with the moderate\nPalestinian president, Mahmoud Abbas of Fatah, and separate talks\nwith King Abdullah II of Jordan.
+jordan	prep_to=traveled=nsubj	rice	After talks with Israeli and Palestinian officials on Sunday,\nRice traveled to Amman, Jordan, for a second meeting with the\nmoderate Palestinian president, Mahmoud Abbas of Fatah, and\nseparate talks with King Abdullah II of Jordan.
+amman	prep_to=traveling=nsubj	rice	Later Monday, Rice was traveling to Amman to meet Palestinian\nPresident Mahmoud Abbas.
+jordan	prep_to=traveling=nsubj	rice	After meeting Palestinian President Mahmoud Abbas and Israeli\nPrime Minister Ehud Olmert on Sunday, Rice was traveling to\nJordan early Monday, returning to Jerusalem later in the day for\na second round of meetings with Abbas and Olmert.
+amman	rcmod=meet=prep_with	abbas	Monday, she is scheduled to visit Amman,\nJordan, where she will meet with Abbas and Jordanian King\nAbdullah II before returning to Israel for another round of talks\nthere Monday evening and Tuesday morning.
+jordan	rcmod=meet=prep_with	abbas	But\nfirst, she will do some more shuttling: to Amman, Jordan, where\nshe will meet again with Abbas and then with King Abdullah II,\nand then back to Jerusalem for more meetings with Israeli\nofficials.
+amman	rcmod=met=prep_with	abdul-ilah_al-khatib	Blair's unmarked private jet arrived at Israel's international\nairport near Tel Aviv from Amman, Jordan, where he met with\nForeign Minister Abdul-Ilah al-Khatib.
+jordan	rcmod=met=prep_with	abdul-ilah_al-khatib	Blair arrived from neighboring Jordan, where he met with Foreign\nMinister Abdul-Ilah al-Khatib.
+amman	rcmod=met=prep_with	abdullah	In Amman, where he met with Abdullah before the talks, Abbas said\nhe received U.S. and Israeli assurances that the Jewish state was\nready to make progress at the meeting in Egypt.
+jordan	rcmod=met=prep_with	abdullah	In Jordan, where he met with Abdullah before the talks, Abbas was\nmore optimistic about the summit, saying he received U.S. and\nIsraeli assurances that the Jewish state was ready to make\nprogress at the meeting in Egypt.
+bishkek	prep_in=arrived=nsubj	hu_jintao	Chinese President Hu Jintao on Tuesday arrived in Bishkek,\ncapital of Kyrgyzstan, for a state visit and a Shanghai\nCooperation Organization (SCO) summit.
+kyrgyzstan	prep_in=arrived=nsubj	hu_jintao	Chinese President Hu Jintao arrived in Kyrgyzstan on Tuesday at\nthe start of a three-nation tour of ex-Soviet neighbours, Kyrgyz\ngovernment spokeswoman Roza Daudova told AFP.
+tripoli	dobj=visited=nsubj	nicolas_sarkozy	As a sign of the newly cemented ties between the European bloc\nand the one-time pariah Arab state, French President Nicolas\nSarkozy -- who played a key role in clinching the medics' release\n-- visited Tripoli Wednesday.
+libya	dobj=visited=nsubj	nicolas_sarkozy	After the release, French President Nicolas Sarkozy visited Libya\npledging to deepen relations with the North African country.
+tripoli	dobj=visited=nsubj	sarkozy	Sarkozy visited Tripoli immediately afterwards, overseeing the\nsigning of arms sales and an agreement to build a nuclear plant\nfor water desalination, underscoring Libya's return to the\ninternational fold after years of isolation.
+libya	dobj=visited=nsubj	sarkozy	Sarkozy visited Libya last July immediately after his wife,\nCecilia, orchestrated the release of the medical care workers.
+tripoli	prep_in=arrived=nsubj	cecilia_sarkozy	Cecilia Sarkozy arrived in Tripoli on Sunday along with Claude\nGueant, secretary-general of the presidency, and EU foreign\naffairs commissioner Benita Ferrero-Waldner.
+libya	prep_in=arrived=nsubj	cecilia_sarkozy	When Cecilia Sarkozy arrived in Libya on Sunday, Ferrero-Waldner\nwas by her side.
+tripoli	prep_in=arrived=nsubj	nicolas_sarkozy	Rice made the remarks also after French President Nicolas Sarkozy\narrived in Tripoli Wednesday for talks with Libyan leader Moamer\nKadhafi.
+libya	prep_in=arrived=nsubj	nicolas_sarkozy	A day later, Nicolas Sarkozy arrived in Libya on a visit\nto normalize ties, bringing with him a host of defense, nuclear\nand humanitarian accords.
+tripoli	prep_in=arrived=nsubj	sarkozy	Sarkozy arrived in Tripoli earlier on Wednesday, less than 24\nhours after Libya's release of five Bulgarian nurses and a\nPalestinian doctor once sentenced to death for infecting children\nwith HIV virus, with the help of France's mediation.
+libya	prep_in=arrived=nsubj	sarkozy	A\nday later, Sarkozy arrived in Libya on a visit to normalize ties,\nhaving signed with Libyan officials a host of defense, nuclear\nand humanitarian accords.
+tripoli	prep_in=arrives=nsubj	nicolas_sarkozy	- US Secretary of State Condoleezza Rice says she hopes to go to\nLibya "soon" and French President Nicolas Sarkozy arrives in\nTripoli for talks with Kadhafi.
+libya	prep_in=arrives=nsubj	nicolas_sarkozy	-- French President Nicolas Sarkozy and Foreign Minister Bernard\nKouchner arrives in Libya on a visit on Wednesday, a day after\nthe North African country freed six Bulgarian medical workers who\nhad been under the threat of death penalty for infecting children\nwith AIDS deliberately.
+tripoli	prep_in=claimed=nsubj	der_spiegel	Meanwhile the news magazine Der Spiegel claimed the German\nembassy in Tripoli had discussed with the German special police\nsquad details of the training they were providing.
+libya	prep_in=claimed=nsubj	der_spiegel	Meanwhile the news magazine Der Spiegel claimed the German\nembassy in Libya had discussed with the German special police\nsquad details of the training they were providing.
+tripoli	prep_in=met=prep_with	moammar_gadhafi	In April, Putin -- then Russia's president -- met with Libyan\nleader Moammar Gadhafi in Tripoli in a bid to restore ties\nbetween the two former allies.
+libya	prep_in=met=prep_with	moammar_gadhafi	Frances Fragos Townsend, Bush's counterterrorism adviser, met\nwith Libyan leader Moammar Gadhafi in Libya on Monday to call for\nbilateral cooperation on combating terrorism.
+tripoli	prep_in=were=nsubj	cecilia_sarkozy	"I expect the talks to be finalised today," he said, as EU\nExternal Relations Commissioner Benita Ferrero-Waldner and\nCecilia Sarkozy, wife of the French president, were in Tripoli\ntrying to secure their release.
+libya	prep_in=were=nsubj	cecilia_sarkozy	French first lady Cecilia Sarkozy and the presidential chief of\nstaff, Claude Gueant, were in Libya this week, meeting with\nMoammar Gadhafi on Thursday and the convicted nurses and families\nof the children.
+tripoli	prep_to=dispatched=nsubj	sarkozy	Sarkozy had dispatched his wife, Cecilia, to Tripoli twice for\ntalks on their fate, stirring much controversy over the unusual\nmission by France's first lady as a "personal envoy of the\npresident."
+libya	prep_to=dispatched=nsubj	sarkozy	In July, Sarkozy\ndispatched his wife at the time, Cecilia, to Libya to win the\nrelease of six medics who had been languishing in jail there for\nnearly a decade.
+tripoli	prep_to=nominated=nsubj	george_w._bush	In July, U.S. President George W. Bush nominated an ambassador to\nTripoli, where the U.S. reopened its embassy in May 2006.
+libya	prep_to=nominated=nsubj	george_w._bush	U.S. President George W. Bush recently nominated a U.S.\nambassador to Libya, fulfilling pledges Washington made after\nTripoli agreed to pay compensation to the victims of the Pan Am\nFlight 103 bombing and Gadhafi renounced nuclear, chemical and\nbiological weapons.
+tripoli	prep_to=sent=nsubjpass	megrahi	Within three weeks of the medical examination by Professor Karol Sikora, one of Britain's leading cancer specialists, Megrahi was put on a plane and sent home to Tripoli to die.
+libya	prep_to=sent=nsubjpass	megrahi	Megrahi, who is suffering terminal prostate cancer, was sent home to Libya to die after medical experts concluded in a report on July 30 he had just three months left to live.
+tripoli	prep_to=traveled=nsubj	cecilia_sarkozy	Cecilia Sarkozy and Ferrero-Waldner traveled to Tripoli on Sunday\nto push for the medics' swift release.
+libya	prep_to=traveled=nsubj	cecilia_sarkozy	Cecilia Sarkozy traveled to Libya last month as a presidential\nemissary, arriving at a critical time in the European Union's\nefforts to win the release of five Bulgarian nurses and a\nPalestinian doctor convicted -- experts say erroneously -- of\ninfecting Libyan children with HIV.
+tripoli	prep_to=traveled=nsubj	nicolas_sarkozy	French President Nicolas Sarkozy traveled to Tripoli and signed a\nmemorandum of understanding to build a Libyan nuclear reactor, a\nday after the six Bulgarian medics were released.
+libya	prep_to=traveled=nsubj	nicolas_sarkozy	Blair and French President Nicolas Sarkozy traveled to\nLibya this year, bringing with them oil and defense contracts.
+tripoli	prep_to=traveled=nsubj	sarkozy	Sarkozy traveled to Tripoli after their release and\nassured Gadhafi that he would receive lucrative French contracts.
+libya	prep_to=traveled=nsubj	sarkozy	Sarkozy then traveled to Libya.
+tripoli	prep_to=travelled=nsubj	nicolas_sarkozy	A day after the medics' release, French President Nicolas Sarkozy\ntravelled to Tripoli where he signed an agreement with Libya\npledging to cooperate on several nuclear energy projects,\nincluding building a reactor for water desalination.
+libya	prep_to=travelled=nsubj	nicolas_sarkozy	French President Nicolas Sarkozy travelled to Libya on July\n25-26, the first step of an African tour, the day after Tripoli\nreleased six Bulgarian medics detained for eight years on charges\nof infecting children with the AIDS virus.
+tripoli	prep_to=went=nsubj	cecilia_sarkozy	It added that first lady Cecilia Sarkozy, accompanied by the\nEuropean commissioner in charge of foreign affairs, Benita\nFerrero-Waldner, went to Tripoli.
+libya	prep_to=went=nsubj	cecilia_sarkozy	Cecilia Sarkozy went to Libya to broker their release and took\nthem home on the French presidential plane on July 24 with EU\nExternal Relations Commissioner Benita Ferrero-Waldner.
+sepang	prep_at=started=nsubj	massa	Massa, who claimed pole here last year on his way to winning the\nrace, started first at Sepang but retired after spinning out when\nhe was in the lead.
+malaysia	prep_at=started=nsubj	massa	Massa, who claimed pole here last year on his way to winning the\nrace, started first at Malaysia but retired after spinning out\nwhen he was in the lead.
+sabah	prep_in=hiding=nsubj	dulmatin	Unconfirmed media reports Friday said Dulmatin had fled Sulu and\nwas hiding in Sabah in eastern Malaysia.
+malaysia	prep_in=hiding=nsubj	dulmatin	Unconfirmed media reports Friday said Dulmatin had fled Sulu and\nwas hiding in Sabah in eastern Malaysia.
+machang	prep_in=said=nsubj	abdullah_ahmad_badawi	Malaysia has submitted to Sudan a proposal to help the African\nnation resolve the Darfur conflict, prime minister Abdullah Ahmad\nBadawi said in Machang, northern state of Kelantan on Thursday.
+malaysia	prep_in=said=nsubj	abdullah_ahmad_badawi	In Malaysia, Prime Minister Abdullah Ahmad Badawi said he had ordered\nthe suspension of a third newspaper that published a photograph\nshowing the cartoons.
+putrajaya	prep_in=said=nsubj	abdullah_ahmad_badawi	Beginning this year, retiring police officers will be offered a\nthree-year extension, Malaysian Prime Minister Abdullah Ahmad\nBadawi said in Putrajaya, the administrative center of Malaysia\non Tuesday, local media reported on Wednesday.
+malaysia	prep_in=said=nsubj	abdullah_ahmad_badawi	In Malaysia, Prime Minister Abdullah Ahmad Badawi said he had ordered\nthe suspension of a third newspaper that published a photograph\nshowing the cartoons.
+langkawi	prep_in=was=nsubj	mahathir	Sufi said Mahathir was in Langkawi on a holiday with his wife.
+malaysia	prep_in=was=nsubj	mahathir	Earlier on Saturday, Mahathir was in eastern Malaysia to deliver\na keynote address at a leadership seminar.
+sepang	prep_in=won=nsubj	stoner	Stoner, who will undergo an operation on an old scaphoid injury\nwhen the season finishes, has won in Sepang in all three world\nchampionship classes on previous visits, and is confident of\nanother podium place.
+malaysia	prep_in=won=nsubj	stoner	Stoner, who rides for Ducati, has never won in Malaysia in the\nMotoGP class, while five-time world champion Valentino Rossi and\nhis Yamaha have dominated the long and challenging circuit.
+majuro	prep_in=arrived=nsubj	chen	Chen arrived in Majuro, the Marshall Islands capital, Friday for\na three-day visit to meet with heads of state of Taiwan's six\nallies in the South Pacific.
+marshall_islands	prep_in=arrived=nsubj	chen	Chen and his entourage arrived in the Marshall Islands Friday for\na three-day state visit.
+uxmal	dobj=visit=nsubj	bush	In Mexico, Bush will visit Mayan archeological city Uxmal, in\nYucatan.
+mexico	dobj=visit=nsubj	bush	Bush to visit\nUruguay, Colombia, Guatemala and Mexico.
+yucatan_peninsula	prep_for=heading=nsubj	dean	Dean was heading for Jamaica and Mexico's Yucatan peninsula,\npacking 240 kilometer (150 miles) per hour winds.
+mexico	prep_for=heading=nsubj	dean	Dean was heading for Mexico with monstrous force on Tuesday ahead\nof landfall expected within hours, after strengthening into a\n"potentially catastrophic" category five hurricane.
+yucatan_peninsula	prep_in=meet=nsubj	bush	As Mexican President Felipe Caldersn and Bush meet in the Yucatan\nPeninsula this week, analysts expect to hear much praise and\nencouragement from the U.S. president, who is looking for\nconservative allies to counter the influence of Chavez and other\nleftist leaders.
+mexico	prep_in=meet=nsubj	bush	In Mexico, Bush will meet with\nthe new president, conservative Felipe Calderon.
+yucatan	prep_in=visit=nsubj	bush	In Mexico, Bush will visit Mayan archeological city Uxmal, in\nYucatan.
+mexico	prep_in=visit=nsubj	bush	In Mexico, Bush will visit Mayan archeological city Uxmal, in\nYucatan.
+monte_carlo	prep_in=beat=nsubj	nadal	In Monte Carlo, Nadal beat Federer for his first title of the\nseason, improving his career clay-court record over his Swiss\nrival to 7-1.
+monaco	prep_in=beat=nsubj	nadal	Nadal beat top-ranked Roger Federer in the Monaco final for his\nfirst title of the season, improving his career clay-court record\nover Federer to 7-1.
+marrakech	prep_in=arrived=nsubj	nicolas_sarkozy	The deals were signed Monday night soon after French President\nNicolas Sarkozy arrived in Marrakech on his first state visit.
+morocco	prep_in=arrived=nsubj	nicolas_sarkozy	French President Nicolas Sarkozy arrived Monday in Morocco for a\nthree-day state visit intended to cement ties with the north\nAfrican country and clinch a raft of high-profile trade deals.
+torkham	prep_in=arrested=nsubjpass	muhammad_hanif	Earlier this week, Muhammad Hanif, a leading spokesman for\nTaliban, has been arrested in the eastern border town Torkham in\nNangarhar province, according to Afghan intelligence agents.
+nangarhar_province	prep_in=arrested=nsubjpass	muhammad_hanif	Earlier this week, Muhammad Hanif, a leading spokesman for\nTaliban, has been arrested in the eastern border town Torkham in\nNangarhar province, according to Afghan intelligence agents.
+woodsburgh	prep_in=lives=rcmod	talansky	Talansky, who\nlives in Woodsburgh in Nassau County, has been eager to return to\nthe United States, and the Israeli authorities feared that he\nmight not return to Israel if Olmert were put on trial.
+nassau_county	prep_in=lives=rcmod	talansky	Talansky, who\nlives in Woodsburgh in Nassau County, has been eager to return to\nthe United States, and the Israeli authorities feared that he\nmight not return to Israel if Olmert were put on trial.
+midwest	prep_in=won=nsubj	obama	Obama won majorities in the Northeast, Midwest and West.
+natrona_county	prep_in=won=nsubj	obama	In Natrona County, where Clinton was endorsed by two local state\nrepresentatives, Obama won by seven votes.
+holland	prep_in=is=nsubj	kazemi	Kazemi is presently in Holland and is set to be returned to the UK before being returned to Iran.
+netherlands	prep_in=is=nsubj	kazemi	Kazemi is currently in the Netherlands, where authorities on\nTuesday rejected his appeal for asylum, and he is likely to be\nsent to Britain, where he lived from 2005 until last year.
+kennebunkport	dobj=visited=nsubj	bush	El-Shafei, a local business owner, organized a similar event last\nsummer when Bush visited Kennebunkport.
+new_england	dobj=visited=nsubj	bush	Bush, who is represented by Atlanta agent Todd France, has\nvisited San Diego, New England and Miami.
+long_island	prep_on=credited=nsubj	rabinowitz	While the\ncommission gave no reason for its choices, and officials there\ndid not return calls Monday, Rabinowitz credited widespread\nsupport from the political and business communities on Long\nIsland and New York State.
+new_york_state	prep_on=credited=nsubj	rabinowitz	While the\ncommission gave no reason for its choices, and officials there\ndid not return calls Monday, Rabinowitz credited widespread\nsupport from the political and business communities on Long\nIsland and New York State.
+county_tyrone	prep_in=born=nsubjpass	kiely	Kiely was born in County Tyrone in Northern Ireland.
+northern_ireland	prep_in=born=nsubjpass	kiely	Kiely was born in County Tyrone in Northern Ireland.
+keady	prep_in=born=rcmod	makem	Makem, who was born in Keady, County Armagh, in British-ruled\nNorthern Ireland, died in New Hampshire in the United States on\nWednesday following a long battle with lung cancer.
+northern_ireland	prep_in=born=rcmod	makem	Makem, who was born in Keady, County Armagh, in British-ruled\nNorthern Ireland, died in New Hampshire in the United States on\nWednesday following a long battle with lung cancer.
+saipan	prep_in=arrested=nsubjpass	kazuyoshi_miura	Officials say 60-year-old Kazuyoshi Miura was arrested Friday in\nSaipan in the Northern Mariana Islands.
+northern_mariana_islands	prep_in=arrested=nsubjpass	kazuyoshi_miura	Officials say 60-year-old Kazuyoshi Miura was arrested Friday in\nSaipan in the Northern Mariana Islands.
+pyongyang	dobj=branded=rcmod	bush	Japan, along with South Korea, was a top financial backer of an\nearlier energy deal with North Korea reached in 1994 which\ncollapsed under Bush, who famously branded Pyongyang as part of\nan "axis of evil."
+north_korea	dobj=branded=rcmod	bush	The letter, the president's first to the leader of the\nNorth's regime, was viewed as a personal gesture from Bush, who\nonce branded North Korea as part of an "axis of evil."
+pyongyang	dobj=left=nsubj	christopher_hill	US envoy Christopher Hill left Pyongyang on Wednesday after what\nhe called "good talks", China's Xinhua news agency said.
+north_korea	dobj=left=nsubj	christopher_hill	APTN reports from Pyongyang that U.S. nuclear envoy Christopher\nHill has left North Korea.
+pyongyang	dobj=take=nsubj	bush	Fukuda is expected to urge Bush not to take Pyongyang off the\nlist when they meet on Friday, according to press reports.
+north_korea	dobj=take=nsubj	bush	Bush, Hu to take up North Korea, climate
+pyongyang	dobj=urged=nsubj	bush	Bush urged Pyongyang to fully complete its commitments in the\nsecond phase of the denuclearization process and, through third-\nphase actions, to implement full abandonment of all its nuclear\nweapons and existing nuclear programs.
+north_korea	dobj=urged=nsubj	bush	President Bush and Japan's prime minister urged North Korea on\nFriday to abide by its commitment to dismantle its nuclear\nprograms or face new sanctions.
+pyongyang	dobj=urged=nsubj	christopher_hill	The United States and South Korea will push for an early\nresumption of North Korea disarmament talks, Yonhap news agency\nsaid, as US envoy Christopher Hill Tuesday urged Pyongyang to\nprovide a complete account of its nuclear programmes.
+north_korea	dobj=urged=nsubj	christopher_hill	US envoy Christopher Hill urged North Korea Tuesday to provide a\ncomplete account of its nuclear programmes as he arrived in South\nKorea to kick-start disarmament talks.
+pyongyang	dobj=urged=nsubj	george_w._bush	US President George W. Bush, who once referred to North Korea as\npart of an "axis of evil", on Thursday urged Pyongyang to fulfill\nits commitments under the February agreement.
+north_korea	dobj=urged=nsubj	george_w._bush	US President George W. Bush on Friday urged North Korea to fully\ndisclose its nuclear programs, any stores of atomic materials, as\nwell as any and all "proliferation activities.
+pyongyang	dobj=urged=nsubj	gordon_johndroe	And White House spokesman Gordon Johndroe urged Pyongyang to do\nan about turn, warning that the move would further buttress its\npariah status.
+north_korea	dobj=urged=nsubj	gordon_johndroe	US National Security Council spokesman Gordon Johndroe urged\nNorth Korea to refrain from conducting "further provocative\nballistic missile launches" which he said destabilise the\nsecurity of Northeast Asia.
+pyongyang	dobj=urged=nsubj	lee	"I can't understand that they shot a civilian tourist" at a time\nof day when it was possible to discern she was a civilian, Lee\nsaid, and urged Pyongyang to "actively cooperate" in an\ninvestigation.
+north_korea	dobj=urged=nsubj	lee	Lee denounced the killing of 53-year-old housewife Park Wang-ja\nand urged North Korea to cooperate in the investigation.
+pyongyang	dobj=urged=nsubj	shinzo_abe	Prime Minister Shinzo Abe also urged Pyongyang to keep its word.
+north_korea	dobj=urged=nsubj	shinzo_abe	Japanese Prime Minister Shinzo Abe urged North Korea to carry out\nits promises of disarmament when asked to comment on the latest\ndevelopment on the financial issue.
+pyongyang	dobj=urged=nsubj	yasuo_fukuda	Japan's Prime Minister Yasuo Fukuda has urged Pyongyang to take\nconcrete steps to resolve the abduction issue, and said Tokyo was\nwilling to settle some grievances resulting from Japan's\n1910-1945 colonial rule.
+north_korea	dobj=urged=nsubj	yasuo_fukuda	Japanese Prime Minister Yasuo Fukuda on Thursday urged North\nKorea to take "concrete action" to implement a pledge to declare\nits nuclear programmes and disable its main atomic reactor by the\nyear end.
+pyongyang	dobj=visited=nsubj	christopher_hill	Earlier this month, chief U.S. negotiator to the six-party\nnuclear talks, Christopher Hill visited Pyongyang and reached a\nseries of agreements with DPRK negotiators.
+north_korea	dobj=visited=nsubj	christopher_hill	The potential restart of the talks comes after UN nuclear\ninspectors, the US envoy to the talks, Christopher Hill, and\nChinese Foreign Minister Yang Jiechi have all visited North Korea\nover the past fortnight.
+pyongyang	dobj=visited=nsubj	hill	On Oct. 1-3, Hill visited Pyongyang and reached a series of\nagreements with DPRK negotiators, which led to the removal of the\nDPRK from the U.S. terrorism list.
+north_korea	dobj=visited=nsubj	hill	Hill visited North Korea twice in 2007 , after a long period in\nwhich U.S. officials were barred from substantive bilateral\ncontacts with North Korean officials.
+kumsusan_memorial_palace	dobj=visited=nsubj	kim	KCNA said Kim and army commanders visited the Kumsusan Memorial\nPalace, where his father's embalmed corpse lies in state, to pay\nhomage to him.
+north_korea	dobj=visited=nsubj	kim	Kim visited North Korea in late April and met with Vice Foreign\nMinister Kim Kye Gwan, head of North Korea's delegation to the\nsix-party talks on denuclearization.
+pyongyang	dobj=visited=nsubj	kim	Kim visited Pyongyang in June 2000 when he was working as South\nKorean president.
+north_korea	dobj=visited=nsubj	kim	Kim visited North Korea in late April and met with Vice Foreign\nMinister Kim Kye Gwan, head of North Korea's delegation to the\nsix-party talks on denuclearization.
+pyongyang	dobj=visited=rcmod	christopher_hill	US diplomat Christopher Hill, who visited Pyongyang earlier this\nmonth, also told the Asahi Shimbun that he felt "something\nhappened" to the decision-making process in North Korea, amid\nreports that leader Kim Jong-Il had been seriously ill.
+north_korea	dobj=visited=rcmod	christopher_hill	U.S. nuclear envoy Christopher Hill, who visited North Korea last\nweek, said Saturday he believed Yongbyon would be shut down in\nabout three weeks.
+pyongyang	dobj=visit=nsubj	hill	But Rice and\nother top officials at the time decided Hill could not visit\nPyongyang until North Korea shut down its reactor as a sign of\ngood faith.
+north_korea	dobj=visit=nsubj	hill	"We are aware that Hill will visit North Korea starting today,"\nChief Cabinet Secretary Yasuhisa Shiozaki told reporters in\nTokyo.
+pyongyang	dobj=visit=nsubj	yang_jiechi	In a related development, China said its Foreign Minister Yang\nJiechi will visit Pyongyang on July 2-3, with nuclear disarmament\non the agenda.
+north_korea	dobj=visit=nsubj	yang_jiechi	Chinese Foreign Minister Yang Jiechi will visit North Korea in\nearly July ahead of the expected resumption of six-nation talks\non halting the Pyongyang's nuclear weapons program, Foreign\nMinistry spokesman Qin Gang said Thursday.
+pyongyang	dobj=warned=nsubj	bush	Bush refused to comment on whether North Korea was supplying\nnuclear know-how to Syria, but warned Pyongyang that "we expect\nthem to stop their proliferation."
+north_korea	dobj=warned=nsubj	bush	But for years, Bush has also warned North Korea against engaging\nin nuclear proliferation, specifically making that a red line\nthat could not be crossed after North Korea tested a nuclear\ndevice last year.
+pyongyang	nsubj=accuses=dobj	lee	Pyongyang accuses Lee of pursuing a "confrontational" policy,\nalleging that the South has ignored agreements to assist  with\nshipbuilding, railway and road improvements.
+north_korea	nsubj=accuses=dobj	lee	North Korea accuses Lee of seeking confrontation.
+pyongyang	nsubjpass=expected=pobj	hill	Pyongyang is expected to make that declaration before the end of\nthe year, according to Hill.
+north_korea	nsubjpass=expected=pobj	hill	North Korea is expected to declare a full list of its nuclear\nprogram before the end of the year, according to Hill.
+pyongyang	nsubj=suspended=prep_after	lee_myung	Pyongyang suspended government-to-government contacts after\nPresident Lee Myung- Bak took office with promises of a tougher\nNorth Korea policy.
+north_korea	nsubj=suspended=prep_after	lee_myung	North Korea suspended dialogue with Seoul after conservative\nleader Lee Myung- Bak took office in February, denouncing his\npolicy of linking economic assistance to progress in its nuclear\ndisarmament.
+pyongyang	prep_for=left=nsubj	hill	Hill left for Pyongyang Thursday morning from South Korea on an\nunannounced two- day journey.
+north_korea	prep_for=left=nsubj	hill	Before Hill left this week for North Korea, senior State\nDepartment officials portrayed the trip as a last-ditch effort to\nsave the deal.
+pyongyang	prep_from=arrived=nsubj	hill	Hill arrived in Seoul Friday from Pyongyang where he said he held\n"very substantive" talks with North Korean officials but gave no\nfurther details of his mission to rescue the crumbling six-nation\nnuclear disarmament pact.
+north_korea	prep_from=arrived=nsubj	hill	Hill arrived in Seoul earlier Friday from North Korea, where held\ntalks with his North Korean counterpart, Kim Kye Gwan, at the\nreclusive nation's invitation.
+pyongyang	prep_from=returned=nsubj	sung_kim	US envoy Sung Kim returned from Pyongyang last week with some\n18,000 pages of documents on the history of a plutonium bomb-\nmaking program dating back to 1986, which Kim said would help\nverify the contents of any declaration.
+north_korea	prep_from=returned=nsubj	sung_kim	On Saturday, Sung Kim, the U.S. State Department's top Korea\nspecialist, returned to South Korea from North Korea with boxes\ncontaining the nuclear documents.
+pyongyang	prep_in=arrived=nsubj	bill_richardson	Hill starts his tour one day after a bipartisan US team headed by\nformer UN ambassador Bill Richardson arrived in Pyongyang.
+north_korea	prep_in=arrived=nsubj	bill_richardson	U.S. presidential candidate Bill Richardson arrived Sunday in\nNorth Korea for a rare visit to the isolated country by a\nprominent American official.
+pyongyang	prep_in=arrived=nsubj	christopher_hill	PYONGYANG -- Top U.S. nuclear envoy Christopher Hill arrived in\nPyongyang by car after crossing the heavily fortified\nDemilitarized Zone dividing the two Koreas on Wednesday morning,\nin a bid to discuss ways to salvage the faltering nuclear\ndisarmament deal.
+north_korea	prep_in=arrived=nsubj	christopher_hill	U.S. nuclear envoy Christopher Hill has arrived in North Korea\nfor talks, state-run Xinhua News Agency reported Thursday.
+pyongyang	prep_in=arrived=nsubj	yang_jiechi	Chinese Foreign Minister Yang Jiechi arrived in Pyongyang on\nMonday, starting a three-day visit to the Democratic People's\nRepublic of Korea (DPRK).
+north_korea	prep_in=arrived=nsubj	yang_jiechi	Chinese Foreign Minister Yang Jiechi arrived in North Korea on\nMonday, the latest development in international efforts aimed at\nconvincing Pyongyang to give up its nuclear weapons programme.
+pyongyang	prep_in=arrived=rcmod	heinonen	Heinonen, whose team arrived in Pyongyang on Tuesday, declined to\nprovide details of his discussions with North Korean officials so\nfar and emphasized that the visit to Yongbyon, expected to last\ninto Friday, was not a formal inspection.
+north_korea	prep_in=arrived=rcmod	heinonen	Heinonen, whose team arrived in North Korea on Tuesday from\nBeijing, did not indicate a timeline for its closure.
+pyongyang	prep_in=spent=nsubj	christopher_hill	U.S. Assistant Secretary of State Christopher Hill spent two days\nin Pyongyang and visited the Yongbyon nuclear complex, becoming\nthe highest-level American official to go there.
+north_korea	prep_in=spent=nsubj	christopher_hill	Assistant Secretary of State Christopher Hill spent Thursday in\nNorth Korea after meeting with his North Korean counterpart, Kim\nKye Gwan, at the reclusive nation's invitation, U.S. officials\nsaid.
+pyongyang	prep_in=was=nsubj	christopher_hill	Chief\nU.S. nuclear negotiator Christopher Hill was in Pyongyang on\nWednesday to try to salvage the international disarmament-for-aid\ndeal.
+north_korea	prep_in=was=nsubj	christopher_hill	U.S. nuclear\nnegotiator Christopher Hill was in North Korea this week in an\nattempt to persuade it to abide by the agreement.
+pyongyang	prep_in=was=nsubj	sung_kim	Sung Kim, the US State Department's top Korea expert, was in\nPyongyang Thursday to "help jumpstart the process" at the same\ntime a Chinese envoy was in the North Korean capital, Vershbow\ntold a forum of the Korea Economic Institute in Washington.
+north_korea	prep_in=was=nsubj	sung_kim	She noted that Sung Kim, the US State Department's top expert on\nKorean affairs, was in North Korea leading a US team of experts\nsupervising the work at the Yongbyon complex.
+pyongyang	prep_in=was=rcmod	hill	Hill, who was in Pyongyang last week delivering Bush's letter and\ninspecting nuclear facilities, said he planned to attend the news\nconference.
+north_korea	prep_in=was=rcmod	hill	Hill, who was in discussions this week in North Korea on the\nfaltering deal to halt the communist state's nuclear ambitions,\nis heading to Washington via Tokyo, the spokesman said.
+pyongyang	prep_to=accompanied=dobj	roh	said Lee Su-hoon, chairman of Seoul's\nPresidential Committee on Northeast Cooperation Initiative,\nbefore he accompanied Roh to Pyongyang.
+north_korea	prep_to=accompanied=dobj	roh	The content of the message from Prime Minister Yasuo Fukuda is\nnot known, according to the report from the Kyodo News agency,\nwhich cited unnamed sources who accompanied Roh on his trip to\nNorth Korea.
+pyongyang	prep_to=authorized=nsubj	bush	President Bush Friday authorized the first U.S. shipment of heavy\nfuel oil to North Korea in five years, a reward to Pyongyang for\nmoving forward with its agreement to end its nuclear programs.
+north_korea	prep_to=authorized=nsubj	bush	President Bush Friday authorized the first U.S. shipment of heavy\nfuel oil to North Korea in five years, a reward to Pyongyang for\nmoving forward with its agreement to end its nuclear programs.
+pyongyang	prep_to=going=nsubj	hill	The fact that Hill is going to Pyongyang at all shows how much\nhas changed in the administration.
+north_korea	prep_to=going=nsubj	hill	"The Japanese government understands that Mr. Hill is going to\nNorth Korea today," Shiozaki told a regular news conference.
+pyongyang	prep_to=headed=nsubj	hill	Hill on Monday headed to Pyongyang for a rare visit.
+north_korea	prep_to=headed=nsubj	hill	The Japanese government later confirmed that Hill headed to North\nKorea, the first such visit by the US top negotiator in nearly\nfive years.
+pyongyang	prep_to=led=nsubj	bill_richardson	New Mexico state governor Bill Richardson led a US delegation to\nPyongyang in April, including Deputy National Security Adviser\nVictor Cha.
+north_korea	prep_to=led=nsubj	bill_richardson	Meanwhile New Mexico state governor Bill Richardson led a US team\nto North Korea, officially to secure the remains of US troops\nkilled in the Korean War but also discussing the nuclear\nshowdown.
+pyongyang	prep_to=traveled=nsubj	kim	Both Kim and Roh traveled to Pyongyang for summits with Kim Jong\nIl.
+north_korea	prep_to=traveled=nsubj	kim	Kim traveled Tuesday to North Korea to press for a list of its\nnuclear programs that the North had promised to deliver by the\nend of last year under an international disarmament agreement.
+pyongyang	prep_to=traveled=rcmod	albright	Albright, who traveled to Pyongyang in October 2000 to meet with\nNorth Korean leader Kim Jong Il, said that the discussion was\n``fruitful'' and that she was pleased to see the Bush\nadministration engaging the North Koreans.
+north_korea	prep_to=traveled=rcmod	albright	"It is necessary to have lower-level people make the initial\ncontact," said Albright, who in the waning days of the Clinton\nadministration, traveled to North Korea to meet Stalinist leader\nKim Jong-Il.
+langesund	prep_in=born=nsubjpass	selberg	Atle (pronounced AHT-luh) Selberg was born June 14, 1917, in\nLangesund, Norway.
+norway	prep_in=born=nsubjpass	selberg	Selberg was born June 14, 1917, in Langesund, Norway, the\nyoungest child of a mother who was a teacher and a father who was\nhimself a mathematician.
+bloomfield_hills	prep_in=grew=rcmod	romney	The event, which Romney's campaign said drew 800 people, was rich\nin symbolism and nostalgia for Romney, who grew up in the nearby\nsuburb Bloomfield Hills and whose father, George, was an auto\nexecutive and three-term Michigan governor.
+oakland_county	prep_in=grew=rcmod	romney	Romney, who grew up in Oakland County, was flanked at the\nannouncement by his wife, Ann, five sons and daughters-in-law, 10\ngrandchildren -- and cars.
+abbottabad	prep_in=contributed=nsubj	munir_ahmad	Associated Press writers Munir Ahmad in Abbottabad and Sadaqat\nJan and Zarar Khan in Islamabad contributed to this report.
+pakistan	prep_in=contributed=nsubj	munir_ahmad	Associated Press writers Munir Ahmad and Sadaqat Jan in\nIslamabad, Pakistan, and Jason Straziuso in Kabul, Afghanistan,\ncontributed to this report.
+panama_canal_zone	prep_in=born=nsubjpass	john_mccain	According to his biography, John McCain was born in the Panama Canal\nZone in 1936 which was leased to the United States but WAS NOT a U.S.\nTerritory at the time.
+panama	prep_in=born=nsubjpass	john_mccain	John McCain was not born in the United States of America but rather\nborn in Panama to US Citizens while his father served in the navy\nwhich appear to eliminate him from serving as President.
+panama_canal_zone	prep_in=born=rcmod	mccain	The same question was asked of Sen. McCain, who was born in the Panama Canal Zone.
+panama	prep_in=born=rcmod	mccain	Whether or not McCain, who was born in\nPanama to American parents, is &quot;natural born&quot; is open to question.
+zamboanga_city	prep_in=carried=rcmod	abu_sayyaf	The Abu Sayyaf, which has carried out bombings in Zamboanga City,\nhave been linked by intelligence agencies to the al-Qaeda terror\nnetwork of Osama bin Laden, mastermind of the September 11, 2001\nattacks in the United Staes.
+philippines	prep_in=carried=rcmod	abu_sayyaf	The Abu Sayyaf, which has carried out the worst kidnapping and\nbombing attacks in the Philippines, has been linked to the Al-\nQaeda terror network.
+zamboanga_sibugay	prep_in=kidnapped=nsubjpass	giancarlo_bossi	Giancarlo Bossi was kidnapped by gunmen in Zamboanga Sibugay and\nwas released in Lanao del Norte on July 20, after government\nlaunched a massive manhunt in Mindanao.
+philippines	prep_in=kidnapped=nsubjpass	giancarlo_bossi	The Rev. Giancarlo Bossi was kidnapped on June 10 in the southern\nPhilippines.
+sulu	prep_in=remained=nsubj	dulmatin	Philippine military chief General Hermogenes Esperon also said he\ndoubted the accuracy of the report, telling reporters he believed\nDulmatin remained in Sulu, where the search was hampered by\nrugged terrain and a lack of intelligence.
+philippines	prep_in=remained=nsubj	dulmatin	However, authorities in Sabah state, which borders the\nPhilippines, said they believed Dulmatin either remained in the\nPhilippines or had fled to Indonesia's Sulawesi island.
+krakow	prep_in=open=nsubj	charles	Prince Charles, Camilla to open Jewish center in Krakow, Poland
+poland	prep_in=open=nsubj	charles	Britain's Prince Charles to open Jewish centre in Poland
+krakow	rcmod=served=nsubj	john_paul	The beatification process is handled first at the diocese level\nin Rome and in Krakow, Poland, where John Paul served as\narchbishop.
+poland	rcmod=served=nsubj	john_paul	Diocesan level work was also being conducted in Krakow, Poland,\nwhere John Paul served as cardinal before becoming pope in 1978.
+praia_da_luz	prep_in=disappeared=nsubj	madeleine_mccann	But one year after Madeleine McCann disappeared in Praia da Luz,\nshe is still counted among the many thousands of children\nworldwide who vanish without a trace.
+portugal	prep_in=disappeared=nsubj	madeleine_mccann	Madeleine McCann disappeared in Portugal last month from the\nhotel room where she and her two-year-old twin siblings were\nsleeping in the southern resort town of Praia da Luz while her\nparents were out dining nearby.
+praia_da_luz	prep_in=disappeared=nsubj	madeleine	Madeleine disappeared from her hotel bedroom in Praia da Luz, in\nPortugal's southernmost Algarve province, where she was left with\nher two-year-old twin siblings while their parents went to a\nnearby restaurant.
+portugal	prep_in=disappeared=nsubj	madeleine	Madeleine disappeared in Portugal on May 3 from the hotel room\nwhere she and her two-year-old twin siblings were sleeping in the\nsouthern resort town of Praia da Luz while her parents were out\ndining nearby.
+praia_da_luz	prep_in=vanished=nsubj	madeleine	Madeleine vanished from her family's holiday apartment in Praia\nda Luz in southern Portugal on May 3, a few days before her\nfourth birthday, while her parents dined nearby with friends.
+portugal	prep_in=vanished=nsubj	madeleine	Madeleine vanished from her family's holiday apartment in Praia\nda Luz in southern Portugal on May 3, a few days before her\nfourth birthday, while her parents dined nearby with friends.
+kumsusan_memorial_palace	dobj=visited=nsubj	kim	KCNA said Kim and army commanders visited the Kumsusan Memorial\nPalace, where his father's embalmed corpse lies in state, to pay\nhomage to him.
+pyongyang	dobj=visited=nsubj	kim	Kim visited Pyongyang in June 2000 when he was working as South\nKorean president.
+machpelah_cemetery	prep_in=buried=partmod	houdini	Houdini, buried in Machpelah Cemetery in Queens, had been struck\nin the abdomen before he died, leading some to suspect foul play.
+queens	prep_in=buried=partmod	houdini	Houdini, buried in Machpelah Cemetery in Queens, had been struck\nin the abdomen before he died, leading some to suspect foul play.
+siberia	prep_in=born=rcmod	sharapova	The 20-year-old Sharapova, who was born in Siberia and began\ntraining in Bradenton, Florida, at age 9, said she grew up in a\nsecluded environment.
+russia	prep_in=born=rcmod	sharapova	Unlike Sharapova, who was born in Russia but hasn't lived there\nfor years, the 17-year-old still resides in Prague and says it\nwill always be home.
+kigali	prep_in=told=nsubj	kagame	Kagame told reporters in Kigali.
+rwanda	prep_in=told=nsubj	kagame	"It's wrong to assume that Rwanda holds the switch to Nkunda ...\nthis is a simplistic approach to the problem and it even\ncomplicates it further," Kagame told journalists in Rwanda.
+baidoa	prep_in=arrived=nsubj	gedi	Gedi arrived in Baidoa on Monday after spending several days\nholed up at the Sheraton hotel in Addis Ababa, apparently in\nlast-ditch consultations to save his job.
+somalia	prep_in=arrived=nsubj	gedi	Gedi arrived in Somalia on Friday for his first trip home since he\ntook office.
+northridge	prep_in=grew=rcmod	rachel	But Rachel, who grew up in Northridge, was Israeli.
+southern_california	prep_in=grew=rcmod	rachel	Robinson and his wife, Rachel, who both grew up in Southern\nCalifornia, struggled with the surroundings.
+pyeongchang	ccomp=said=nsubj	alexander_zhukov	The International Olympic Committee should stay "beyond politics"\nwhen it decides next month which city will host the games: Sochi,\nRussia; Pyeongchang, South Korea or Salzburg, Austria, Russian\nDeputy Prime Minister Alexander Zhukov said.
+south_korea	ccomp=said=nsubj	alexander_zhukov	The International Olympic Committee should stay "beyond politics"\nwhen it decides next month which city will host the games: Sochi,\nRussia; Pyeongchang, South Korea or Salzburg, Austria, Russian\nDeputy Prime Minister Alexander Zhukov said.
+gyeongju	prep_in=captured=nsubj	suzann_pettersen	Norway's Suzann Pettersen captured the US LPGA Tour's Hana Bank\nKolon Championship at three-under par in Gyeongju in South Korea\non Sunday.
+south_korea	prep_in=captured=nsubj	suzann_pettersen	Norway's Suzann Pettersen captured the US LPGA Tour's Hana Bank\nKolon Championship at three-under par in Gyeongju in South Korea\non Sunday.
+incheon	prep_in=said=nsubj	hill	Hill said in Incheon that the IAEA will be able to "monitor the\nshutdown and sealing of this plant."
+south_korea	prep_in=said=nsubj	hill	Earlier, in South Korea, Hill said the U.S. would like a\ndeclaration to be submitted before the inauguration of South\nKorea's new president on Feb. 25.
+seville	prep_in=buried=nsubjpass	puerta	Puerta was then buried at a cemetery in Seville in southwestern\nSpain at 2pm (1200 GMT), reporters said at the scene.
+spain	prep_in=buried=nsubjpass	puerta	Puerta was then buried at a cemetery in Seville in southwestern\nSpain at 2pm (1200 GMT), reporters said at the scene.
+seville	prep_in=cremated=nsubjpass	puerta	Puerta was then cremated at a cemetery in Seville in southwestern\nSpain at 2pm (1200 GMT), reporters said at the scene.
+spain	prep_in=cremated=nsubjpass	puerta	Puerta was then cremated at a cemetery in Seville in southwestern\nSpain at 2pm (1200 GMT), reporters said at the scene.
+canary_islands	prep_to=travel=nsubj	christoph_eschenbach	In January, music director Christoph Eschenbach and the orchestra\nwill travel to the Canary Islands, Spain, Portugal, Luxembourg,\nHungary and Austria.
+spain	prep_to=travel=nsubj	christoph_eschenbach	In January, music director Christoph Eschenbach and the orchestra\nwill travel to the Canary Islands, Spain, Portugal, Luxembourg,\nHungary and Austria.
+darfur	dobj=visited=nsubj	rice	Rice visited Darfur in 2005, spending an afternoon in a refugee\ncamp.
+sudan	dobj=visited=nsubj	rice	Rice visited Sudan in July 2005 and made a brief trip to Liberia\nin January 2006, but otherwise rarely traveled to Africa since\nshe took office two and a half years ago.
+darfur	dobj=visited=nsubj	richardson	Richardson, heading a delegation made up of the Save Darfur\nCoalition, also held talks with Foreign Minister Lam Akol and\nvisited Darfur where he met with government and humanitarian\nofficials as well as rebel faction leaders.
+sudan	dobj=visited=nsubj	richardson	A former energy secretary in the Clinton administration,\nRichardson also visited Sudan in January to try to end four years\nof fighting in the Darfur region.
+south_darfur	dobj=visited=rcmod	zhai	Zhai, who visited North and South Darfur on Saturday, said\nsituation in the region was generally stable though quite a\nnumber of problems still existed.
+sudan	dobj=visited=rcmod	zhai	"China has always played a positive role in trying to resolve the\nDarfur issue and sincerely hopes peace and stability in Sudan be\nresumed as soon as possible," said Zhai, who visited Sudan last\nweek to prepare for Hu's visit.
+darfur	prep_from=hosting=nsubj	chad	In addition, Chad is hosting\n232,000 refugees from Sudan, primarily from Darfur.
+sudan	prep_from=hosting=nsubj	chad	In addition, Chad is hosting\n232,000 refugees from Sudan, primarily from Darfur.
+darfur	prep_to=go=prep_to	chad	"If the resolution is passed, we are even ready to go together to\nDarfur, Chad and Sudan," Sarkozy said.
+sudan	prep_to=go=prep_to	chad	"If the resolution is passed, we are even ready to go together to\nDarfur, Chad and Sudan," Sarkozy said.
+darfur	prep_to=paid=nsubj	liu	Since resuming his current post, Liu had paid three visits to\nDarfur and shuttled between the United States, Britain, Egypt and\nother countries concerned, making unremitting efforts to\nresolving the Darfur issue.
+sudan	prep_to=paid=nsubj	liu	Before the current tour, Liu had paid three visits to Sudan since\nassuming his post and made a field tour to Darfur during his\nfirst visit in Sudan last May, right after his appointment.
+darfur	prep_to=travel=nsubj	holmes	"After arriving in Khartoum, Sudan, on Nov. 28, Holmes will\ntravel to Darfur from Nov. 30 to Dec. 1, where he will meet\nindividuals affected by the conflict in Darfur,"the statement\nsaid.
+sudan	prep_to=travel=nsubj	holmes	Holmes, who is also UN emergency relief coordinator, will then\ntravel to Sudan on Wednesday where he is scheduled to go to Nyala\nand El-Fasher in the Darfur region to meet people who have been\naffected by the conflict there.
+darfur	prep_to=travel=nsubj	negroponte	The US embassy said Negroponte would travel to Darfur on Saturday\nahead of fresh talks the next day with officials in Khartoum.
+sudan	prep_to=travel=nsubj	negroponte	"Deputy Secretary of State Negroponte will travel to Sudan, Chad,\nLibya and Mauritania April 11 to the 19," McCormack told\nreporters.
+darfur	prep_to=wrapped=nsubj	holmes	Holmes this weekend wrapped up a weeklong trip to Darfur in\nSudan, Chad and the Central African Republic -- his first as the\nU.N.'s humanitarian chief -- by calling for a strong political\neffort to end the region's growing chaos.
+sudan	prep_to=wrapped=nsubj	holmes	Holmes wrapped up his four-day visit to Sudan on Sunday, during\nwhich he held meetings with officials of Sudanese government, UN\nagencies, international and national NGOs as well as donors.
+davos	nsubj=said=nsubj	tzipi_livni	DAVOS, Switzerland -- Palestinian leader Mahmoud Abbas and\nIsraeli Foreign Minister Tzipi Livni said here on Thursday that\nthey were willing to start serious negotiations to promote the\npeace process.
+switzerland	nsubj=said=nsubj	tzipi_livni	DAVOS, Switzerland -- Palestinian leader Mahmoud Abbas and\nIsraeli Foreign Minister Tzipi Livni said here on Thursday that\nthey were willing to start serious negotiations to promote the\npeace process.
+lucerne	prep_in=arrived=nsubj	louis_palmer	Louis Palmer, 36, arrived back in Lucerne in central Switzerland\nin his "solar taxi" after covering 53,451 kilometres (33,213\nmiles) over four continents.
+switzerland	prep_in=arrived=nsubj	louis_palmer	Louis Palmer, 36, arrived back in Lucerne in central Switzerland\nin his "solar taxi" after covering 53,451 kilometres (33,213\nmiles) over four continents.
+davos	prep_in=is=rcmod	moussa	The official, who spoke on condition of anonymity because he was\nnot authorized to give official statements, said Moussa, who is\ncurrently in Davos, Switzerland, expressed readiness to return to\nLebanon but that no date has been set.
+switzerland	prep_in=is=rcmod	moussa	Moussa, who is currently in Davos, Switzerland for the World\nEconomic Forum annual meeting, was quoted by MENA as saying that\nthe Gaza situation is "deplorable" as a result of a starving\ncampaign, a campaign to starve the people over there.
+gstaad	prep_in=won=rcmod	hanescu	Hanescu, who won his first ATP title on Sunday in Gstaad,\nSwitzerland, conceded only seven points on serve against the\nSpaniard, who upset third-seeded Agustin Calleri in the opening\nround Tuesday.
+switzerland	prep_in=won=rcmod	hanescu	Hanescu, who won his maiden ATP title last Sunday in Gstaad,\nSwitzerland, conceded only seven points on serve against the\nSpaniard, who upset third-seeded Agustin Calleri in the opening\nround Tuesday.
+republic_of_china	ccomp=said=nsubj	chen	On the issue of cross-Taiwan Strait relations, Chen said that\nrationally speaking, Taiwan is not the Republic of China.
+taiwan	ccomp=said=nsubj	chen	Chen said Taiwan is Taiwan which is unrelated to China.
+fujian_province	dobj=hit=nsubj	fung_wong	Typhoon Fung Wong, the eighth tropical storm to hitting China\nthis year, hit Fujian Province at 10 p.m. on Monday, bringing\nheavy rain.
+taiwan	dobj=hit=nsubj	fung_wong	Typhoon Fung Wong hit Taiwan just before dawn, packing winds of\n105 miles (167 kilometers) per hour.
+chiayi	dobj=visit=nsubj	chen_yunlin	Chen Wen-lin said he regretted that Chen Yunlin would not visit\nChiayi and expressed hope that the public would not "over\npoliticize" his visit.
+taiwan	dobj=visit=nsubj	chen_yunlin	Although there has been speculation that Chen Yunlin, China's top\nnegotiator with Taiwan, would visit Taiwan by the end of this\nyear, Premier Liu Chiao- shiuan said Friday that the plans have\nnot yet been finalized.
+republic_of_china	prep_as=referred=pobj	chen	According to Chen, during his meeting with Ortega Tuesday, Ortega\nreferred to Taiwan as "Republic of China (Taiwan) " when he\nmentioned the country for the first time, but called the country\n"Republic of Taiwan" later on.
+taiwan	prep_as=referred=pobj	chen	For example, China has referred to Taiwan as "Taiwan, China" and\ninsisted  that cross-strait  visits are not ones "between two\ncountries," according to Chen.
+republic_of_china	prep_for=working=nsubj	kuo	Kuo was\nworking for the People's Republic of China.
+taiwan	prep_for=working=nsubj	kuo	Bergersen says he assumed Kuo was working for Taiwan.
+taipei_county	prep_in=found=agent	nariaki_konishi	The Fagus hayatae was first found in Taiwan in 1906 in Taipei\nCounty by Japanese botanist Nariaki Konishi, and since 1992 has\nbeen listed in the Cultural Heritage Preservation Law as a rare\nand precious plant.
+taiwan	prep_in=found=agent	nariaki_konishi	The Fagus hayatae was first found in Taiwan in 1906 in Taipei\nCounty by Japanese botanist Nariaki Konishi, and since 1992 has\nbeen listed in the Cultural Heritage Preservation Law as a rare\nand precious plant.
+tainan_city	prep_in=mobbed=nsubjpass	zhang_mingqing	Chiang was referring to the incident where ARATS Deputy President\nZhang Mingqing was mobbed by protesters in southern Taiwan's\nTainan City on Oct. 21, suffering minor injuries.
+taiwan	prep_in=mobbed=nsubjpass	zhang_mingqing	The legislators expressed concern about Chen's safety while in\nTaiwan after ARATS Deputy President Zhang Mingqing was mobbed by\nprotesters in southern Taiwan's Tainan City on Oct. 21, suffering\nminor injuries.
+chiayi	prep_in=said=nsubj	chen	"Sixty years have elapsed, but problems from the event has not\nbeen fully solved on grounds that truth has been distorted and\nculprits have been covered up...this is something unforgivable,"\nChen said Tuesday in southern Chiayi.
+taiwan	prep_in=said=nsubj	chen	In Taiwan, Chen said quarantine officials have checked 4,026\nsamples of migrant birds, 572 chicken farms, 569 goose farms and\n105 duck farms for avian flu virus, but no traces of H5N1 have\nbeen discovered.
+dar_es_salaam	prep_from=told=nsubj	habimana	We will no longer\nhonour his invitations and we demand another mediator," Habimana\ntold AFP by telephone from Dar es Salaam.
+tanzania	prep_from=told=nsubj	habimana	All that we want is political negotiations and for the\nresults of this to be applied," Habimana told AFP via telephone\nfrom Tanzania.
+la_grita	dep=praises=nsubj	hugo_chavez	LA GRITA, Venezuela -- Aboard the presidential jet, a grinning\nHugo Chavez puts a hand on Sean Penn's shoulder, praises his\nacting and adds: "And he's anti-Bush!"
+venezuela	dep=praises=nsubj	hugo_chavez	CARACAS, Venezuela -- President Hugo Chavez praises a recent\nlegal victory over Texas-based Exxon Mobil Corp., calling a\nBritish judge's ruling that favored Venezuela's state oil company\na defeat for Washington.
+hanoi_hilton	prep_in=imprisoned=nsubjpass	mccain	The country where McCain was shot down, and imprisoned for more\nthan five years in the infamous Hanoi Hilton.
+vietnam	prep_in=imprisoned=nsubjpass	mccain	He plans to stop Friday in Memphis, Tenn., for a speech marking\nthe 40th anniversary of the assassination of Dr. Martin Luther\nKing Jr., who was killed during the time McCain was imprisoned in\nVietnam.
