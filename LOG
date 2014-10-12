@@ -11,3 +11,9 @@ cut -f2,3,4 data/triggerCounts.txt |tr 'A-Z' 'a-z'| awk '{print $1"="$2"="$3}' >
 
 cat data/triggerPaths.list | python scripts/checkIfTrigger.py data/placePairsOccurring.txt | sort -k4,4 > data/firstLookTriggers.txt
 awk '{print $1}' data/firstLookTriggers.txt | sort | uniq -c | awk '{print $1"\t"$2}' | sort -nrk1,1 > data/firstLookTriggers_uniq.txt
+
+
+# Grab all people from freebase
+cat /u/nlp/data/semparse/rdf/scr/jackson/state/execs/93.exec/0.ttl | grep type\.object\.type.*fb:people\.person. > derp
+cut -f1 derp | tr ':.' '\t' | awk '$2=="en"{print $3}' | sort | uniq > data/freebase/people.txt
+rm derp
