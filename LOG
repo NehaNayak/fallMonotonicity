@@ -17,3 +17,7 @@ awk '{print $1}' data/firstLookTriggers.txt | sort | uniq -c | awk '{print $1"\t
 cat /u/nlp/data/semparse/rdf/scr/jackson/state/execs/93.exec/0.ttl | grep type\.object\.type.*fb:people\.person. > derp
 cut -f1 derp | tr ':.' '\t' | awk '$2=="en"{print $3}' | sort | uniq > data/freebase/people.txt
 rm derp
+
+# Recover examples
+cat data/triggerPaths.txt |python scripts/dictionaryize.py > data/triggerPaths.dict
+cat data/firstLookTriggers.txt | awk '{printf "%s\t%s\t%s\n%s\t%s\t%s\n", $3,$1,$2,$4,$1,$2}'|python psqlScripts/recoverExamples.py data/triggerPaths.dict > data/firstLookTriggers_examples.txt
