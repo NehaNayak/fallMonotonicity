@@ -1,0 +1,54 @@
+High level tasks:
+===================================================================================
+
+- Collect location hierarchy, with associated costs log[ P(hypernym) / P(hyponym) ]
+	Output format: text
+	- redo with mentions instead of ner
+
+- Collect top ~100 triggers for locations, with associated monotonicity
+	Output format: dependency patterns (e.g., semgrex)
+
+- Import location hierarchy into database, merging with WordNet
+	Output format: database table
+	- adding labelled edges between place names and verbs
+  - mark when ordering can be used - in 2 places in client (annotate) harder place to mark : server side 
+
+- Subtask: word sense disambiguation on these locations
+
+- Collect relation entailment pairs: e.g., "lived in" -> "resides in".
+	Output format: text, then database
+	find dependency paths that indicate relations from relation_types
+	(that entail this proper relation)
+	(and the ones entailed by it)
+
+- Machine learned monotonicity markings (especially using dependency graphs).
+
+- Train a classifier for location triggers
+
+- Class to mark trees with whether or not meronymy holds
+
+
+Databases:
+===================================================================================
+
+- GreenPlum (massive distributed) database at:
+  psql://jonsson.stanford.edu:4242/kbp
+  Access using:
+  gpsql kbp OR psql -p 4242 kbp
+
+  Relevant tables:
+  - sentences
+  - relation_mentions (WHERE is_correct='t')
+
+- Postgres (small) database with NaturalLI data at:
+  psql://jonsson.stanford.edu:5432/naturalli
+  
+  Access using:
+  psql naturalli
+
+  Relevant tables:
+  - word
+  - edge
+  - edge_type
+  - word_sense?
+  - privative?
