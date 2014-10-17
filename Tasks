@@ -11,7 +11,14 @@ High level tasks:
 - Import location hierarchy into database, merging with WordNet
 	Output format: database table
 	- adding labelled edges between place names and verbs
-  - mark when ordering can be used - in 2 places in client (annotate) harder place to mark : server side 
+  - mark when ordering can be used - in 2 places in client (annotate) harder place to mark : server side
+  - incorporate gazetteer data
+  	/scr/nlp/data/tackbp2014/data/gazetteers
+	kbp_cities.tab
+	kbp_code2country.tab
+	kbp_code2region.tab
+	/scr/nlp/data/tackbp2013/data/worldknowledge/
+	edu.stanford.nlp.kbp.slotfilling.evaluate.WorldKnowledgePostProcessor creates a partial ordering over these
 
 - Subtask: word sense disambiguation on these locations
 
@@ -20,6 +27,8 @@ High level tasks:
 	find dependency paths that indicate relations from relation_types
 	(that entail this proper relation)
 	(and the ones entailed by it)
+  - entailment rules:
+    http://u.cs.biu.ac.il/~nlp/resources/downloads/predicative-entailment-rules-learned-using-local-and-global-algorithms/
 
 - Machine learned monotonicity markings (especially using dependency graphs).
 
