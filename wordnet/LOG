@@ -1,0 +1,29 @@
+#cd WordNet-3.0/dict/
+#cat index.noun | tr ' ' '\t' | cut -f1 |awk 'NF'> ../../nounTokens.txt
+#cat noun.exc | tr ' ' '\t' | cut -f1 >> ../../nounTokens.txt 
+#cat index.verb | tr ' ' '\t' | cut -f1 |awk 'NF'> ../../verbTokens.txt
+#cat verb.exc | tr ' ' '\t' | cut -f1 >> ../../verbTokens.txt 
+#cat index.adj | tr ' ' '\t' | cut -f1 |awk 'NF'> ../../adjTokens.txt
+#cat adj.exc | tr ' ' '\t' | cut -f1 >> ../../adjTokens.txt 
+#cat index.adv | tr ' ' '\t' | cut -f1 |awk 'NF'> ../../advTokens.txt
+#cat adv.exc | tr ' ' '\t' | cut -f1 >> ../../advTokens.txt 
+#cd ../../
+
+# Back to wordnet directory!
+#sort adjTokens.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
+#mv temp adjTokens.txt 
+#sort nounTokens.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
+#mv temp nounTokens.txt 
+#sort verbTokens.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
+#mv temp verbTokens.txt 
+#sort advTokens.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
+#mv temp advTokens.txt 
+
+sort adjTokens_expanded.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
+mv temp adjTokens_expanded.txt 
+sort nounTokens_expanded.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
+mv temp nounTokens_expanded.txt 
+sort verbTokens_expanded.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
+mv temp verbTokens_expanded.txt 
+sort advTokens_expanded.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
+mv temp advTokens_expanded.txt 
