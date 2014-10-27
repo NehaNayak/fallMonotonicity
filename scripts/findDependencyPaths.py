@@ -50,7 +50,7 @@ def main():
 				path = path.split()[:-1]
 				for i in range(2,len(path),3):
 					path[i]=text[int(path[i])-2]
-				print "\t".join([relation,":".join(path),name1,name2)
+				print "\t".join([relation,":".join(path),name1,name2])
 		except IndexError:
 			pass
 		

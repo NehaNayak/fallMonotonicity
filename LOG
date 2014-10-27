@@ -21,3 +21,21 @@ rm derp
 # Recover examples
 cat data/triggerPaths.txt |python scripts/dictionaryize.py > data/triggerPaths.dict
 cat data/firstLookTriggers.txt | awk '{printf "%s\t%s\t%s\n%s\t%s\t%s\n", $3,$1,$2,$4,$1,$2}'|python psqlScripts/recoverExamples.py data/triggerPaths.dict > data/firstLookTriggers_examples.txt
+
+# Get relation instances
+python psqlScripts/findPairs_truefalse.py t > data/relationInstance_true.pickle 
+python psqlScripts/findPairs_truefalse.py f > data/relationInstance_false.pickle
+
+# Calculate priors
+cat data/relationPaths_true.txt | cut -f1 | sort | uniq -c | awk '{print $2"\t"$1}'| sort -nrk2,2 > data/relationPaths/priors_relations_true.txt
+cat data/relationPaths_true.txt | cut -f2 | sort | uniq -c | awk '{print $2"\t"$1}'| sort -nrk2,2 > data/relationPaths/priors_paths_true.txt
+cat data/relationPaths_false.txt | cut -f1 | sort | uniq -c | awk '{print $2"\t"$1}'| sort -nrk2,2 > data/relationPaths/priors_relations_false.txt
+cat data/relationPaths_false.txt | cut -f2 | sort | uniq -c | awk '{print $2"\t"$1}'| sort -nrk2,2 > data/relationPaths/priors_paths_false.txt
+
+cat data/relationPaths_true.txt data/relationPaths_false.txt | cut -f1 | sort | uniq -c | awk '{print $2"\t"$1}'| sort -nrk2,2 > data/relationPaths/priors_relations_both.txt
+cat data/relationPaths_true.txt data/relationPaths_false.txt | cut -f2 | sort | uniq -c | awk '{print $2"\t"$1}'| sort -nrk2,2 > data/relationPaths/priors_paths_both.txt
+
+# Calculate probabilities
+python scripts/calculateProbabilities.py data/relationPaths/joint_true.txt data/relationPaths/priors_relations_both.txt data/relationPaths/priors_paths_both.txt > data/relationPathProbabilities.txt
+python scripts/calculateOdds.py data/relationPaths/joint_true.txt data/relationPaths/priors_relations_true.txt data/relationPaths/priors_paths_both.txt | sort -grk4,4 | sort -s -k1,1 > data/relationPathOdds_sorted.txt
+python scripts/calculateNormalizedOdds.py data/relationPaths/joint_true.txt data/relationPaths/priors_relations_true.txt data/relationPaths/priors_paths_both.txt | sort -grk4,4 | sort -s -k1,1 > data/relationPathNormalizedOdds_sorted.txt
