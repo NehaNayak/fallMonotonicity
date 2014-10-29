@@ -1,0 +1,152 @@
+break.n.09	the occurrence of breaking
+break.n.10	an abrupt change in the tone or register of the voice (as at puberty or due to emotion)
+break.n.11	the opening shot that scatters the balls in billiards or pool
+break.v.05	destroy the integrity of; usually by force; cause to separate into pieces or fragments
+break.v.27	come forth or begin from a state of latency
+break.v.28	happen or take place
+break.v.30	invalidate by judicial action
+break.v.38	exchange for smaller units of money
+break.v.41	separate from a clinch, in boxing
+break.v.45	pierce or penetrate
+break.v.48	interrupt the flow of current in
+break.v.49	undergo breaking
+break.v.52	change suddenly from one tone quality or register to another
+break.v.55	crack; of the male voice in puberty
+break.v.56	fall sharply
+break.v.58	diminish or discontinue abruptly
+break.v.59	weaken or destroy in spirit or body
+call.n.06	a brief social visit
+call.n.08	a demand for a show of hands in a card game
+call.n.11	a visit in an official or professional capacity
+carry.n.01	the act of carrying something
+carry.v.05	bear or be able to bear the weight, pressure,or responsibility of
+carry.v.10	be necessarily associated with or result in or involve
+carry.v.11	win in an election
+carry.v.17	pass on a communication
+carry.v.18	have as an inherent or characteristic feature or have as a consequence
+carry.v.19	be conveyed over a certain distance
+carry.v.20	keep up with financial support
+carry.v.21	have or possess something abstract
+carry.v.22	be equipped with (a mast or sail)
+carry.v.24	compensate for a weaker partner or member by one's own performance
+carry.v.27	capture after a fight
+carry.v.31	bear (a crop)
+carry.v.32	propel or give impetus to
+carry.v.33	drink alcohol without showing ill effects
+carry.v.34	be able to feed
+carry.v.35	have a certain range
+carry.v.36	cover a certain distance or advance beyond
+carry.v.37	secure the passage or adoption (of bills and motions)
+carry.v.38	be successful in
+cover.n.10	a false identity and background (especially one created for an undercover agent)
+cut.n.01	a share of the profits
+cut.n.02	(film) an immediate transition from one shot to the next
+cut.n.04	a step on some scale
+cut.n.10	the style in which a garment is cut
+cut.n.20	an unexcused absence from class
+cut.v.08	hit (a ball) with a spin so that it turns in the opposite direction
+cut.v.15	pass directly and often in haste
+cut.v.16	pass through or across
+cut.v.17	make an abrupt change of image or sound
+cut.v.19	make a recording of
+cut.v.23	perform or carry out
+cut.v.25	allow incision or separation
+cut.v.26	divide a deck of cards at random into two parts to make selection difficult
+cut.v.28	reap or harvest
+cut.v.30	penetrate injuriously
+cut.v.34	dissolve by breaking down the fat of
+draw.n.05	a playing card or cards dealt or taken from the pack
+draw.v.35	flatten, stretch, or mold metal or glass, by rolling or by pulling it through a die or by stretching
+draw.v.36	cause to localize at one point
+drawing.n.02	a representation of forms or objects on a surface by means of lines
+fall.v.13	lose office or power
+fall.v.28	come out; issue
+fall.v.29	be born, used chiefly of lambs
+fall.v.30	begin vigorously
+fall.v.31	go as if by falling
+get.v.32	overcome or destroy
+give.v.01	cause to have, in the abstract sense or physical sense
+give.v.03	transfer possession of something concrete or abstract to somebody
+give.v.14	leave with; give temporarily
+give.v.15	emit or utter
+give.v.19	give (as medicine)
+give.v.27	estimate the duration or outcome of something
+give.v.29	deliver in exchange or recompense
+give.v.32	perform for an audience
+give.v.34	propose
+give.v.40	allow to have or take
+give.v.41	inflict as a punishment
+give.v.42	occur
+give.v.43	consent to engage in sexual intercourse with a man
+give.v.44	proffer (a body part)
+head.n.07	the top of something
+head.n.14	an individual person
+head.n.26	that part of a skeletal muscle that is away from the bone that it moves
+head.n.29	the striking part of a tool
+head.n.30	(nautical) a toilet on board a boat or ship
+head.n.31	a projection out from one end
+hold.n.06	a stronghold
+hold.v.29	take and maintain control over, often by violent means
+hold.v.31	cover as for protection against noise or smell
+hold.v.33	aim, point, or direct
+hold.v.36	keep from exhaling or expelling
+line.n.02	a mark that is long relative to its width
+line.n.03	a formation of people or things one behind another
+line.n.05	text consisting of a row of words written across a page or computer screen
+line.n.20	in games or sports; a mark indicating positions or bounds of the playing area
+make.v.14	be or be capable of being changed or made into
+make.v.16	perform or carry out
+make.v.18	change from one form into another
+make.v.19	act in a certain way so as to acquire
+make.v.24	carry out or commit
+make.v.30	undergo fabrication or creation
+make.v.31	be suitable for
+make.v.32	add up to
+make.v.33	amount to
+make.v.34	constitute the essence of
+make.v.35	appear to begin an activity
+make.v.38	gather and light the materials for
+make.v.41	assure the success of
+make.v.43	consider as being
+make.v.44	calculate as being
+make.v.45	cause to be enjoyable or pleasurable
+make.v.46	favor the development of
+make.v.47	develop into
+make.v.48	behave in a certain way
+pass.n.13	a complimentary ticket
+play.n.02	a theatrical performance of a drama
+play.n.03	a preset plan of action in team sports
+play.n.06	utilization or exercise
+play.v.13	emit recorded sound
+play.v.15	put (a card or piece) into play during a game, or act strategically as if in a card game
+play.v.20	use to one's advantage
+play.v.22	be received or accepted or interpreted in a specific way
+play.v.26	be performed or presented for public viewing
+play.v.29	make bets
+play.v.31	shoot or hit in a particular manner
+play.v.32	use or move
+play.v.33	employ in a game or in a specific position
+play.v.35	exhaust by allowing to pull on the line
+point.n.10	the unit of counting in scoring a game or contest
+point.n.18	one percent of the total principal of a loan; it is paid at the time the loan is made and is independent of the interest on the loan
+point.n.23	a distinguishing or individuating characteristic
+run.n.06	a regular trip
+run.n.08	the continuous period of time during which something (a machine or a factory) operates or continues in operation
+run.n.15	an unbroken chronological sequence
+run.n.16	a short trip
+run.v.01	move fast by using one's feet, with one foot off the ground at any given time
+run.v.13	be operating, running or functioning
+run.v.16	be affected by; be subjected to
+run.v.21	carry out
+run.v.26	cause an animal to move fast
+run.v.31	set animals loose to graze
+set.n.07	the act of putting something in position
+set.n.08	a unit of play in tennis or squash
+set.n.13	any electronic equipment that receives or transmits radio or tv signals
+take.v.24	ascertain or determine by measuring, computing or take a reading from a dial
+take.v.33	buy, select
+take.v.34	to get into a position of having, e.g., safety, comfort
+take.v.39	develop a habit
+take.v.41	obtain by winning
+turn.n.06	the act of turning away or in the opposite direction
+turn.n.12	taking a short walk out and back

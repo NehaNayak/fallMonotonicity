@@ -39,3 +39,6 @@ cat data/relationPaths_true.txt data/relationPaths_false.txt | cut -f2 | sort | 
 python scripts/calculateProbabilities.py data/relationPaths/joint_true.txt data/relationPaths/priors_relations_both.txt data/relationPaths/priors_paths_both.txt > data/relationPathProbabilities.txt
 python scripts/calculateOdds.py data/relationPaths/joint_true.txt data/relationPaths/priors_relations_true.txt data/relationPaths/priors_paths_both.txt | sort -grk4,4 | sort -s -k1,1 > data/relationPathOdds_sorted.txt
 python scripts/calculateNormalizedOdds.py data/relationPaths/joint_true.txt data/relationPaths/priors_relations_true.txt data/relationPaths/priors_paths_both.txt | sort -grk4,4 | sort -s -k1,1 > data/relationPathNormalizedOdds_sorted.txt
+
+# Get locations from last quarter
+cat ../monotonicity/lcn/location_counts.txtm | awk '$2>10{print $1}' > locations.txt

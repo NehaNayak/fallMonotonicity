@@ -19,11 +19,20 @@
 #sort advTokens.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
 #mv temp advTokens.txt 
 
-sort adjTokens_expanded.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
-mv temp adjTokens_expanded.txt 
-sort nounTokens_expanded.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
-mv temp nounTokens_expanded.txt 
-sort verbTokens_expanded.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
-mv temp verbTokens_expanded.txt 
-sort advTokens_expanded.txt | uniq -c | tr -s ' ' '\t' | cut -f3 > temp
-mv temp advTokens_expanded.txt 
+# Make sense index
+#python formatWordnet.py synset_definition.txt
+
+# Compute word forms
+#python formatWordnet.py
+
+#cat adjTokens_expanded.txt nounTokens_expanded.txt verbTokens_expanded.txt advTokens.txt | sort | uniq > expandedVocab.txt
+
+# Make token - synset mapping
+#python formatWordnet.py
+
+# Fake clustering with 31 max senses
+cat token_synset.txt | python fakeClustering.py > token_synset_fakeCluster_31.txt
+cut -f3 token_synset.txt | sort | uniq > original_synsets.txt
+cut -f3 token_synset_fakeCluster_31.txt | sort | uniq > fakeCluster_31_synsets.txt
+cat original_synsets.txt fakeCluster_31_synsets.txt | sort | uniq -c | awk '$1==1{print $2}' > fakeCluster_31_missingSynsets.txt 
+cat fakeCluster_31_missingSynsets.txt | python whichAreMissing.py > fakeCluster_31_missingSynsets_definitions.txt 

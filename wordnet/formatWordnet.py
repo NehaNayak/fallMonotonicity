@@ -54,7 +54,7 @@ def expand(pos, word):
 
 def main():
 
-    """
+    """ 
     sense_index_file = open(sys.argv[1],'w')
     makeSenseIndex(sense_index_file)
     """
@@ -65,21 +65,22 @@ def main():
         for line in token_input_file:
             expForms = expand(pos,line[:-1])
             token_output_file.write(line)
-            for form in expForms:
+            for form in set(expForms):
                 token_output_file.write(form+"\n")
     """
     """ 
-    for pos in ['noun','verb','adj','adv']:
-        token_input_file = open(pos+"Tokens_expanded.txt",'r')
-        token_output_file = open(pos+"_token_synset.txt",'w')
-        for line in token_input_file:
-            synsets = wn.synsets(line[:-1])
-            for index, synset in enumerate(synsets):
-                token_output_file.write(line[:-1]+"\t"+str(index+1)+"\t"+synset.name()+"\n")
+    token_input_file = open("expandedVocab.txt",'r')
+    token_output_file = open("token_synset.txt",'w')
+    for line in token_input_file:
+        synsets = wn.synsets(line[:-1])
+        uniqueSynsets = []
+        for i in synsets:
+            if i not in uniqueSynsets:
+                uniqueSynsets.append(i)
+        for index, synset in enumerate(uniqueSynsets):
+            token_output_file.write(line[:-1]+"\t"+str(index+1)+"\t"+synset.name()+"\n")
     """
-    synset_definition_file=open("synset_definition.txt",'w')
-    for synset in list(wn.all_synsets()):
-        synset_definition_file.write(synset.name()+"\t"+"_".join(synset.definition().split())+"\n")
+    
          
 if __name__=='__main__':
     main()
