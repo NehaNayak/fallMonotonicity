@@ -1,0 +1,13 @@
+capital
+borough
+kingdom
+county
+republic
+city
+monarchy
+nation
+state
+country
+town
+village
+province
