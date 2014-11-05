@@ -1,0 +1,1295 @@
+Borodino	borodino.n.01.l	Napoleon defeated the Russians in 1812 in a pitched battle at a village in western Russia west of Moscow, but irreparably weakened his army
+Nag_Hammadi	nag_hammadi.n.02.l	a collection of 13 ancient papyrus codices translated from Greek into Coptic that were discovered by farmers near the town of Nag Hammadi in 1945; the codices contain 45 distinct works including the chief sources of firsthand knowledge of Gnosticism
+cow_town	cow_town.n.01.l	a small town in a cattle-raising area of western North America
+national_capital	national_capital.n.01.l	the capital city of a nation
+Namibia	namibia.n.01.l	a republic in southwestern Africa on the south Atlantic coast (formerly called South West Africa); achieved independence from South Africa in 1990; the greater part of Namibia forms part of the high Namibian plateau of South Africa
+South_West_Africa	namibia.n.01.l	a republic in southwestern Africa on the south Atlantic coast (formerly called South West Africa); achieved independence from South Africa in 1990; the greater part of Namibia forms part of the high Namibian plateau of South Africa
+Windhoek	windhoek.n.01.l	capital of Namibia in the center of the country
+Herat	herat.n.01.l	a city in northwestern Afghanistan on the site of several ancient cities
+Jalalabad	jalalabad.n.01.l	a town in eastern Afghanistan (east of Kabul)
+Kabul	kabul.n.01.l	the capital and largest city of Afghanistan; located in eastern Afghanistan
+Kandahar	kandahar.n.01.l	a city in southern Afghanistan; an important trading center
+Qandahar	kandahar.n.01.l	a city in southern Afghanistan; an important trading center
+Albania	albania.n.01.l	a republic in southeastern Europe on the Adriatic coast of the Balkan Peninsula
+Tirana	tirana.n.01.l	the capital and largest city of Albania in the center of the country
+Algeria	algeria.n.01.l	a republic in northwestern Africa on the Mediterranean Sea with a population that is predominantly Sunni Muslim; colonized by France in the 19th century but gained autonomy in the early 1960s
+Algiers	algiers.n.01.l	an ancient port on the Mediterranean; the capital and largest city of Algeria
+Batna	batna.n.01.l	a town in north central Algeria
+Blida	blida.n.01.l	a city in northern Algeria at the foot of the Atlas Mountains to the southwest of Algiers
+Oran	oran.n.01.l	a port city in northwestern Algeria and the country's 2nd largest city
+Djanet	djanet.n.01.l	a desert town in southeastern Algeria
+Reggane	reggane.n.01.l	a town in central Algeria
+Timgad	timgad.n.01.l	an ancient town founded by the Romans; noted for extensive and well-preserved ruins
+Timimoun	timimoun.n.01.l	a town in central Algeria in the Atlas Mountains
+Angola	angola.n.01.l	a republic in southwestern Africa on the Atlantic Ocean; achieved independence from Portugal in 1975 and was the scene of civil war until 1990
+Luanda	luanda.n.01.l	port city on Atlantic coast; the capital and largest city of Angola
+Huambo	huambo.n.01.l	a city in the mountains in western Angola
+Lobito	lobito.n.01.l	a seaport on the Atlantic coast of Angola
+George_Town	george_town.n.01.l	the capital of the Cayman Islands
+Antigua_and_Barbuda	antigua_and_barbuda.n.01.l	a country in the northern Leeward Islands
+Hamilton	hamilton.n.06.l	the capital of Bermuda
+Argentina	argentina.n.01.l	a republic in southern South America; second largest country in South America
+Bahia_Blanca	bahia_blanca.n.01.l	a port city in eastern Argentina to the southwest of Buenos Aires on an inlet of the Atlantic Ocean
+Buenos_Aires	buenos_aires.n.01.l	capital and largest city of Argentina; located in eastern Argentina near Uruguay; Argentina's chief port and industrial and cultural center
+Cordoba	cordoba.n.04.l	a city in central Argentina; site of a university founded in 1613
+Cordova	cordoba.n.04.l	a city in central Argentina; site of a university founded in 1613
+Moron	moron.n.02.l	a city in Argentina, to the west of Buenos Aires
+Rosario	rosario.n.01.l	a port city on the Parana River in eastern central Argentina
+Bulgaria	bulgaria.n.01.l	a republic in the eastern part of the Balkan Peninsula in southeastern Europe
+Sofia	sofia.n.01.l	capital and largest city of Bulgaria located in western Bulgaria
+Dobrich	dobrich.n.01.l	a city in northeastern Bulgaria (north of Varna) that is the commercial center of an agricultural region
+Varna	varna.n.01.l	a port city in northeastern Bulgaria on the Black Sea
+Yangon	yangon.n.01.l	the capital and largest city of Myanmar; located in the south near the Irrawaddy river delta
+Rangoon	yangon.n.01.l	the capital and largest city of Myanmar; located in the south near the Irrawaddy river delta
+Mandalay	mandalay.n.01.l	a city in central Myanmar to the north of Rangoon
+Burundi	burundi.n.01.l	a landlocked republic in east central Africa on the northeastern shore of Lake Tanganyika
+Bujumbura	bujumbura.n.01.l	the capital and largest city of Burundi
+Cameroon	cameroon.n.02.l	a republic on the western coast of central Africa; was under French and British control until 1960
+Cameroun	cameroon.n.02.l	a republic on the western coast of central Africa; was under French and British control until 1960
+Yaounde	yaounde.n.01.l	the capital of Cameroon
+Douala	douala.n.01.l	the largest city of Cameroon
+Praia	praia.n.01.l	the capital of Cape Verde on Sao Tiago Island
+Central_African_Republic	central_african_republic.n.01.l	a landlocked country in central Africa; formerly under French control; became independent in 1960
+Central_Africa	central_african_republic.n.01.l	a landlocked country in central Africa; formerly under French control; became independent in 1960
+Bangui	bangui.n.01.l	the capital and largest city of the Central African Republic
+Sri_Lanka	sri_lanka.n.01.l	a republic on the island of Ceylon; became independent of the United Kingdom in 1948
+Ceylon	sri_lanka.n.01.l	a republic on the island of Ceylon; became independent of the United Kingdom in 1948
+Colombo	colombo.n.01.l	the capital and largest city of Sri Lanka; has one of the largest harbors in the world; is located on the western coast of the island of Ceylon
+Kandy	kandy.n.01.l	a city of central Sri Lanka that was the last capital of the ancient kings of Ceylon; a resort and religious center
+Ndjamena	n'djamena.n.01.l	the capital and largest city of Chad; located in the southwestern on the Shari river
+Chile	chile.n.01.l	a republic in southern South America on the western slopes of the Andes on the south Pacific coast
+Antofagasta	antofagasta.n.01.l	a port city on the Pacific in northern Chile
+Concepcion	concepcion.n.01.l	an industrial city in Chile to the south of Santiago
+Santiago	gran_santiago.n.01.l	the capital and largest city of Chile; located in central Chile; one of the largest cities in South America
+Punta_Arenas	punta_arenas.n.01.l	a city in southern Chile on the Strait of Magellan; the southernmost city in the world
+Temuco	temuco.n.01.l	a city in central Chile to the south of Concepcion
+Beijing	beijing.n.01.l	capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city
+Peking	beijing.n.01.l	capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city
+Chongqing	chongqing.n.01.l	a city in south-central China on the Chang Jiang; a commercial center for western China
+Guangdong	guangdong.n.01.l	a province in southern China
+Guangzhou	guangzhou.n.01.l	a city on the Zhu Jiang delta in southern China; the capital of Guangdong province and a major deep-water port
+Canton	guangzhou.n.01.l	a city on the Zhu Jiang delta in southern China; the capital of Guangdong province and a major deep-water port
+Gansu	gansu.n.01.l	a province in north-central China; formerly part of the Silk Road to Turkistan and India and Persia
+Hunan	hunan.n.01.l	a province in southeastern central China between the Nan Ling mountains and the Chang Jiang; noted for its timber and valuable mineral resources
+Lanzhou	lanzhou.n.01.l	the capital city of the Chinese province of Gansu on the Yellow River
+Luoyang	luoyang.n.01.l	a city in east central China; the capital of ancient China during several dynasties
+Hangzhou	hangzhou.n.01.l	a city of eastern China on Hangzhou Bay; regarded by Marco Polo as the finest city in the world
+Nanning	nanning.n.01.l	an industrial city in southern China
+Nanjing	nanjing.n.01.l	a city in eastern China on the Yangtze River; a former capital of China; the scene of a Japanese massacre in the 1930s
+Shanghai	shanghai.n.01.l	the largest city of China; located in the east on the Pacific; one of the largest ports in the world
+Shenyang	shenyang.n.01.l	a city in northeastern China
+Tangshan	tangshan.n.01.l	an industrial city of northeastern China in Hebei province
+Wuhan	wuhan.n.01.l	a city of central China on the Chang Jiang; the commercial and industrial center of central China
+Xian	xian.n.01.l	a city of central China; capital of ancient Chinese empire 221-206 BC
+Changan	xian.n.01.l	a city of central China; capital of ancient Chinese empire 221-206 BC
+Taipei	taipei.n.01.l	the capital of Nationalist China; located in northern Taiwan
+Taichung	taichung.n.01.l	a city in Taiwan
+Colombia	colombia.n.01.l	a republic in northwestern South America with a coastline on the Pacific Ocean and the Caribbean Sea; achieved independence from Spain in 1821 under the leadership of Simon Bolivar; Spanish is the official language
+Bogota	bogota.n.01.l	capital and largest city of Colombia; located in central Colombia on a high fertile plain
+Cartagena	cartagena.n.02.l	a port city in northwestern Colombia on the Caribbean
+Soledad	soledad.n.01.l	a city in northern Colombia; a suburb of Barranquilla
+Comoros	comoros.n.01.l	a country on the Comoro Islands
+Republic_of_the_Congo	congo.n.03.l	a republic in west-central Africa; achieved independence from France in 1960
+Brazzaville	brazzaville.n.01.l	the capital and largest city of the Republic of the Congo
+Democratic_Republic_of_the_Congo	congo.n.01.l	a republic in central Africa; achieved independence from Belgium in 1960
+Zaire	congo.n.01.l	a republic in central Africa; achieved independence from Belgium in 1960
+Belgian_Congo	congo.n.01.l	a republic in central Africa; achieved independence from Belgium in 1960
+Goma	goma.n.01.l	a city in eastern Congo at the northern end of Lake Kivu near the border with Rwanda
+Kananga	kananga.n.01.l	a city in southwestern Congo; former name (until 1966) was Luluabourg
+Kinshasa	kinshasa.n.01.l	the capital of the Democratic Republic of the Congo on the Congo river opposite Brazzaville
+Lubumbashi	lubumbashi.n.01.l	a city in southeastern Congo near the border with Zambia; a copper mining center; former name (until 1966) was Elisabethville
+Costa_Rica	costa_rica.n.01.l	a republic in Central America; one of the most politically stable countries in Latin America
+San_Jose	san_jose.n.02.l	the capital and largest city of Costa Rica
+Abidjan	abidjan.n.01.l	city recognized by the United States as the capital of the Ivory Coast; largest city of the Ivory Coast
+Guatemala	guatemala.n.01.l	a republic in Central America; achieved independence from Spain in 1821; noted for low per capita income and illiteracy; politically unstable
+Guatemala_City	guatemala_city.n.01.l	the capital and largest city of Guatemala
+Belize	belize.n.01.l	a country on the northeastern coast of Central America on the Caribbean; formerly under British control
+Honduras	honduras.n.01.l	a republic in Central America; achieved independence from Spain in 1821; an early center of Mayan culture
+Tegucigalpa	tegucigalpa.n.01.l	the capital and largest city of Honduras
+El_Salvador	el_salvador.n.01.l	a republic on the Pacific coast of Central America
+Salvador	el_salvador.n.01.l	a republic on the Pacific coast of Central America
+San_Salvador	san_salvador.n.01.l	the capital and largest city of El Salvador; has suffered from recurrent earthquakes
+Santa_Ana	santa_ana.n.04.l	a city in western El Salvador
+Nicaragua	nicaragua.n.01.l	a republic in Central America; achieved independence from Spain in 1821
+Managua	managua.n.01.l	the capital and largest city of Nicaragua
+Panama	panama.n.01.l	a republic on the Isthmus of Panama; achieved independence from Colombia in 1903
+Panama_City	panama_city.n.02.l	the capital and largest city of Panama
+Merida	merida.n.01.l	the capital of the Mexican state of Yucatan
+Mexico	mexico.n.01.l	a republic in southern North America; became independent from Spain in 1810
+Chihuahua	chihuahua.n.02.l	a state in northern Mexico; mostly high plateau
+Chihuahua	chihuahua.n.01.l	a city in northern Mexico in the state of Chihuahua; commercial center of northern Mexico
+Ciudad_Juarez	ciudad_juarez.n.01.l	a city in northern Mexico on the Rio Grande opposite El Paso
+Juarez	ciudad_juarez.n.01.l	a city in northern Mexico on the Rio Grande opposite El Paso
+Ciudad_Victoria	ciudad_victoria.n.01.l	a city in east central Mexico
+Coahuila	coahuila.n.01.l	a state in northern Mexico; mostly high plateau
+Culiacan	culiacan.n.01.l	a city in northwestern Mexico
+Durango	durango.n.01.l	a city in north central Mexico; mining center
+Guadalajara	guadalajara.n.01.l	a city in southwestern Mexico; a popular health resort and site of architecture from the Spanish colonial era
+Hermosillo	hermosillo.n.01.l	a city in northwestern Mexico near the Gulf of California
+Leon	leon.n.03.l	a city in central Mexico
+Matamoros	matamoros.n.01.l	a city in northeastern Mexico opposite Brownsville near the mouth of the Rio Grande
+Mazatlan	mazatlan.n.01.l	a port city in western Mexico on the Pacific Ocean; tourist center
+Mexicali	mexicali.n.01.l	a city in northwestern Mexico near the California border
+Ciudad_de_Mexico	mexico_city.n.01.l	the capital and largest city of Mexico is a political and cultural and commercial and industrial center; one of the world's largest cities
+Monterrey	monterrey.n.01.l	an industrial city in northeastern Mexico
+Nogales	nogales.n.02.l	a town in northern Mexico on the border of Arizona
+Oaxaca	oaxaca.n.01.l	a city of southeastern Mexico
+Orizaba	orizaba.n.01.l	a city of east central Mexico (west of Veracruz); a popular resort
+Puebla	puebla.n.01.l	a city in south central Mexico (southeast of Mexico City) on the edge of central Mexican plateau
+San_Luis_Potosi	san_luis_potosi.n.01.l	a city in central Mexico
+Santa_Maria_del_Tule	santa_maria_del_tule.n.01.l	a town in southeastern Mexico near Oaxaca; site of Ahuehuete, a giant Montezuma cypress
+Tepic	tepic.n.01.l	a city in west central Mexico
+Tampico	tampico.n.01.l	a port city in eastern Mexico
+Torreon	torreon.n.01.l	a city in northern Mexico to the west of Monterrey
+Tuxtla_Gutierrez	tuxtla_gutierrez.n.01.l	a city in southeastern Mexico
+Villahermosa	villahermosa.n.01.l	a city in southeastern Mexico; the capital of the state of Tabasco
+Havana	havana.n.01.l	the capital and largest city of Cuba; located in western Cuba; one of the oldest cities in the Americas
+Santiago_de_Cuba	santiago_de_cuba.n.01.l	a port city in southeastern Cuba; industrial center
+Santiago	santiago_de_cuba.n.01.l	a port city in southeastern Cuba; industrial center
+Guantanamo	guantanamo.n.01.l	a city in southeastern Cuba; site of a United States naval base
+Haiti	haiti.n.01.l	a republic in the West Indies on the western part of the island of Hispaniola; achieved independence from France in 1804; the poorest and most illiterate nation in the western hemisphere
+Port-au-Prince	port-au-prince.n.01.l	the capital and largest city of Haiti
+Dominican_Republic	dominican_republic.n.01.l	a republic in the West Indies; located on the eastern two-thirds of the island of Hispaniola
+Santo_Domingo	santo_domingo.n.01.l	the capital and largest city of the Dominican Republic
+Ciudad_Trujillo	santo_domingo.n.01.l	the capital and largest city of the Dominican Republic
+San_Juan	san_juan.n.01.l	the capital and largest city of Puerto Rico
+Jamaica	jamaica.n.01.l	a country on the island of Jamaica; became independent of England in 1962; much poverty; the major industry is tourism
+Kingston	kingston.n.03.l	capital and largest city of Jamaica
+Bridgetown	bridgetown.n.01.l	capital of Barbados; a port city on the southwestern coast of Barbados
+Port_of_Spain	port_of_spain.n.01.l	the capital and largest city of Trinidad and Tobago on the west coast of the island of Trinidad
+Port-of-Spain	port_of_spain.n.01.l	the capital and largest city of Trinidad and Tobago on the west coast of the island of Trinidad
+Cyprus	cyprus.n.01.l	a country on the island of Cyprus; 80% of the people are of Greek origin and 20% or Turkish origin
+Nicosia	nicosia.n.01.l	the capital and largest city of Cyprus
+Czech_Republic	czech_republic.n.01.l	a landlocked republic in central Europe; separated from Slovakia in 1993
+Plzen	pilsen.n.01.l	a town in Czech Republic where Pilsner beer originated
+Prague	prague.n.01.l	the capital and largest city of the Czech Republic in the western part of the country; a cultural and commercial center since the 14th century
+Brno	brno.n.01.l	an industrial city in Moravia in Czech Republic to the southeast of Prague
+Brunn	brno.n.01.l	an industrial city in Moravia in Czech Republic to the southeast of Prague
+Ostrava	ostrava.n.01.l	an industrial city in northwestern Czech Republic in the Moravian lowlands; located in the coal mining area of Silesia
+Bohemia	bohemia.n.01.l	a historical area and former kingdom in the Czech Republic
+Slovakia	slovakia.n.01.l	a landlocked republic in central Europe; separated from the Czech Republic in 1993
+Slovak_Republic	slovakia.n.01.l	a landlocked republic in central Europe; separated from the Czech Republic in 1993
+Bratislava	bratislava.n.01.l	capital and largest city of Slovakia
+Benin	benin.n.01.l	a country on western coast of Africa; formerly under French control
+Dahomey	benin.n.01.l	a country on western coast of Africa; formerly under French control
+Togo	togo.n.01.l	a republic on the western coast of Africa on the Gulf of Guinea; formerly under French control
+Lome	lome.n.01.l	capital and largest city of Togo; located in the south on the Gulf of Guinea
+Denmark	denmark.n.01.l	a constitutional monarchy in northern Europe; consists of the mainland of Jutland and many islands between the North Sea and the Baltic Sea
+Kingdom_of_Denmark	denmark.n.01.l	a constitutional monarchy in northern Europe; consists of the mainland of Jutland and many islands between the North Sea and the Baltic Sea
+Copenhagen	copenhagen.n.01.l	the capital and largest city of Denmark; located on the island of Zealand
+Viborg	viborg.n.01.l	a town of Denmark in north central Jutland
+Djibouti	djibouti.n.02.l	a country in northeastern Africa on the Somali peninsula; formerly under French control but became independent in 1997
+Djibouti	djibouti.n.01.l	port city on the Gulf of Aden; the capital and largest city of Djibouti
+Dominica	dominica.n.01.l	a country on the island of Dominica
+Roseau	roseau.n.01.l	the capital and largest city of Dominica
+Malabo	malabo.n.01.l	the capital and largest city of Equatorial Guinea on the island of Bioko in the Gulf of Guinea
+Norway	norway.n.01.l	a constitutional monarchy in northern Europe on the western side of the Scandinavian Peninsula; achieved independence from Sweden in 1905
+Oslo	oslo.n.01.l	the capital and largest city of Norway; the country's main port; located at the head of a fjord on Norway's southern coast
+Bergen	bergen.n.01.l	a port city in southwestern Norway
+Stavanger	stavanger.n.01.l	a port city in southwestern Norway; center for shipbuilding industry
+Trondheim	trondheim.n.01.l	a port in central Norway on Trondheim Fjord
+Stockholm	stockholm.n.01.l	the capital and largest city of Sweden; located in southern Sweden on the Baltic
+Malmo	malmo.n.01.l	a port in southern Sweden
+Lund	lund.n.01.l	a city in southern Sweden
+Goteborg	goteborg.n.01.l	a port in southwestern Sweden; second largest city in Sweden
+Gothenburg	goteborg.n.01.l	a port in southwestern Sweden; second largest city in Sweden
+Uppsala	uppsala.n.01.l	a city in east central Sweden to the northwest of Stockholm
+Upsala	uppsala.n.01.l	a city in east central Sweden to the northwest of Stockholm
+Germany	germany.n.01.l	a republic in central Europe; split into East Germany and West Germany after World War II and reunited in 1990
+German_Democratic_Republic	east_germany.n.01.l	a republic in north central Europe on the Baltic; established by the Soviet Union in 1954; reunified with West Germany in 1990
+West_Germany	west_germany.n.01.l	a republic in north central Europe on the North Sea; established in 1949 from the zones of Germany occupied by the British and French and Americans after the German defeat; reunified with East Germany in 1990
+Lower_Saxony	lower_saxony.n.01.l	a state in northwestern Germany
+Aachen	aachen.n.01.l	a city in western Germany near the Dutch and Belgian borders; formerly it was Charlemagne's northern capital
+Aken	aachen.n.01.l	a city in western Germany near the Dutch and Belgian borders; formerly it was Charlemagne's northern capital
+Berlin	berlin.n.01.l	capital of Germany located in eastern Germany
+Bremen	bremen.n.01.l	a city of northwestern Germany linked by the Weser River to the port of Bremerhaven and the North Sea; in the Middle Ages it was a leading member of the Hanseatic League
+Bremerhaven	bremerhaven.n.01.l	a port city in northwestern Germany at the mouth of the Weser River on the North Sea; has a deep natural harbor and is an important shipping center
+Chemnitz	chemnitz.n.01.l	a city in east central Germany; formerly called Karl-Marx-Stadt until 1990; noted for textile manufacturing
+Dortmund	dortmund.n.01.l	an industrial city in northwestern Germany; flourished from the 13th to 17th century as a member of the Hanseatic League
+Dresden	dresden.n.01.l	a city in southeastern Germany on the Elbe River; it was almost totally destroyed by British air raids in 1945
+Leipzig	leipzig.n.01.l	a city in southeastern Germany famous for fairs; formerly a music and publishing center
+Solingen	solingen.n.01.l	a city in west central Germany noted for cutlery
+Bavaria	bavaria.n.01.l	a state in southern Germany famous for its beer; site of an automobile factory
+Hameln	hameln.n.01.l	a town in northern Germany (near Hanover) that is famous as the setting for the legend of the Pied Piper
+Hamelin	hameln.n.01.l	a town in northern Germany (near Hanover) that is famous as the setting for the legend of the Pied Piper
+Hohenlinden	hohenlinden.n.01.l	a town in Bavaria (near Munich)
+Bonn	bonn.n.01.l	a city in western Germany on the Rhine River; was the capital of West Germany between 1949 and 1989
+Braunschweig	braunschweig.n.01.l	a city in central Germany
+Brunswick	braunschweig.n.01.l	a city in central Germany
+Dusseldorf	dusseldorf.n.01.l	an industrial city in western Germany on the Rhine
+Essen	essen.n.01.l	a city in western Germany; industrial center of the Ruhr
+Halle	halle.n.01.l	a city in the Saxony region of Germany on the Saale River; a member of the Hanseatic League during the 13th and 14th centuries
+Hamburg	hamburg.n.01.l	a port city in northern Germany on the Elbe River that was founded by Charlemagne in the 9th century and is today the largest port in Germany; in 1241 it formed an alliance with Lubeck that became the basis for the Hanseatic League
+Hanover	hannover.n.01.l	a port city in northwestern Germany; formerly a member of the Hanseatic League
+Lubeck	lubeck.n.01.l	a city in northwestern Germany and an important Baltic port; a leading member of the Hanseatic League
+Mannheim	mannheim.n.01.l	a city in southwestern Germany at the confluence of the Rhine and Neckar rivers
+Munich	munich.n.01.l	the capital and largest city of Bavaria in southwestern Germany
+Nuremberg	nuremberg.n.01.l	a city in southeastern Germany; site of Allied trials of Nazi war criminals (1945-46)
+Potsdam	potsdam.n.01.l	a city in northeastern Germany; site of the Potsdam Conference in the summer of 1945
+Rostock	rostock.n.01.l	a city in northeastern Germany near the Baltic sea; an important member of the Hanseatic League in the 14th century
+Stuttgart	stuttgart.n.01.l	a city in southwestern Germany famous for innovative architecture
+Wiesbaden	wiesbaden.n.01.l	a city in western Germany; a spa since Roman times
+Wurzburg	wurzburg.n.01.l	a city of south central Germany
+Ecuador	ecuador.n.01.l	a republic in northwestern South America; became independent from Spain in 1822; the landscape is dominated by the Andes
+Guayaquil	guayaquil.n.01.l	the largest city of Ecuador
+Quito	quito.n.01.l	the capital of Ecuador
+Asmara	asmara.n.01.l	the capital of Eritrea
+Massawa	massawa.n.01.l	a port town in Eritrea on an inlet of the Red Sea
+Ethiopia	ethiopia.n.01.l	Ethiopia is a republic in northeastern Africa on the Red Sea; formerly called Abyssinia
+Addis_Ababa	addis_ababa.n.01.l	the capital of Ethiopia and the country's largest city; located in central Ethiopia
+Suva	suva.n.01.l	the capital and largest city of Fiji (on Viti Levu island)
+Helsinki	helsinki.n.01.l	the capital and largest city of Finland; located in southern Finland; a major port and commercial and cultural center
+Espoo	espoo.n.01.l	a city in southern Finland
+Tampere	tampere.n.01.l	an industrial city in south central Finland
+Greece	greece.n.01.l	a republic in southeastern Europe on the southern part of the Balkan peninsula; known for grapes and olives and olive oil
+Knossos	knossos.n.01.l	an ancient town on Crete where Bronze Age culture flourished from about 2000 BC to 1400 BC
+Athens	athens.n.01.l	the capital and largest city of Greece; named after Athena (its patron goddess)
+Actium	actium.n.01.l	an ancient town on a promontory in western Greece
+Patras	patras.n.01.l	a port city in western Greece in the northwestern Peloponnese on an inlet of the Ionian Sea; was a major trade center from the 5th century BC to the 3rd century BC; commercial importance revived during the Middle Ages
+Patrai	patras.n.01.l	a port city in western Greece in the northwestern Peloponnese on an inlet of the Ionian Sea; was a major trade center from the 5th century BC to the 3rd century BC; commercial importance revived during the Middle Ages
+Plataea	plataea.n.01.l	a former town in Boeotia; site of a battle between the Greeks and Persians in 479 BC
+Thessaloniki	thessaloniki.n.01.l	a port city in northeastern Greece on an inlet of the Aegean Sea; second largest city of Greece
+Stagira	stagira.n.01.l	an ancient town of Greece where Aristotle was born
+Nazareth	nazareth.n.01.l	a historic town in northern Israel that is mentioned in the Gospels as the home of Joseph and Mary
+Jerusalem	jerusalem.n.01.l	capital and largest city of the modern state of Israel (although its status as capital is disputed); it was captured from Jordan in 1967 in the Six Day War; a holy city for Jews and Christians and Muslims; was the capital of an ancient kingdom
+Jaffa	jaffa.n.01.l	a port in western Israel on the Mediterranean; incorporated into Tel Aviv in 1950
+Joppa	jaffa.n.01.l	a port in western Israel on the Mediterranean; incorporated into Tel Aviv in 1950
+Samaria	samaria.n.01.l	an ancient city in central Palestine founded in the 9th century BC as the capital of the northern Hebrew kingdom of Israel; the site is in present-day northwestern Jordan
+Italy	italy.n.01.l	a republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD
+Italian_Republic	italy.n.01.l	a republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD
+Italia	italy.n.01.l	a republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD
+Ferrara	ferrara.n.01.l	a city in northern Italy
+Naples	naples.n.01.l	a port and tourist center in southwestern Italy; capital of the Campania region
+Napoli	naples.n.01.l	a port and tourist center in southwestern Italy; capital of the Campania region
+Messina	messina.n.01.l	a port city in northeastern Sicily on the Strait of Messina
+Bologna	bologna.n.01.l	the capital of Emilia-Romagna; located in northern Italy to the east of the Apennines
+Rome	rome.n.01.l	capital and largest city of Italy; on the Tiber; seat of the Roman Catholic Church; formerly the capital of the Roman Republic and the Roman Empire
+Roma	rome.n.01.l	capital and largest city of Italy; on the Tiber; seat of the Roman Catholic Church; formerly the capital of the Roman Republic and the Roman Empire
+Anzio	anzio.n.01.l	a town of central Italy on the Tyrrhenian Sea; the Allies established a beachhead at Anzio in World War II
+Brindisi	brindisi.n.01.l	a port city in southeastern Apulia in Italy; a center for the Crusades in the Middle Ages
+Genoa	genoa.n.01.l	a seaport in northwestern Italy; provincial capital of Liguria
+Genova	genoa.n.01.l	a seaport in northwestern Italy; provincial capital of Liguria
+Cremona	cremona.n.01.l	a city in Lombardy on the Po River; noted for the manufacture of fine violins from the 16th to the 18th centuries
+La_Spezia	la_spezia.n.01.l	a port city in Liguria on an arm of the Ligurian Sea; a major seaport and year-round resort
+Milan	milan.n.01.l	the capital of Lombardy in northern Italy; has been an international center of trade and industry since the Middle Ages
+Milano	milan.n.01.l	the capital of Lombardy in northern Italy; has been an international center of trade and industry since the Middle Ages
+Pisa	pisa.n.01.l	a city in Tuscany; site of the famous Leaning Tower
+Syracuse	syracuse.n.02.l	a city in southeastern Sicily that was founded by Corinthians in the 8th century BC
+Turin	turin.n.01.l	capital city of the Piemonte region of northwestern Italy
+Bari	bari.n.01.l	capital city of the Apulia region on the Adriatic coast
+Palermo	palermo.n.01.l	the capital of Sicily; located in northwestern Sicily; an important port for 3000 years
+Agrigento	agrigento.n.01.l	a town in Italy in southwestern Sicily near the coast; the site of six Greek temples
+Florence	firenze.n.01.l	a city in central Italy on the Arno; provincial capital of Tuscany; center of the Italian Renaissance from 14th to 16th centuries
+Trento	trento.n.01.l	a city in northern Italy (northwest of Venice) on the River Adige; the site of the Council of Trent
+Trent	trento.n.01.l	a city in northern Italy (northwest of Venice) on the River Adige; the site of the Council of Trent
+Padua	padua.n.01.l	a city in Veneto
+Padova	padua.n.01.l	a city in Veneto
+Venice	venice.n.01.l	the provincial capital of Veneto; built on 118 islands within a lagoon in the Gulf of Venice; has canals instead of streets; one of Italy's major ports and a famous tourist attraction
+Verona	verona.n.01.l	a city in Veneto on the River Adige
+Romania	romania.n.01.l	a republic in southeastern Europe with a short coastline on the Black Sea
+Brasov	brasov.n.01.l	a city in central Romania in the foothills of the Transylvanian Alps
+Bucharest	bucharest.n.01.l	national capital and largest city of Romania in southeastern Romania
+Bucuresti	bucharest.n.01.l	national capital and largest city of Romania in southeastern Romania
+Rwanda	rwanda.n.01.l	a landlocked republic in central Africa; formerly a German colony
+Kigali	kigali.n.01.l	the national capital and largest city of Rwanda; located in central Rwanda
+Croatia	croatia.n.01.l	a republic in the western Balkans in south-central Europe in the eastern Adriatic coastal area; formerly part of the Habsburg monarchy and Yugoslavia; became independent in 1991
+Belgrade	belgrade.n.01.l	capital and largest city of Serbia and Montenegro; situated on the Danube
+Sarajevo	sarajevo.n.01.l	capital and largest city of Bosnia; scene of the assassination of Francis Ferdinand in 1914 which precipitated World War I
+Ljubljana	ljubljana.n.01.l	the capital of Slovenia
+Dubrovnik	dubrovnik.n.01.l	a port city in southwestern Croatia on the Adriatic; a popular tourist center
+Ragusa	dubrovnik.n.01.l	a port city in southwestern Croatia on the Adriatic; a popular tourist center
+Zagreb	zagreb.n.01.l	the capital of Croatia
+Calgary	calgary.n.01.l	the largest city in southern Alberta; an oil and gas center and a technology center for Alberta and most of western Canada
+Edmonton	edmonton.n.01.l	the capital of the province of Alberta
+British_Columbia	british_columbia.n.01.l	a province in western Canada
+Nanaimo	nanaimo.n.01.l	a town in southwestern British Columbia on Vancouver Island to the west of Vancouver
+Victoria	victoria.n.07.l	capital of the Canadian province of British Columbia on Vancouver Island
+Vancouver	vancouver.n.03.l	a port city in southwestern British Columbia on an arm of the Pacific Ocean opposite Vancouver Island; Canada's chief Pacific port and third largest city
+Winnipeg	winnipeg.n.01.l	the capital and largest city of Manitoba; located in southern Manitoba; known for severe winters
+New_Brunswick	new_brunswick.n.02.l	a province in southeastern Canada
+Fredericton	fredericton.n.01.l	the provincial capital of New Brunswick
+Saint_John	saint_john.n.03.l	a port in eastern Canada; the largest city in New Brunswick
+Yellowknife	yellowknife.n.01.l	a town in the Northwest Territories in northern Canada on the Great Slave Lake
+Halifax	halifax.n.01.l	provincial capital and largest city of Nova Scotia
+Ottawa	ottawa.n.03.l	the capital of Canada (located in southeastern Ontario across the Ottawa river from Quebec)
+Hamilton	hamilton.n.05.l	a port city in southeastern Ontario at the western end of Lake Ontario
+Kingston	kingston.n.02.l	a town in southeast Ontario on Lake Ontario near the head of the Saint Lawrence River
+Sault_Sainte_Marie	sault_sainte_marie.n.01.l	a town of southern Ontario opposite northern Michigan
+Sudbury	sudbury.n.01.l	a city in south central Canada in Ontario; a major nickel mining center
+Thunder_Bay	thunder_bay.n.01.l	a port city in Ontario on Lake Superior
+Toronto	toronto.n.01.l	the provincial capital and largest city in Ontario (and the largest city in Canada)
+Windsor	windsor.n.01.l	a city in southeastern Ontario on the Detroit River opposite Detroit
+Charlottetown	charlottetown.n.01.l	the provincial capital and largest city of Prince Edward Island
+Quebec	quebec.n.01.l	the French-speaking capital of the province of Quebec; situated on the Saint Lawrence River
+Quebec_City	quebec.n.01.l	the French-speaking capital of the province of Quebec; situated on the Saint Lawrence River
+Montreal	montreal.n.01.l	a city in southern Quebec province on the Saint Lawrence River; the largest city in Quebec and 2nd largest in Canada; the 2nd largest French-speaking city in the world
+Regina	regina.n.01.l	the provincial capital of Saskatchewan
+Saskatoon	saskatoon.n.01.l	a city in central Saskatchewan; the largest city in the province
+Dawson	dawson.n.01.l	a town in northwestern Canada in the Yukon on the Yukon River; a boom town around 1900 when gold was discovered in the Klondike
+Whitehorse	whitehorse.n.01.l	the provincial capital of the Yukon Territory
+Canberra	canberra.n.01.l	the capital of Australia; located in southeastern Australia
+Queensland	queensland.n.01.l	a state in northeastern Australia
+Brisbane	brisbane.n.01.l	capital and largest city of Queensland state; located in the southeastern corner of Queensland on the Pacific; settled by British as a penal colony; 3rd largest city in Australia
+Sydney	sydney.n.01.l	the largest Australian city located in southeastern Australia on the Tasman Sea; state capital of New South Wales; Australia's chief port
+Victoria	victoria.n.06.l	a state in southeastern Australia
+Melbourne	melbourne.n.02.l	the capital of Victoria state and 2nd largest Australian city; a financial and commercial center
+Hobart	hobart.n.01.l	a port and state capital of Tasmania
+South_Australia	south_australia.n.01.l	a state in south central Australia
+Adelaide	adelaide.n.01.l	the state capital of South Australia
+Perth	perth.n.01.l	the state capital of Western Australia
+Darwin	darwin.n.02.l	provincial capital of the Northern Territory of Australia
+Kolonia	kolonia.n.01.l	capital of Micronesia
+Funafuti	funafuti.n.01.l	capital of Tuvalu
+Port_Moresby	port_moresby.n.01.l	the administrative capital and largest city of Papua New Guinea
+Vienna	vienna.n.01.l	the capital and largest city of Austria; located on the Danube in northeastern Austria; was the home of Beethoven and Brahms and Haydn and Mozart and Schubert and Strauss
+Graz	graz.n.01.l	an industrial city is southeastern Austria
+Wagram	wagram.n.01.l	a town in northeastern Austria
+Nassau	nassau.n.01.l	the capital of the Bahamas
+Manama	manama.n.01.l	the capital of Bahrain; located at the northern end of Bahrain Island
+Dhaka	dhaka.n.01.l	the capital and largest city of Bangladesh
+Belgium	belgium.n.01.l	a monarchy in northwestern Europe; headquarters for the European Union and for the North Atlantic Treaty Organization
+Belgique	belgium.n.01.l	a monarchy in northwestern Europe; headquarters for the European Union and for the North Atlantic Treaty Organization
+Brussels	bruxelles.n.01.l	the capital and largest city of Belgium; seat of the North Atlantic Treaty Organization
+Aalst	aalst.n.01.l	a town in central Belgium
+Bruges	bruges.n.01.l	a city in northwestern Belgium that is connected by canal to the North Sea; in the 13th century it was a leading member of the Hanseatic League; the old city (known as the City of Bridges) is a popular tourist attraction
+Namur	namur.n.01.l	a city in south central Belgium situated on a promontory between the Meuse River and the Sambre River; the site of intense fighting in World War I and World War II
+Waterloo	waterloo.n.01.l	a town in central Belgium where in 1815 Napoleon met his final defeat
+Botswana	botswana.n.01.l	a landlocked republic in south-central Africa that became independent from British control in the 1960s
+Gaborone	gaborone.n.01.l	capital and largest city of Botswana in the extreme southeast
+Bolivia	bolivia.n.01.l	a landlocked republic in central South America; Simon Bolivar founded Bolivia in 1825 after winning independence from Spain
+Santa_Cruz	santa_cruz.n.02.l	a city in central Bolivia
+Brasilia	brasilia.n.01.l	the capital of Brazil; a city built on the central plateau and inaugurated in 1960
+Curitiba	curitiba.n.01.l	a city in southeastern Brazil
+Joao_Pessoa	joao_pessoa.n.01.l	a city in northeastern Brazil near the Atlantic Ocean to the north of Recife
+Governador_Valadares	governador_valadares.n.01.l	a city in eastern Brazil to the northeast of Belo Horizonte
+Limeira	limeira.n.01.l	a city of southeastern Brazil (northwest of Sao Paulo)
+Natal	natal.n.02.l	a port city in northeastern Brazil
+Osasco	osasco.n.01.l	a city in southeastern Brazil; suburb of Sao Paulo
+Santos	santos.n.01.l	a port city in southwestern Brazil on an offshore island near Sao Paulo
+Sao_Bernardo_do_Campo	sao_bernardo_do_campo.n.01.l	a city in southeastern Brazil; an industrial suburb of Sao Paulo
+Sao_Goncalo	sao_goncalo.n.01.l	an industrial city in southeastern Brazil across the bay from Rio de Janeiro
+Sao_Joao_de_Meriti	sao_joao_de_meriti.n.01.l	a city in southeastern Brazil that is a residential suburb of Rio de Janeiro
+Sao_Jose_dos_Campos	sao_jose_dos_campos.n.01.l	a city in southeastern Brazil to the northeast of Sao Paulo
+Sao_Paulo	sao_paulo.n.01.l	an ultramodern city in southeastern Brazil; the largest city in South America
+UK	united_kingdom.n.01.l	a monarchy in northwestern Europe occupying most of the British Isles; divided into England and Scotland and Wales and Northern Ireland; `Great Britain' is often used loosely to refer to the United Kingdom
+Great_Britain	united_kingdom.n.01.l	a monarchy in northwestern Europe occupying most of the British Isles; divided into England and Scotland and Wales and Northern Ireland; `Great Britain' is often used loosely to refer to the United Kingdom
+Lancaster	lancaster.n.01.l	a city in northwestern England
+London	london.n.01.l	the capital and largest city of England; located on the Thames in southeastern England; financial and industrial and cultural center
+Greater_London	london.n.01.l	the capital and largest city of England; located on the Thames in southeastern England; financial and industrial and cultural center
+Greenwich	greenwich.n.01.l	a borough of Greater London on the Thames; zero degrees of longitude runs through Greenwich; time is measured relative to Greenwich Mean Time
+Westminster	westminster.n.01.l	a borough of Greater London on the Thames; contains Buckingham Palace and the Houses of Parliament and Westminster Abbey
+City_of_Westminster	westminster.n.01.l	a borough of Greater London on the Thames; contains Buckingham Palace and the Houses of Parliament and Westminster Abbey
+Manchester	manchester.n.02.l	a city in northwestern England (30 miles to the east of Liverpool); heart of the most densely populated area of England
+Birmingham	birmingham.n.02.l	a city in central England; 2nd largest English city and an important industrial and transportation center
+Oxford	oxford.n.01.l	a city in southern England to the northwest of London; site of Oxford University
+Cambridge	cambridge.n.03.l	a city in eastern England on the River Cam; site of Cambridge University
+Bath	bath.n.05.l	a town in southwestern England on the River Avon; famous for its hot springs and Roman remains
+Blackpool	blackpool.n.01.l	a resort town in Lancashire in northwestern England on the Irish Sea; famous for its tower
+Brighton	brighton.n.01.l	a city in East Sussex in southern England that is a popular resort; site of the University of Sussex
+Bristol	bristol.n.01.l	an industrial city and port in southwestern England near the mouth of the River Avon
+Cheddar	cheddar.n.01.l	a village in southwestern England where cheddar cheese was first made
+Leicester	leicester.n.02.l	an industrial city in Leicestershire in central England; built on the site of a Roman settlement
+Newcastle	newcastle.n.01.l	a port city in northeastern England on the River Tyne; a center for coal exports (giving rise to the expression `carry coals to Newcastle' meaning to do something unnecessary)
+Portsmouth	portsmouth.n.03.l	a port city in southern England on the English Channel; Britain's major naval base
+Coventry	coventry.n.02.l	an industrial city in central England; devastated by air raids during World War II; remembered as the home of Lady Godiva in the 11th century
+Gloucester	gloucester.n.02.l	a city in southwestern England in Gloucestershire on the Severn
+Stratford-upon-Avon	stratford-on-avon.n.01.l	a town in central England on the River Avon; birthplace (and burial place) of William Shakespeare
+Winchester	winchester.n.01.l	a city in southern England; administrative center of Hampshire
+Avon	avon.n.03.l	a county in southwestern England
+Berkshire	berkshire.n.01.l	a county in southern England
+Cornwall	cornwall.n.01.l	a hilly county in southwestern England
+Cumbria	cumbria.n.02.l	a county of northwestern England
+Cumbria	cumbria.n.01.l	a former Celtic kingdom in northwestern England; the name continued to be used for the hilly northwestern region of England including the Lake District and the northern Pennines
+Devon	devon.n.01.l	a county in southwestern England
+Devonshire	devon.n.01.l	a county in southwestern England
+Essex	essex.n.01.l	a county in southeastern England on the North Sea and the Thames estuary
+Gloucestershire	gloucestershire.n.01.l	a county in southwestern England in the lower Severn valley
+Hampshire	hampshire.n.01.l	a county of southern England on the English Channel
+Hertfordshire	hertfordshire.n.01.l	a county in southern England
+Kent	kent.n.01.l	a county in southeastern England on the English Channel; formerly an Anglo-Saxon kingdom, it was the first to be colonized by the Romans
+Somerset	somerset.n.01.l	a county in southwestern England on the Bristol Channel
+East_Sussex	east_sussex.n.01.l	a county in southern England on the English Channel
+Hastings	hastings.n.02.l	a town in East Sussex just to the south of the place where the battle of Hastings took place
+West_Sussex	west_sussex.n.01.l	a county in southern England on the English Channel
+Canterbury	canterbury.n.01.l	a town in Kent in southeastern England; site of the cathedral where Thomas a Becket was martyred in 1170; seat of the archbishop and primate of the Anglican Church
+Leicestershire	leicestershire.n.01.l	a largely agricultural county in central England
+Leicester	leicestershire.n.01.l	a largely agricultural county in central England
+Lincolnshire	lincolnshire.n.01.l	an agricultural county of eastern England on the North Sea
+Northumberland	northumberland.n.01.l	the northernmost county of England; has many Roman remains (including Hadrian's Wall)
+Surrey	surrey.n.01.l	a county in southeastern England on the Thames
+Yorkshire	yorkshire.n.01.l	a former large county in northern England; in 1974 it was divided into three smaller counties
+North_Yorkshire	north_yorkshire.n.01.l	a county in northern England
+West_Yorkshire	west_yorkshire.n.01.l	a metropolitan county in northern England
+South_Yorkshire	south_yorkshire.n.01.l	a metropolitan county in northern England
+Naseby	naseby.n.01.l	a village in western Northamptonshire
+Northumbria	northumbria.n.01.l	an Anglo-Saxon kingdom in northern England until 876
+Sussex	sussex.n.01.l	a county in southern England on the English Channel; formerly an Anglo-Saxon kingdom that was captured by Wessex in the 9th century
+Wessex	wessex.n.01.l	a Saxon kingdom in southwestern England that became the most powerful English kingdom by the 10th century
+Bangor	bangor.n.03.l	a town in southeastern Northern Ireland
+Belfast	belfast.n.01.l	capital and largest city of Northern Ireland; the center of Protestantism in Northern Ireland
+Cork	cork.n.03.l	a port city in southern Ireland
+Galway	galway.n.01.l	a port city in western Ireland on Galway Bay
+Tara	tara.n.01.l	a village in eastern Ireland (northwest of Dublin); seat of Irish kings until 6th century
+Waterford	waterford.n.01.l	a port city in southern Ireland; famous for glass industry
+Aberdeen	aberdeen.n.04.l	a city in northeastern Scotland on the North Sea
+Ayr	ayr.n.01.l	a port in southwestern Scotland
+Edinburgh	edinburgh.n.01.l	the capital of Scotland; located in the Lothian Region on the south side of the Firth of Forth
+Aberdare	aberdare.n.01.l	a mining town in southern Wales
+Bangor	bangor.n.02.l	a university town in northwestern Wales on the Menai Strait
+Cardiff	cardiff.n.01.l	the capital and largest city of Wales
+Newport	newport.n.01.l	a port city in southeastern Wales
+Swansea	swansea.n.01.l	a port city in southern Wales on an inlet of the Bristol Channel
+Egypt	egypt.n.01.l	a republic in northeastern Africa known as the United Arab Republic until 1971; site of an ancient civilization that flourished from 2600 to 30 BC
+United_Arab_Republic	egypt.n.01.l	a republic in northeastern Africa known as the United Arab Republic until 1971; site of an ancient civilization that flourished from 2600 to 30 BC
+Alexandria	alexandria.n.02.l	the chief port of Egypt; located on the western edge of the Nile delta on the Mediterranean Sea; founded by Alexander the Great; the capital of ancient Egypt
+Cairo	cairo.n.02.l	the capital of Egypt and the largest city in Africa; a major port just to the south of the Nile delta; formerly the home of the Pharaohs
+Nag_Hammadi	nag_hammadi.n.01.l	a town in Upper Egypt
+Luxor	luxor.n.01.l	a city in central Egypt on the east bank of the Nile that is a center for visitors to the ruins of and around Thebes
+Saqqara	saqqara.n.01.l	a town in northern Egypt; site of the oldest Egyptian pyramids
+Suez	suez.n.01.l	a city in northeastern Egypt at the head of the Gulf of Suez and at the southern end of the Suez Canal
+India	india.n.01.l	a republic in the Asian subcontinent in southern Asia; second most populous country in the world; achieved independence from the United Kingdom in 1947
+Sikkim	sikkim.n.01.l	a geographical area and former kingdom in northeastern India in the Himalaya Mountains between Nepal and Bhutan
+New_Delhi	new_delhi.n.01.l	the capital of India is a division of the old city of Delhi
+Delhi	delhi.n.01.l	a city in north central India
+Bangalore	bangalore.n.01.l	an industrial city in south central India (west of Chennai)
+Jabalpur	jabalpur.n.01.l	an industrial city of central India to the southeast of Delhi
+Calcutta	kolkata.n.01.l	the largest city in India and one of the largest cities in the world; located in eastern India; suffers from poverty and overcrowding
+Mumbai	mumbai.n.01.l	a city in western India just off the coast of the Arabian Sea; India's 2nd largest city (after Calcutta); has the only natural deep-water harbor in western India
+Bombay	mumbai.n.01.l	a city in western India just off the coast of the Arabian Sea; India's 2nd largest city (after Calcutta); has the only natural deep-water harbor in western India
+Agra	agra.n.01.l	a city in northern India; former capital of the Mogul empire; site of the Taj Mahal
+Hyderabad	hyderabad.n.02.l	a city in south central India in Andhra Pradesh
+Chennai	chennai.n.01.l	a city in Tamil Nadu on the Bay of Bengal; formerly Madras
+Madras	chennai.n.01.l	a city in Tamil Nadu on the Bay of Bengal; formerly Madras
+Lucknow	lucknow.n.01.l	a city in northern India in Uttar Pradesh; during the Indian Mutiny its British residents were besieged by Indian insurgents
+Mysore	mysore.n.01.l	a city in southern India to the southwest of Bangalore
+Salem	salem.n.03.l	a city in southern India
+Tamil_Nadu	tamil_nadu.n.01.l	a state in southeastern India on the Bay of Bengal (south of Andhra Pradesh); formerly Madras
+Madras	tamil_nadu.n.01.l	a state in southeastern India on the Bay of Bengal (south of Andhra Pradesh); formerly Madras
+Uttar_Pradesh	uttar_pradesh.n.01.l	a state in northern India
+West_Bengal	west_bengal.n.01.l	a state in eastern India
+Indonesia	indonesia.n.01.l	a republic in southeastern Asia on an archipelago including more than 13,000 islands; achieved independence from the Netherlands in 1945; the principal oil producer in the Far East and Pacific regions
+Jakarta	jakarta.n.01.l	capital and largest city of Indonesia; located on the island of Java; founded by the Dutch in 17th century
+Bandung	bandung.n.01.l	a city in Indonesia; located on western Java (southeast of Jakarta); a resort known for its climate
+Medan	medan.n.01.l	a city in Indonesia; located in northeastern Sumatra
+Teheran	teheran.n.01.l	the capital and largest city of Iran; located in northern Iran
+Tehran	teheran.n.01.l	the capital and largest city of Iran; located in northern Iran
+Abadan	abadan.n.01.l	a port city in southwestern Iran
+Isfahan	isfahan.n.01.l	city in central Iran; former capital of Persia
+Esfahan	isfahan.n.01.l	city in central Iran; former capital of Persia
+Shiraz	shiraz.n.01.l	a city in central southwestern Iran; ruins of ancient Persepolis are nearby
+Persepolis	persepolis.n.01.l	an ancient city that was the capital of the ancient Persian Empire; now in ruins
+Iraq	iraq.n.01.l	a republic in the Middle East in western Asia; the ancient civilization of Mesopotamia was in the area now known as Iraq
+Baghdad	baghdad.n.01.l	capital and largest city of Iraq; located on the Tigris River
+Bagdad	baghdad.n.01.l	capital and largest city of Iraq; located on the Tigris River
+Karbala	kerbala.n.01.l	a city of central Iraq to the south of Baghdad; a holy city for Shiite Muslims because it is the site of the tomb of Mohammed's grandson who was killed there in 680
+Kirkuk	kirkuk.n.01.l	a city in northeastern Iraq; the center of a rich oilfield with pipelines to the Mediterranean
+Mosul	mosul.n.01.l	a city in northern Iraq on the Tigris across from the ruins of Nineveh
+Philippi	philippi.n.01.l	a city in ancient Macedonia that was important in early Christianity
+Edirne	edirne.n.01.l	a city in northwestern Turkey; a Thracian town that was rebuilt and renamed by the Roman Emperor Hadrian
+Babylon	babylon.n.01.l	the chief city of ancient Mesopotamia and capital of the ancient kingdom of Babylonia
+Babylonia	babylonia.n.01.l	an ancient kingdom in southern Mesopotamia; Babylonia conquered Israel in the 6th century BC and exiled the Jews to Babylon (where Daniel became a counselor to the king)
+Assyria	assyria.n.01.l	an ancient kingdom in northern Mesopotamia which is in present-day Iraq
+Assur	assur.n.01.l	an ancient Assyrian city on the Tigris and traditional capital of Assyria; just to the south of the modern city of Mosul in Iraq
+Japan	japan.n.02.l	a constitutional monarchy occupying the Japanese Archipelago; a world leader in electronics and automobile manufacture and ship building
+Tokyo	tokyo.n.01.l	the capital and largest city of Japan; the economic and cultural center of Japan
+Yeddo	tokyo.n.01.l	the capital and largest city of Japan; the economic and cultural center of Japan
+Edo	tokyo.n.01.l	the capital and largest city of Japan; the economic and cultural center of Japan
+Nagano	nagano.n.01.l	a city in central Honshu to the northwest of Tokyo; site of a Buddhist shrine
+Nagoya	nagoya.n.01.l	an industrial city in southern Honshu
+Kobe	kobe.n.01.l	a port city in Japan on Osaka Bay in southern Honshu; was damaged by an earthquake in 1995
+Kyoto	kyoto.n.01.l	a city in central Japan on southern Honshu; a famous cultural center that was once the capital of Japan
+Hiroshima	hiroshima.n.01.l	a port city on the southwestern coast of Honshu in Japan; on August 6, 1945 Hiroshima was almost completely destroyed by the first atomic bomb dropped on a populated area
+Fukuoka	fukuoka.n.01.l	a city in southern Japan on Kyushu
+Nagasaki	nagasaki.n.01.l	a city in southern Japan on Kyushu; a leading port and shipbuilding center; on August 9, 1945 Nagasaki became the second populated area to receive an atomic bomb
+Toyota	toyota.n.01.l	an industrial city of Japan in southern Honshu
+Jordan	jordan.n.02.l	an Arab kingdom in southwestern Asia on the Red Sea
+Amman	amman.n.01.l	the capital and largest city of Jordan
+Jericho	jericho.n.01.l	a village in Palestine near the north end of the Dead Sea; in the Old Testament it was the first place taken by the Israelites under Joshua as they entered the Promised Land
+Kenya	kenya.n.01.l	a republic in eastern Africa; achieved independence from the United Kingdom in 1963; major archeological discoveries have been made in the Great Rift Valley in Kenya
+Nairobi	nairobi.n.01.l	the capital and largest city of Kenya; a center for tourist safaris
+Kisumu	kisumu.n.01.l	a port city in western Kenya on the northeastern shore of Lake Victoria; fishing and trading center
+Mombasa	mombasa.n.01.l	a port city in southern Kenya on a coral island in a bay of the Indian Ocean
+Nakuru	nakuru.n.01.l	a city in western Kenya; commercial center of an agricultural region
+Kuwait	kuwait.n.02.l	an Arab kingdom in Asia on the northwestern coast of the Persian Gulf; a major source of petroleum
+Kuwait	kuwait.n.01.l	a seaport on the Persian Gulf and capital of Kuwait
+Kuwait_City	kuwait.n.01.l	a seaport on the Persian Gulf and capital of Kuwait
+France	france.n.01.l	a republic in western Europe; the largest country wholly in Europe
+Paris	paris.n.01.l	the capital and largest city of France; and international center of culture and commerce
+Avignon	avignon.n.01.l	a town in southeastern France on the Rhone River; the seat of the papacy from 1309 to 1378 and the residence of antipopes during the Great Schism
+Bordeaux	bordeaux.n.01.l	a port city in southwestern France; a major center of the wine trade
+Brest	brest.n.01.l	a port city in northwestern France (in Brittany); the chief naval station of France
+Calais	calais.n.01.l	a town in northern France on the Strait of Dover that serves as a ferry port to England; in 1347 it was captured by the English king Edward III after a long siege and remained in English hands until it was recaptured by the French king Henry II in 1558
+Chablis	chablis.n.01.l	a town in north central France noted for white Burgundy wines
+Chartres	chartres.n.01.l	a town in northern France that is noted for its Gothic Cathedral
+Cherbourg	cherbourg.n.01.l	a port town in northwestern France on the English Channel; site of a naval base
+Dijon	dijon.n.01.l	an industrial city in eastern France to the north of Lyons
+Dunkirk	dunkirk.n.02.l	a seaport in northern France on the North Sea; scene of the evacuation of British forces in 1940 during World War II
+Grenoble	grenoble.n.01.l	a city in southeastern France on the Isere River
+Le_Havre	le_havre.n.01.l	a port city in northern France on the English Channel at the mouth of the Seine
+Lille	lille.n.01.l	an industrial city in northern France near the Belgian border; was the medieval capital of Flanders
+Lyon	lyon.n.01.l	a city in east-central France on the Rhone River; a principal producer of silk and rayon
+Lyons	lyon.n.01.l	a city in east-central France on the Rhone River; a principal producer of silk and rayon
+Marseille	marseille.n.01.l	a port city in southeastern France on the Mediterranean
+Marseilles	marseille.n.01.l	a port city in southeastern France on the Mediterranean
+Nancy	nancy.n.01.l	a city in northeastern France in Lorraine
+Nantes	nantes.n.01.l	a port city in western France on the Loire estuary
+Nice	nice.n.01.l	a city in southeastern France on the Mediterranean; the leading resort on the French Riviera
+Rheims	rheims.n.01.l	a city in northeastern France to the east of Paris; scene of the coronation of most French kings; site of the unconditional German surrender in 1945 at the end of World War II
+Reims	rheims.n.01.l	a city in northeastern France to the east of Paris; scene of the coronation of most French kings; site of the unconditional German surrender in 1945 at the end of World War II
+Tours	tours.n.01.l	an industrial city in western France on the Loire River
+Valenciennes	valenciennes.n.01.l	a town in northeastern France long noted for its lace industry
+Versailles	versailles.n.01.l	a city in north central France near Paris; site of the Palace of Versailles that was built by Louis XIV in the 17th century
+Vichy	vichy.n.01.l	a town in central France (south of Paris) noted for hot mineral springs; was capital of the unoccupied part of France during World War II
+Vienne	vienne.n.01.l	a town in south central France where is 1311-1313 the Roman Catholic Church held one of its councils
+Gabon	gabon.n.01.l	a republic on the west coast of Africa
+Libreville	libreville.n.01.l	the capital of Gabon
+Banjul	banjul.n.01.l	a port city and capital of Gambia
+Ghana	ghana.n.01.l	a republic in West Africa on the Gulf of Guinea
+Gold_Coast	ghana.n.01.l	a republic in West Africa on the Gulf of Guinea
+Accra	accra.n.01.l	the capital and largest city of Ghana with a deep-water port
+Kumasi	kumasi.n.01.l	a city in southern Ghana
+Tamale	tamale.n.01.l	a city in northern Ghana
+Guinea	guinea.n.03.l	a republic in western Africa on the Atlantic; formerly a French colony; achieved independence from France in 1958
+Conakry	conakry.n.01.l	a port and the capital of Guinea
+Portuguese_Guinea	guinea-bissau.n.01.l	a republic on the northwestern coast of Africa; recognized as independent by Portugal in 1974
+Bissau	bissau.n.01.l	the capital of Guinea-Bissau
+Guyana	guyana.n.01.l	a republic in northeastern South America; formerly part of the British Empire, but it achieved independence from the United Kingdom in 1966
+British_Guiana	guyana.n.01.l	a republic in northeastern South America; formerly part of the British Empire, but it achieved independence from the United Kingdom in 1966
+Georgetown	georgetown.n.02.l	port city and the capital and largest city of Guyana
+Stabroek	georgetown.n.02.l	port city and the capital and largest city of Guyana
+Netherlands	netherlands.n.01.l	a constitutional monarchy in western Europe on the North Sea; half the country lies below sea level
+Kingdom_of_The_Netherlands	netherlands.n.01.l	a constitutional monarchy in western Europe on the North Sea; half the country lies below sea level
+Nederland	netherlands.n.01.l	a constitutional monarchy in western Europe on the North Sea; half the country lies below sea level
+Holland	netherlands.n.01.l	a constitutional monarchy in western Europe on the North Sea; half the country lies below sea level
+Amsterdam	amsterdam.n.01.l	an industrial center and the nominal capital of the Netherlands; center of the diamond-cutting industry; seat of an important stock exchange; known for its canals and art museum
+Apeldoorn	apeldoorn.n.01.l	a city of east central Netherlands; a popular tourist center and site of the summer residence of the Dutch royal family
+Arnhem	arnhem.n.01.l	a city in the central Netherlands on the lower Rhine River; site of a battle in 1944 during World War II
+Nijmegen	nijmegen.n.01.l	an industrial city in the eastern Netherlands
+Leiden	leiden.n.01.l	a city in the western Netherlands; residence of the Pilgrim Fathers for 11 years before they sailed for America in 1620
+Leyden	leiden.n.01.l	a city in the western Netherlands; residence of the Pilgrim Fathers for 11 years before they sailed for America in 1620
+Utrecht	utrecht.n.01.l	a city in the central Netherlands
+Friesland	friesland.n.01.l	the western part of the ancient region of Frisia in northern Europe on the North Sea between the Scheldt river and the Weser river; part of this region is now a province in the Netherlands
+Hungary	hungary.n.01.l	a republic in central Europe
+Budapest	budapest.n.01.l	capital and largest city of Hungary; located on the Danube River in north-central Hungary
+Reykjavik	reykjavik.n.01.l	the capital and chief port of Iceland on the southwestern coast of Iceland; buildings are heated by natural hot water
+Pyongyang	pyongyang.n.01.l	capital of North Korea and an industrial center
+South_Korea	south_korea.n.01.l	a republic in the southern half of the Korean Peninsula; established in 1948
+Seoul	seoul.n.01.l	the capital of South Korea and the largest city of Asia; located in northwestern South Korea
+Incheon	inchon.n.01.l	a port city in western South Korea on the Yellow Sea
+Vientiane	vientiane.n.01.l	the capital and largest city of Laos
+Bayrut	bayrut.n.01.l	capital and largest city of Lebanon; located in western Lebanon on the Mediterranean
+Beirut	bayrut.n.01.l	capital and largest city of Lebanon; located in western Lebanon on the Mediterranean
+Sur	sur.n.01.l	a port in southern Lebanon on the Mediterranean Sea; formerly a major Phoenician seaport famous for silks
+Tyre	sur.n.01.l	a port in southern Lebanon on the Mediterranean Sea; formerly a major Phoenician seaport famous for silks
+Maseru	maseru.n.01.l	the capital of Lesotho; located in northwestern Lesotho
+Liberia	liberia.n.01.l	a republic in West Africa; established in 1822 by Americans as a way to free negro slaves
+Benghazi	benghazi.n.01.l	port in northern Libya on the Gulf of Sidra; formerly a joint capital of Libya with Tripoli
+Vaduz	vaduz.n.01.l	the capital and largest city of Liechtenstein
+Luxembourg	luxembourg.n.02.l	a grand duchy (a constitutional monarchy) landlocked in northwestern Europe between France and Belgium and Germany; an international financial center
+Luxemburg	luxembourg.n.02.l	a grand duchy (a constitutional monarchy) landlocked in northwestern Europe between France and Belgium and Germany; an international financial center
+Luxembourg	luxembourg-ville.n.01.l	the capital and largest city of Luxembourg
+Luxemburg	luxembourg-ville.n.01.l	the capital and largest city of Luxembourg
+Skopje	skopje.n.01.l	capital of modern Macedonia
+Madagascar	madagascar.n.01.l	a republic on the island of Madagascar; achieved independence from France in 1960
+Antananarivo	antananarivo.n.01.l	the capital and largest city of Madagascar
+Malawi	malawi.n.01.l	a landlocked republic in southern central Africa; achieved independence from the United Kingdom in 1964
+Nyasaland	malawi.n.01.l	a landlocked republic in southern central Africa; achieved independence from the United Kingdom in 1964
+Lilongwe	lilongwe.n.01.l	the capital of Malawi; located in south central Malawi
+Zomba	zomba.n.01.l	a city in southern Malawi; was the capital until 1971
+Malaysia	malaysia.n.01.l	a constitutional monarchy in southeastern Asia on Borneo and the Malay Peninsula; achieved independence from the United Kingdom in 1957
+Malaya	malaysia.n.01.l	a constitutional monarchy in southeastern Asia on Borneo and the Malay Peninsula; achieved independence from the United Kingdom in 1957
+Kuala_Lumpur	kuala_lumpur.n.01.l	the largest city and former capital of Malaysia until 2005
+Maldives	maldives.n.01.l	a republic on the Maldive Islands; achieved independence from the United Kingdom in 1965
+Male	male.n.03.l	the capital of Maldives in the center of the islands
+Mali	mali.n.01.l	a landlocked republic in northwestern Africa; achieved independence from France in 1960; Mali was a center of West African civilization for more than 4,000 years
+Bamako	bamako.n.01.l	the capital of Mali; located in the south on the Niger
+Timbuktu	timbuktu.n.01.l	a city in central Mali near the Niger river; formerly famous for its gold trade
+Malta	malta.n.01.l	a republic on the island of Malta in the Mediterranean; achieved independence from the United Kingdom in 1964
+Valletta	valletta.n.01.l	the capital of Malta; located on the northeastern coast of the island
+Valetta	valletta.n.01.l	the capital of Malta; located on the northeastern coast of the island
+Mauritania	mauritania.n.01.l	a country in northwestern Africa with a provisional military government; achieved independence from France in 1960; largely western Sahara Desert
+Nouakchott	nouakchott.n.01.l	capital of Mauritania; located in western Mauritania near the Atlantic coast
+Port_Louis	port_louis.n.01.l	capital and chief port of Mauritius; located on the northwestern coast of the island
+Monaco	monaco.n.01.l	a constitutional monarchy in a tiny enclave on the French Riviera
+Ulaanbaatar	ulan_bator.n.01.l	the capital and largest city of Mongolia
+Casablanca	casablanca.n.01.l	a port on the Atlantic and the largest city of Morocco
+Fez	fez.n.01.l	a city in north central Morocco; religious center
+Fes	fez.n.01.l	a city in north central Morocco; religious center
+Marrakesh	marrakesh.n.01.l	a city in western Morocco; tourist center
+Marrakech	marrakesh.n.01.l	a city in western Morocco; tourist center
+Oujda	oujda.n.01.l	a city in northeastern Morocco near the Algerian border
+Rabat	rabat.n.01.l	the capital of Morocco; located in the northwestern on the Atlantic coast
+Tangier	tangier.n.01.l	a city of northern Morocco at the west end of the Strait of Gibraltar
+Mozambique	mozambique.n.01.l	a republic on the southeastern coast of Africa on the Mozambique Channel; became independent from Portugal in 1975
+Mocambique	mozambique.n.01.l	a republic on the southeastern coast of Africa on the Mozambique Channel; became independent from Portugal in 1975
+Beira	beira.n.01.l	a port city in eastern Mozambique on the Mozambique Channel
+Maputo	maputo.n.01.l	the capital and largest city of Mozambique
+Wellington	wellington.n.02.l	the capital of New Zealand
+Niger	niger.n.02.l	a landlocked republic in West Africa; gained independence from France in 1960; most of the country is dominated by the Sahara Desert
+Niamey	niamey.n.01.l	the capital and largest city of Niger
+Nigeria	nigeria.n.01.l	a republic in West Africa on the Gulf of Guinea; gained independence from Britain in 1960; most populous African country
+Abuja	abuja.n.01.l	capital of Nigeria in the center of the country
+Ibadan	ibadan.n.01.l	a large Yoruba city in southwestern Nigeria; site of a university
+Katsina	katsina.n.01.l	a city in northern Nigeria; a major center of the Hausa people
+Lagos	lagos.n.01.l	chief port and economic center of Nigeria; located in southwestern Nigeria on the Gulf of Guinea; former capital of Nigeria
+Maiduguri	maiduguri.n.01.l	a city in northeastern Nigeria; an agricultural trading center
+Zaria	zaria.n.01.l	a city in north central Nigeria; agricultural trading center
+Muscat	muscat.n.02.l	a port on the Gulf of Oman and capital of the sultanate of Oman
+Masqat	muscat.n.02.l	a port on the Gulf of Oman and capital of the sultanate of Oman
+Hyderabad	hyderabad.n.01.l	a city in southern Pakistan on the Indus River
+Islamabad	islamabad.n.01.l	the capital of Pakistan in the north on a plateau; the site was chosen in 1959
+Karachi	karachi.n.01.l	the largest city in Pakistan; located in southeastern Pakistan; an industrial center and seaport on the Arabian Sea; former capital of Pakistan
+Rawalpindi	rawalpindi.n.01.l	an ancient city in northeastern Pakistan; served as capital of Pakistan while Islamabad was being built
+Palau	palau.n.01.l	a republic in the western central Pacific Ocean in association with the United States
+Paraguay	paraguay.n.01.l	a landlocked republic in south central South America; achieved independence from Spain in 1811
+Asuncion	asuncion.n.01.l	the capital and chief port of Paraguay
+Peru	peru.n.01.l	a republic in western South America; achieved independence from Spain in 1821; was the heart of the Inca empire from the 12th to 16th centuries
+Arequipa	arequipa.n.01.l	a city in southern Peru founded in 1540 on the site of an ancient Inca city
+Cuzco	cuzco.n.01.l	a town in the Andes in southern Peru; formerly the capital of the Inca empire
+Cusco	cuzco.n.01.l	a town in the Andes in southern Peru; formerly the capital of the Inca empire
+Lima	lima.n.01.l	capital and largest city and economic center of Peru; located in western Peru; was capital of the Spanish empire in the New World until the 19th century
+Philippines	philippines.n.01.l	a republic on the Philippine Islands; achieved independence from the United States in 1946
+Manila	manila.n.02.l	the capital and largest city of the Philippines; located on southern Luzon
+Poland	poland.n.01.l	a republic in central Europe; the invasion of Poland by Germany in 1939 started World War II
+Warsaw	warszawa.n.01.l	the capital and largest city of Poland; located in central Poland
+Bydgoszcz	bydgoszcz.n.01.l	an industrial city and river port in northern Poland
+Bromberg	bydgoszcz.n.01.l	an industrial city and river port in northern Poland
+Cracow	cracow.n.01.l	an industrial city in southern Poland on the Vistula
+Krakow	cracow.n.01.l	an industrial city in southern Poland on the Vistula
+Czestochowa	czestochowa.n.01.l	a city of southern Poland whose church contains the statue of the black Madonna which attracts many pilgrims
+Katowice	katowice.n.01.l	an industrial city of southern Poland
+Lublin	lublin.n.01.l	an industrial city of eastern Poland
+Wroclaw	wroclaw.n.01.l	a city in southwestern Poland on the Oder
+Breslau	wroclaw.n.01.l	a city in southwestern Poland on the Oder
+Zabrze	zabrze.n.01.l	an industrial city in southern Poland
+Portugal	portugal.n.01.l	a republic in southwestern Europe on the Iberian Peninsula; Portuguese explorers and colonists in the 15th and 16th centuries created a vast overseas empire (including Brazil)
+Setubal	setubal.n.01.l	a port city on the Atlantic coast of Portugal to the southeast of Lisbon
+Doha	doha.n.01.l	the capital and chief port of Qatar
+Bida	doha.n.01.l	the capital and chief port of Qatar
+Saint_Kitts_and_Nevis	saint_kitts_and_nevis.n.01.l	a country on several of the Leeward Islands; located to the east southeast of Puerto Rico; achieved independence from the United Kingdom in 1983
+Basseterre	basseterre.n.01.l	the capital of Saint Kitts and Nevis on the island of Saint Christopher
+Saint_Lucia	saint_lucia.n.01.l	a country on the island of Saint Lucia; gained independence from Great Britain in 1979
+Castries	castries.n.01.l	a port on the island of Saint Lucia; capital and largest city of Saint Lucia
+Kingstown	kingstown.n.01.l	the capital of Saint Vincent and the Grenadines; on Saint Vincent
+Papeete	papeete.n.01.l	the capital of French Polynesia on the northwestern coast of Tahiti
+Samoa	samoa.n.01.l	a constitutional monarchy on the western part of the islands of Samoa in the South Pacific
+Apia	apia.n.01.l	the capital of Western Samoa
+Pago_Pago	pago_pago.n.01.l	a port in American Samoa
+Sao_Tome	sao_tome.n.01.l	capital of Sao Tome and Principe
+Medina	medina.n.01.l	a city in western Saudi Arabia; site of the tomb of Muhammad; the second most holy city of Islam
+Al_Madinah	medina.n.01.l	a city in western Saudi Arabia; site of the tomb of Muhammad; the second most holy city of Islam
+Dhahran	dhahran.n.01.l	an oil town in eastern Saudi Arabia on an inlet from the Persian Gulf; in June 1996 terrorists bombed an apartment complex in Dhahran killing 19 United States soldiers and wounding more than 300 people
+Tabuk	tabuk.n.01.l	a city in northwestern Saudi Arabia
+Taif	taif.n.01.l	a city in western Saudi Arabia to the east of Mecca
+Senegal	senegal.n.01.l	a republic in northwestern Africa on the coast of the Atlantic; formerly a French colony but achieved independence in 1960
+Seychelles	seychelles.n.01.l	a republic on the Seychelles islands; achieved independence from the United Kingdom in 1976
+Victoria	victoria.n.05.l	port city and the capital of Seychelles
+Sierra_Leone	sierra_leone.n.01.l	a republic in West Africa; achieved independence from the United Kingdom in 1961
+Freetown	freetown.n.01.l	port city and the capital and largest city of Sierra Leone
+Singapore	singapore.n.02.l	a country in southeastern Asia on the island of Singapore; achieved independence from Malaysia in 1965
+Singapore	singapore.n.01.l	the capital of Singapore; one of the world's biggest ports
+Honiara	honiara.n.01.l	national capital of Solomon Islands
+Somalia	somalia.n.01.l	a republic in extreme eastern Africa on the Somali peninsula; subject to tribal warfare
+Mogadishu	mogadishu.n.01.l	the capital and largest city of Somalia; a port on the Indian Ocean
+Hargeisa	hargeisa.n.01.l	a city in northwestern Somalia
+Durban	durban.n.01.l	a port city in eastern South Africa on the Indian Ocean; resort and industrial center
+Free_State	free_state.n.03.l	a province in central South Africa that was colonized by the Boers; named Free State in 1997
+Orange_Free_State	free_state.n.03.l	a province in central South Africa that was colonized by the Boers; named Free State in 1997
+Moscow	moscow.n.01.l	a city of central European Russia; formerly capital of both the Soviet Union and Soviet Russia; since 1991 the capital of the Russian Federation
+Astrakhan	astrakhan.n.02.l	a city in southwestern Russia on the delta of the Volga River
+Cherepovets	cherepovets.n.01.l	a city of east central Russia to the north of Moscow
+Grozny	grozny.n.01.l	the capital of Chechnya in southwestern Russia; center of extensive oil fields
+Kaluga	kaluga.n.01.l	a city of central Russia to the south of Moscow
+Khabarovsk	khabarovsk.n.01.l	a city on the Amur River on the border of China and the capital of Khabarovsk
+Kursk	kursk.n.01.l	a city of southwestern Russia
+Kazan	kazan.n.02.l	an industrial city in the European part of Russia
+Leningrad	st._petersburg.n.02.l	a city in the European part of Russia; 2nd largest Russian city; located at the head of the Gulf of Finland; former capital of Russia
+Saint_Petersburg	st._petersburg.n.02.l	a city in the European part of Russia; 2nd largest Russian city; located at the head of the Gulf of Finland; former capital of Russia
+Murmansk	murmansk.n.01.l	a port city in northwestern Russia on the Kola Peninsula; the largest city to the north of the Arctic Circle; an important supply line to Russia in World War I and World War II
+Nalchik	nalchik.n.01.l	a city in southwestern Russia in a valley of the Caucasus Mountains; an industrial center and health resort
+Novgorod	novgorod.n.01.l	a city in northwestern Russia on the Volkhov River; Russia's oldest city and an important trading center in the Middle Ages
+Perm	perm.n.01.l	a city in the European part of Russia
+Rostov	rostov.n.01.l	a seaport on the Don River near the Sea of Azov in the European part of Russia
+Saratov	saratov.n.01.l	an industrial city in the European part of Russia
+Smolensk	smolensk.n.01.l	a city in western Russia on the Dnieper River; scene of severe fighting in World War II
+Ufa	ufa.n.01.l	a city in the European part of Russia
+Volgograd	volgograd.n.01.l	a city in the European part of Russia on the Volga; site of German defeat in World War II in the winter of 1942-43
+Novosibirsk	novosibirsk.n.01.l	a city in the Asian part of Russia on the Ob river; largest city in Siberia
+Chelyabinsk	chelyabinsk.n.01.l	a city in the Asian part of Russia
+Omsk	omsk.n.01.l	a city in the Asian part of Russia
+Vladivostok	vladivostok.n.01.l	a seaport in the Asian part of Russia
+Belarus	belarus.n.01.l	a landlocked republic in eastern Europe; formerly a European soviet
+Minsk	minsk.n.01.l	the capital of Belarus and of the Commonwealth of Independent States
+Pinsk	pinsk.n.01.l	a city of southwestern Belarus
+Estonia	estonia.n.01.l	a republic in northeastern Europe on the Baltic Sea
+Tallinn	tallinn.n.01.l	a port city on the Gulf of Finland that is the capital and largest city of Estonia
+Tartu	tartu.n.01.l	a city of southeastern Estonia that was a member of the Hanseatic League
+Latvia	latvia.n.01.l	a republic in northeastern Europe on the eastern coast of the Baltic Sea
+Riga	riga.n.01.l	a port city on the Gulf of Riga that is the capital and largest city of Latvia; formerly a member of the Hanseatic League
+Liepaja	liepaja.n.01.l	a city of southwestern Latvia on the Baltic Sea
+Daugavpils	daugavpils.n.01.l	a city of southeastern Latvia
+Lithuania	lithuania.n.01.l	a republic in northeastern Europe on the Baltic Sea
+Klaipeda	klaipeda.n.01.l	a city in western Lithuania on the Baltic Sea; formerly an important trading town of the Hanseatic League
+Vilnius	vilnius.n.01.l	the capital and largest city of Lithuania; located in southeastern Lithuania
+Vilna	vilnius.n.01.l	the capital and largest city of Lithuania; located in southeastern Lithuania
+Wilno	vilnius.n.01.l	the capital and largest city of Lithuania; located in southeastern Lithuania
+Kaunas	kaunas.n.01.l	a city in central Lithuania
+Moldova	moldova.n.01.l	a landlocked republic in eastern Europe; formerly a European soviet but achieved independence in 1991
+Moldavia	moldova.n.01.l	a landlocked republic in eastern Europe; formerly a European soviet but achieved independence in 1991
+Chisinau	kishinev.n.01.l	the capital of Moldova
+Ukraine	ukraine.n.01.l	a republic in southeastern Europe; formerly a European soviet; the center of the original Russian state which came into existence in the ninth century
+Kyyiv	kyyiv.n.01.l	capital and largest city of the Ukraine; a major manufacturing and transportation center
+Kiev	kyyiv.n.01.l	capital and largest city of the Ukraine; a major manufacturing and transportation center
+Donetsk	donetsk.n.01.l	an industrial city in the Donets Basin
+Chernobyl	chernobyl.n.01.l	a city in north central Ukraine; site of a major disaster at a nuclear power plant (26 April 1986)
+Kharkiv	kharkov.n.01.l	a city in northeastern Ukraine; former capital of the Ukraine
+Sebastopol	sebastopol.n.01.l	a city in southern Ukraine on the Black Sea
+Sevastopol	sebastopol.n.01.l	a city in southern Ukraine on the Black Sea
+Armenia	armenia.n.01.l	a landlocked republic in southwestern Asia; formerly an Asian soviet; modern Armenia is but a fragment of ancient Armenia which was one of the world's oldest civilizations; throughout 2500 years the Armenian people have been invaded and oppressed by their neighbors
+Yerevan	yerevan.n.01.l	capital of Armenia
+Azerbaijan	azerbaijan.n.01.l	a landlocked republic in southwestern Asia; formerly an Asian soviet
+Baku	baku.n.01.l	a port city on the Caspian Sea that is the capital of Azerbaijan and an important center for oil production
+Georgia	georgia.n.03.l	a republic in Asia Minor on the Black Sea separated from Russia by the Caucasus mountains; formerly an Asian soviet but became independent in 1991
+Tbilisi	tbilisi.n.01.l	the capital and largest city of Georgia on the Kura river
+Kazakhstan	kazakhstan.n.01.l	a landlocked republic to the south of Russia and to the northeast of the Caspian Sea; the original Turkic-speaking inhabitants were overrun by Mongols in the 13th century; an Asian soviet from 1936 to 1991
+Almaty	almaty.n.01.l	the largest city in Kazakhstan and the capital until 1998
+Kyrgyzstan	kyrgyzstan.n.01.l	a landlocked republic in west central Asia bordering on northwestern China; formerly an Asian soviet but became independent in 1991
+Bishkek	bishkek.n.01.l	the capital of Kyrgyzstan (known as Frunze 1926-1991)
+Frunze	bishkek.n.01.l	the capital of Kyrgyzstan (known as Frunze 1926-1991)
+Dushanbe	dushanbe.n.01.l	the capital of Tajikistan; formerly Stalinabad 1926-1991
+Turkmenistan	turkmenistan.n.01.l	a republic in Asia to the east of the Caspian Sea and to the south of Kazakhstan and to the north of Iran; an Asian soviet from 1925 to 1991
+Tashkent	tashkent.n.01.l	the capital of Uzbekistan
+Madrid	madrid.n.01.l	the capital and largest city situated centrally in Spain; home of an outstanding art museum
+Barcelona	barcelona.n.01.l	a city in northeastern Spain on the Mediterranean; 2nd largest Spanish city and the largest port and commercial center; has been a center for radical political beliefs
+Cartagena	cartagena.n.01.l	a port in southeastern Spain on the Mediterranean
+Cordoba	cordoba.n.03.l	a city in southern Spain; center of Moorish culture
+Cordova	cordoba.n.03.l	a city in southern Spain; center of Moorish culture
+Granada	granada.n.01.l	a city in southeastern Spain that was the capital of the Moorish kingdom until it was captured by Ferdinand and Isabella in 1492; site of the Alhambra (a palace and fortress built by Moors in the Middle Ages) which is now a major tourist attraction
+Jerez	jerez.n.01.l	a city in southwestern Spain that is famous for making sherry
+Jerez_de_la_Frontera	jerez.n.01.l	a city in southwestern Spain that is famous for making sherry
+Leon	leon.n.02.l	a city in northwestern Spain at the foot of the Cantabrian Mountains
+Logrono	logrono.n.01.l	a city in northern Spain on the Ebro River
+Oviedo	oviedo.n.01.l	a city in northwestern Spain near the Cantabrian Mountains
+San_Sebastian	san_sebastian.n.01.l	a city in northern Spain on the Bay of Biscay near the French border; a fashionable seaside resort
+Sevilla	sevilla.n.01.l	a city in southwestern Spain; a major port and cultural center; the capital of bullfighting in Spain
+Seville	sevilla.n.01.l	a city in southwestern Spain; a major port and cultural center; the capital of bullfighting in Spain
+Toledo	toledo.n.02.l	a city in central Spain on the Tagus river; famous for steel and swords since the first century
+Zaragoza	zaragoza.n.01.l	an ancient city on the Ebro River in northeastern Spain; formerly the capital of Aragon
+Saragossa	zaragoza.n.01.l	an ancient city on the Ebro River in northeastern Spain; formerly the capital of Aragon
+Leon	leon.n.01.l	a historical area and former kingdom in northwestern Spain
+Valencia	valencia.n.02.l	a city in eastern Spain on the Mediterranean
+Sudan	sudan.n.01.l	a republic in northeastern Africa on the Red Sea; achieved independence from Egypt and the United Kingdom in 1956
+Soudan	sudan.n.01.l	a republic in northeastern Africa on the Red Sea; achieved independence from Egypt and the United Kingdom in 1956
+Khartoum	khartoum.n.01.l	the capital of Sudan located at the confluence of the Blue Nile and White Nile
+Omdurman	omdurman.n.01.l	a city of Sudan; located in the central Sudan on the White Nile opposite Khartoum
+Suriname	suriname.n.01.l	a republic in northeastern South America on the Atlantic; achieved independence from the Netherlands in 1975
+Surinam	suriname.n.01.l	a republic in northeastern South America on the Atlantic; achieved independence from the Netherlands in 1975
+Paramaribo	paramaribo.n.01.l	the capital and largest city and major port of Surinam
+Mbabane	mbabane.n.01.l	capital of Swaziland; located in northwestern Swaziland
+Bern	bern.n.01.l	the capital of Switzerland; located in western Switzerland
+Berne	bern.n.01.l	the capital of Switzerland; located in western Switzerland
+Basel	basel.n.01.l	a city in northwestern Switzerland
+Bale	basel.n.01.l	a city in northwestern Switzerland
+Geneva	geneva.n.01.l	a city in southwestern Switzerland at the western end of Lake Geneva; it is the headquarters of various international organizations
+Geneve	geneva.n.01.l	a city in southwestern Switzerland at the western end of Lake Geneva; it is the headquarters of various international organizations
+Interlaken	interlaken.n.01.l	a popular resort town in the Alps in west central Switzerland
+Lausanne	lausanne.n.01.l	a city in western Switzerland; cultural and commercial center
+Zurich	zurich.n.01.l	the largest city in Switzerland; located in the northern part of the country
+Damascus	dimash.n.01.l	an ancient city (widely regarded as the world's oldest) and present capital and largest city of Syria; according to the New Testament, the Apostle Paul (then known as Saul) underwent a dramatic conversion on the road to Damascus
+Halab	halab.n.01.l	a city in northwestern Syria
+Aleppo	halab.n.01.l	a city in northwestern Syria
+Al_Ladhiqiyah	al_ladhiqiyah.n.01.l	a seaport on the western coast of Syria
+Latakia	al_ladhiqiyah.n.01.l	a seaport on the western coast of Syria
+Tanzania	tanzania.n.01.l	a republic in eastern Africa
+Dodoma	dodoma.n.01.l	a city in the center of Tanzania that has been designated as the future capital
+Mbeya	mbeya.n.01.l	a city in southwestern Tanzania
+Mwanza	mwanza.n.01.l	a city in northern Tanzania on Lake Victoria
+Tabora	tabora.n.01.l	a city in western Tanzania
+Tanga	tanga.n.02.l	a port city in northeastern Tanzania on the Indian Ocean
+Bangkok	bangkok.n.01.l	the capital and largest city and chief port of Thailand; a leading city in southeastern Asia; noted for Buddhist architecture
+Krung_Thep	bangkok.n.01.l	the capital and largest city and chief port of Thailand; a leading city in southeastern Asia; noted for Buddhist architecture
+Tonga	tonga.n.01.l	a monarchy on a Polynesian archipelago in the South Pacific; achieved independence from the United Kingdom in 1970
+Tunisia	tunisia.n.01.l	a republic in northwestern Africa on the Mediterranean coast; achieved independence from France in 1956
+Gafsa	gafsa.n.01.l	a city in west central Tunisia
+Sousse	sousse.n.01.l	a port city in eastern Tunisia on the Mediterranean
+Susa	sousse.n.01.l	a port city in eastern Tunisia on the Mediterranean
+Susah	sousse.n.01.l	a port city in eastern Tunisia on the Mediterranean
+Turkey	turkey.n.02.l	a Eurasian republic in Asia Minor and the Balkans; on the collapse of the Ottoman Empire in 1918, the Young Turks, led by Kemal Ataturk, established a republic in 1923
+Adana	adana.n.01.l	a city in southern Turkey on the Seyhan River
+Seyhan	adana.n.01.l	a city in southern Turkey on the Seyhan River
+Ankara	ankara.n.01.l	the capital of Turkey; located in west-central Turkey; it was formerly known as Angora and is the home of Angora goats
+Antalya	antalya.n.01.l	a port city in southwestern Turkey on the Gulf of Antalya
+Antioch	antioch.n.01.l	a town in southern Turkey; ancient commercial center and capital of Syria; an early center of Christianity
+Antakya	antioch.n.01.l	a town in southern Turkey; ancient commercial center and capital of Syria; an early center of Christianity
+Istanbul	istanbul.n.01.l	the largest city and former capital of Turkey; rebuilt on the site of ancient Byzantium by Constantine I in the fourth century; renamed Constantinople by Constantine who made it the capital of the Byzantine Empire; now the seat of the Eastern Orthodox Church
+Constantinople	istanbul.n.01.l	the largest city and former capital of Turkey; rebuilt on the site of ancient Byzantium by Constantine I in the fourth century; renamed Constantinople by Constantine who made it the capital of the Byzantine Empire; now the seat of the Eastern Orthodox Church
+Bursa	bursa.n.01.l	a city in northwestern Turkey
+Izmir	izmir.n.01.l	a port city in western Turkey
+Smyrna	izmir.n.01.l	a port city in western Turkey
+Sardis	sardis.n.01.l	an ancient Greek city located in the western part of what is now modern Turkey; as the capital of Lydia it was the cultural center of Asia Minor; destroyed by Tamerlane in 1402
+Uganda	uganda.n.01.l	a landlocked republic in eastern Africa; achieved independence from the United Kingdom in 1962
+Entebbe	entebbe.n.01.l	a town in southern Uganda on Lake Victoria; site of an international airport (where in 1976 Israeli commandos rescued hostages held aboard a plane by Palestinian hijackers)
+Jinja	jinja.n.01.l	a city in Uganda on the north shore of Lake Victoria
+Kampala	kampala.n.01.l	the capital and largest city of Uganda on the north shore of Lake Victoria
+Gulu	gulu.n.01.l	a city in northern Uganda
+Abu_Dhabi	abu_dhabi.n.01.l	a sheikhdom of eastern Arabia and capital of the United Arab Emirates
+Alabama	alabama.n.01.l	a state in the southeastern United States on the Gulf of Mexico; one of the Confederate states during the American Civil War
+AL	alabama.n.01.l	a state in the southeastern United States on the Gulf of Mexico; one of the Confederate states during the American Civil War
+Montgomery	montgomery.n.03.l	the state capital of Alabama on the Mobile River
+Birmingham	birmingham.n.01.l	the largest city in Alabama; located in northeastern Alabama
+Decatur	decatur.n.03.l	a town in northern Alabama on the Tennessee River
+Gadsden	gadsden.n.01.l	an industrial town in north central Alabama
+Huntsville	huntsville.n.01.l	a city in northern Alabama; center for space research
+Mobile	mobile.n.02.l	a port in southwestern Alabama on Mobile Bay
+Selma	selma.n.01.l	a town in central Alabama on the Alabama river; in 1965 it was the center of a drive to register Black voters
+Tuscaloosa	tuscaloosa.n.01.l	a university town in west central Alabama
+Tuskegee	tuskegee.n.01.l	a town in eastern Alabama
+Alaska	alaska.n.01.l	a state in northwestern North America; the 49th state admitted to the union
+Juneau	juneau.n.01.l	the state capital of Alaska
+Anchorage	anchorage.n.03.l	a city in south central Alaska
+Nome	nome.n.01.l	a town in western Alaska on the southern coast of the Seward Peninsula; an important center of an Alaskan gold rush at the beginning of the 20th century
+Sitka	sitka.n.01.l	a town in southeastern Alaska that was the capital of Russian America and served as the capital of Alaska from 1867 until 1906
+Skagway	skagway.n.01.l	a town in southeastern Alaska at the northern end of the Inside Passage; a gateway to the Klondike during the Alaskan gold rush
+Arizona	arizona.n.01.l	a state in southwestern United States; site of the Grand Canyon
+Flagstaff	flagstaff.n.01.l	a town in north central Arizona; site of an important observatory
+Mesa	mesa.n.02.l	a city in Arizona just to the east of Phoenix; originally a suburb of Phoenix
+Nogales	nogales.n.01.l	a town in Arizona on the Mexican border opposite Nogales, Mexico
+Prescott	prescott.n.01.l	a town in central Arizona
+Tucson	tucson.n.01.l	a city in southeastern Arizona ringed by mountain ranges; long known as a winter and health resort but the population shift from industrial states to the Sunbelt resulted in rapid growth late in the 20th century
+Yuma	yuma.n.02.l	a town in southwestern Arizona on the Colorado River and the California border
+Arkansas	arkansas.n.01.l	a state in south central United States; one of the Confederate states during the American Civil War
+Fayetteville	fayetteville.n.03.l	a university town in northwestern Arkansas in the Ozarks
+Fort_Smith	fort_smith.n.01.l	a town in western Arkansas on the Arkansas River at the Oklahoma border
+Hot_Springs	hot_springs.n.01.l	a town in west central Arkansas; a health resort noted for thermal springs
+Jonesboro	jonesboro.n.01.l	a town in northeast Arkansas
+Little_Rock	little_rock.n.01.l	the state capital and largest city of Arkansas in the central part of Arkansas on the Arkansas River
+Pine_Bluff	pine_bluff.n.01.l	a town in southeast central Arkansas on the Arkansas River
+Texarkana	texarkana.n.02.l	a town in southwest Arkansas on the Texas border adjacent to Texarkana, Texas
+California	california.n.01.l	a state in the western United States on the Pacific; the 3rd largest state; known for earthquakes
+Anaheim	anaheim.n.01.l	a city in southern California (southeast of Los Angeles); site of Disneyland
+Bakersfield	bakersfield.n.01.l	a city in south central California at the southern end of the San Joaquin Valley
+Barstow	barstow.n.01.l	a town in southeastern California
+Berkeley	berkeley.n.02.l	a city in California on the eastern shore of San Francisco Bay; site of the University of California at Berkeley
+Beverly_Hills	beverly_hills.n.01.l	a city in southwestern California surrounded by Los Angeles; home of many Hollywood actors
+Chula_Vista	chula_vista.n.01.l	an industrial city in southern California (south of San Diego) near the Mexican border
+Eureka	eureka.n.02.l	a town in northwest California on an arm of the Pacific Ocean
+Fresno	fresno.n.01.l	a city in south central California in the San Joaquin Valley; center of an important agricultural area and gateway to the Sierra Nevada Mountains
+Long_Beach	long_beach.n.01.l	a city in southern California located on 8.5 miles of Pacific beachfront; was a resort until oil was discovered in 1921
+Los_Angeles	los_angeles.n.01.l	a city in southern California; motion picture capital of the world; most populous city of California and second largest in the United States
+Monterey	monterey.n.01.l	a town in western California to the south of San Francisco on a peninsula at the southern end of Monterey Bay
+Oakland	oakland.n.01.l	a city in western California on San Francisco Bay opposite San Francisco; primarily and industrial urban center
+Palo_Alto	palo_alto.n.01.l	a university town in California
+Pasadena	pasadena.n.01.l	a city in southwestern California to the east of Los Angeles
+Redding	redding.n.01.l	a town in north central California on the Sacramento River
+Riverside	riverside.n.02.l	a city in southern California
+Sacramento	sacramento.n.01.l	a city in north central California 75 miles to the northeast of San Francisco on the Sacramento River; capital of California
+San_Bernardino	san_bernardino.n.01.l	a city in southern California to the east of Los Angeles
+San_Francisco	san_francisco.n.01.l	a port in western California near the Golden Gate that is one of the major industrial and transportation centers; it has one of the world's finest harbors; site of the Golden Gate Bridge
+San_Jose	san_jose.n.01.l	a city in western California located at the southern end of San Francisco Bay to the south of San Francisco; a center for computer and electronics industries
+San_Mateo	san_mateo.n.01.l	a town in California to the south of San Francisco
+San_Pablo	san_pablo.n.01.l	a town in western California to the north of Oakland on an arm of San Francisco Bay
+Santa_Ana	santa_ana.n.03.l	a city in southern California to the east of Long Beach
+Santa_Barbara	santa_barbara.n.01.l	a town in southwestern California on the Pacific Ocean
+Santa_Clara	santa_clara.n.01.l	a city of west central California; residential area with light industry
+Santa_Cruz	santa_cruz.n.01.l	a town in western California on Monterey Bay; a tourist center
+Colorado	colorado.n.01.l	a state in west central United States in the Rocky Mountains
+Boulder	boulder.n.02.l	a town in north central Colorado; Rocky Mountains resort center and university town
+Colorado_Springs	colorado_springs.n.01.l	a city in east central Colorado on the eastern edge of the Rocky Mountains; popular tourist center and site of the United States Air Force Academy
+Denver	denver.n.01.l	the state capital and largest city of Colorado; located in central Colorado on the South Platte river
+Pueblo	pueblo.n.02.l	a city in Colorado to the south of Colorado Springs
+Bridgeport	bridgeport.n.01.l	a port in southwestern Connecticut on Long Island Sound
+Farmington	farmington.n.02.l	a residential town in central Connecticut
+Hartford	hartford.n.01.l	the state capital of Connecticut; located in central Connecticut on the Connecticut river; a center of the insurance business
+New_Haven	new_haven.n.01.l	a city in southwestern Connecticut; site of Yale University
+New_London	new_london.n.01.l	a town in southeastern Connecticut near Long Island Sound; an important whaling center in the 19th century
+Waterbury	waterbury.n.01.l	a city in west central Connecticut
+Dover	dover.n.01.l	the capital of the state of Delaware
+Wilmington	wilmington.n.02.l	the largest city in Delaware
+District_of_Columbia	district_of_columbia.n.01.l	the district occupied entirely by the city of Washington; chosen by George Washington as the site of the capital of the United States and created out of land ceded by Maryland and Virginia
+Washington	washington.n.01.l	the capital of the United States in the District of Columbia and a tourist mecca; George Washington commissioned Charles L'Enfant to lay out the city in 1791
+Florida	florida.n.01.l	a state in southeastern United States between the Atlantic and the Gulf of Mexico; one of the Confederate states during the American Civil War
+Daytona_Beach	daytona_beach.n.01.l	a resort town in northeast Florida on the Atlantic coast; hard white beaches have been used for automobile speed trials
+Fort_Lauderdale	fort_lauderdale.n.01.l	a city in southeast Florida on the Atlantic coast to the north of Miami; a favorite place for college students to go on their spring vacations
+Fort_Myers	fort_myers.n.01.l	a town in southwest Florida
+Gainesville	gainesville.n.01.l	a university town in north central Florida
+Melbourne	melbourne.n.01.l	a resort town in east central Florida
+Miami_Beach	miami_beach.n.01.l	a city in southeastern Florida on an island between Biscayne Bay and the Atlantic Ocean; known for fashionable resort hotels
+Orlando	orlando.n.01.l	a city in central Florida; site of Walt Disney World
+Palm_Beach	palm_beach.n.01.l	a resort town in southeast Florida on an island on the Atlantic coast
+Pensacola	pensacola.n.01.l	a town in extreme northwest Florida
+Sarasota	sarasota.n.01.l	a town in west central Florida on the Gulf of Mexico
+Saint_Petersburg	st._petersburg.n.01.l	a city in western Florida on Tampa Bay; a popular winter resort
+Tallahassee	tallahassee.n.01.l	capital of the state of Florida; located in northern Florida
+West_Palm_Beach	west_palm_beach.n.01.l	a town in southeast Florida on the mainland opposite Palm Beach; founded as a commercial center for Palm Beach
+Georgia	georgia.n.01.l	a state in southeastern United States; one of the Confederate states during the American Civil War
+Albany	albany.n.02.l	a town in southwest Georgia; processing center for peanuts and pecans
+Atlanta	atlanta.n.01.l	state capital and largest city of Georgia; chief commercial center of the southeastern United States; was plundered and burned by Sherman's army during the American Civil War
+Athens	athens.n.03.l	a university town in northeast Georgia
+Augusta	augusta.n.02.l	a city in eastern Georgia north-northwest of Savannah; noted for golf tournaments
+Brunswick	brunswick.n.02.l	a town in southeast Georgia near the Atlantic coast; a port of entry
+Columbus	columbus.n.04.l	a city in western Georgia on the Chattahoochee River; industrial center
+Macon	macon.n.01.l	a city in central Georgia to the southeast of Atlanta
+Oxford	oxford.n.02.l	a university town in northern Mississippi; home of William Faulkner
+Savannah	savannah.n.01.l	a port in eastern Georgia near the mouth of the Savannah river
+Valdosta	valdosta.n.01.l	a town in southern Georgia near the Florida border
+Vidalia	vidalia.n.01.l	a town in central Georgia; the origin of Vidalia onions
+Hawaii	hawaii.n.01.l	a state in the United States in the central Pacific on the Hawaiian Islands
+Hilo	hilo.n.01.l	a town in Hawaii on the island of Hawaii
+Honolulu	honolulu.n.01.l	the capital and largest city of Hawaii; located on a large bay on the island of Oahu
+Idaho	idaho.n.01.l	a state in the Rocky Mountains
+Boise	boise.n.01.l	the capital and largest city of Idaho
+Idaho_Falls	idaho_falls.n.01.l	a town in southeastern Idaho on the Snake River
+Lewiston	lewiston.n.02.l	a town in northwestern Idaho
+Nampa	nampa.n.01.l	a town in southwestern Idaho
+Pocatello	pocatello.n.01.l	a university town in southeastern Idaho
+Carbondale	carbondale.n.01.l	a town in southern Illinois
+Champaign	champaign.n.02.l	a university town in east central Illinois adjoining Urbana
+Decatur	decatur.n.02.l	a city in central Illinois; Abraham Lincoln practiced law here
+East_Saint_Louis	east_saint_louis.n.01.l	a town in southwest Illinois on the Mississippi across from Saint Louis
+Moline	moline.n.01.l	a town in northwest Illinois on the Mississippi River
+Peoria	peoria.n.01.l	a city in central Illinois on the Illinois River
+Rockford	rockford.n.01.l	a city in northern Illinois
+Rock_Island	rock_island.n.01.l	a town in northwest Illinois on the Mississippi River; site of a Union prison during the American Civil War
+Springfield	springfield.n.01.l	capital of the state of Illinois
+Urbana	urbana.n.01.l	a university town in east central Illinois adjoining Champaign
+Indiana	indiana.n.01.l	a state in midwestern United States
+Bloomington	bloomington.n.01.l	a university town in south central Indiana
+Evansville	evansville.n.01.l	a city in southwestern Indiana on the Ohio River
+Fort_Wayne	fort_wayne.n.01.l	a city in northeastern Indiana
+Gary	gary.n.01.l	a city in northwest Indiana on Lake Michigan; steel production
+Indianapolis	indianapolis.n.01.l	the capital and largest city of Indiana; a major commercial center in the country's heartland; site of an annual 500-mile automobile race
+Lafayette	lafayette.n.03.l	a university town in west central Indiana on the Wabash River
+Muncie	muncie.n.01.l	a town in east central Indiana
+South_Bend	south_bend.n.01.l	a city in northern Indiana
+Iowa	iowa.n.02.l	a state in midwestern United States
+Council_Bluffs	council_bluffs.n.01.l	a town in southwest Iowa on the Missouri River across from Omaha
+Davenport	davenport.n.01.l	a city in eastern Iowa on the Mississippi River across from Moline and Rock Island
+Cedar_Rapids	cedar_rapids.n.01.l	a city in eastern Iowa
+Clinton	clinton.n.04.l	a town in east central Iowa
+Des_Moines	des_moines.n.01.l	the capital and largest city in Iowa
+Dubuque	dubuque.n.01.l	a town in eastern Iowa on the Mississippi River
+Mason_City	mason_city.n.01.l	a town in north central Iowa
+Ottumwa	ottumwa.n.01.l	a town in southeast Iowa
+Sioux_City	sioux_city.n.01.l	a city in northeastern Iowa where the Big Sioux River joins the Missouri
+Kansas	kansas.n.01.l	a state in midwestern United States
+Dodge_City	dodge_city.n.01.l	a town of southwestern Kansas on the Arkansas River; formerly a rowdy cow town
+Abilene	abilene.n.02.l	a town in central Kansas to the west of Topeka; home of Dwight D. Eisenhower
+Hays	hays.n.03.l	a town in central Kansas
+Kansas_City	kansas_city.n.02.l	a city of northeast Kansas on the Missouri River adjacent to Kansas City, Missouri
+Lawrence	lawrence.n.07.l	a town in northeastern Kansas on the Kansas River; scene of raids by John Brown in 1856
+Salina	salina.n.01.l	a town in central Kansas
+Topeka	topeka.n.01.l	the capital of the state of Kansas; located in eastern Kansas on the Kansas river
+Wichita	wichita.n.02.l	the largest city in Kansas; located in southern Kansas on the Arkansas River
+Kentucky	kentucky.n.01.l	a state in east central United States; a border state during the American Civil War; famous for breeding race horses
+Bowling_Green	bowling_green.n.01.l	a town in southern Kentucky
+Frankfort	frankfort.n.01.l	the capital of Kentucky; located in northern Kentucky
+Lexington	lexington.n.02.l	a city in eastern Kentucky; noted for raising thoroughbred horses
+Louisville	louisville.n.01.l	the largest city in Kentucky; located in north central Kentucky on the Ohio river; site of the Kentucky Derby
+Owensboro	owensboro.n.01.l	a town in northwestern Kentucky on the Ohio River; a tobacco market
+Paducah	paducah.n.01.l	a town in western Kentucky on the Ohio River
+Louisiana	louisiana.n.01.l	a state in southern United States on the Gulf of Mexico; one of the Confederate states during the American Civil War
+Alexandria	alexandria.n.01.l	a town in Louisiana on the Red River
+Baton_Rouge	baton_rouge.n.01.l	capital of Louisiana
+Lafayette	lafayette.n.02.l	a town in south central Louisiana; settled by Acadians
+Monroe	monroe.n.04.l	a town in north central Louisiana
+Morgan_City	morgan_city.n.01.l	a town in southeast Louisiana to the south of Baton Rouge
+Shreveport	shreveport.n.01.l	a city in northwest Louisiana on the Red River near the Texas border
+Maine	maine.n.01.l	a state in New England
+Augusta	augusta.n.01.l	the capital of the state of Maine
+Bangor	bangor.n.01.l	a town in east central Maine on the Penobscot River
+Brunswick	brunswick.n.01.l	a university town in southwestern Maine
+Lewiston	lewiston.n.01.l	a town in southwestern Maine to the north of Portland
+Orono	orono.n.01.l	a university town in east central Maine on the Penobscot River to the north of Bangor
+Aberdeen	aberdeen.n.03.l	a town in northeastern Maryland
+Annapolis	annapolis.n.01.l	state capital of Maryland; site of the United States Naval Academy
+Baltimore	baltimore.n.01.l	the largest city in Maryland; a major seaport and industrial center
+Frederick	frederick.n.01.l	a town in northern Maryland to the west of Baltimore
+Hagerstown	hagerstown.n.01.l	a town in northern Maryland
+Massachusetts	massachusetts.n.01.l	a state in New England; one of the original 13 colonies
+Old_Colony	massachusetts.n.01.l	a state in New England; one of the original 13 colonies
+Boston	boston.n.01.l	state capital and largest city of Massachusetts; a major center for banking and financial services
+Beantown	boston.n.01.l	state capital and largest city of Massachusetts; a major center for banking and financial services
+Cambridge	cambridge.n.02.l	a city in Massachusetts just to the north of Boston; site of Harvard University and the Massachusetts Institute of Technology
+Concord	concord.n.04.l	town in eastern Massachusetts near Boston where the first battle of the American Revolution was fought
+Gloucester	gloucester.n.01.l	a town in northeastern Massachusetts on Cape Ann to the northeast of Boston; the harbor has been a fishing center for centuries
+Lexington	lexington.n.01.l	town in eastern Massachusetts near Boston where the first battle of the American Revolution was fought
+Medford	medford.n.02.l	town in northeastern Massachusetts; residential suburb of Boston
+Pittsfield	pittsfield.n.01.l	a town in western Massachusetts
+Plymouth	plymouth.n.01.l	a town in Massachusetts founded by Pilgrims in 1620
+Salem	salem.n.02.l	a city in northeastern Massachusetts; site of the witchcraft trials in 1692
+Williamstown	williamstown.n.01.l	a town in northwestern Massachusetts
+Alpena	alpena.n.01.l	a town in northern Michigan on an arm of Lake Huron
+Ann_Arbor	ann_arbor.n.01.l	a city in southern Michigan near Detroit; site of the University of Michigan
+Detroit	detroit.n.01.l	the largest city in Michigan and a major Great Lakes port; center of the United States automobile industry; located in southeastern Michigan on the Detroit river across from Windsor
+Motor_City	detroit.n.01.l	the largest city in Michigan and a major Great Lakes port; center of the United States automobile industry; located in southeastern Michigan on the Detroit river across from Windsor
+Flint	flint.n.03.l	a city in southeast central Michigan near Detroit; automobile manufacturing
+Grand_Rapids	grand_rapids.n.01.l	a city in west central Michigan; noted for manufacturing furniture
+Houghton	houghton.n.02.l	a town in northwest Michigan on the Upper Peninsula
+Jackson	jackson.n.11.l	a town in south central Michigan
+Kalamazoo	kalamazoo.n.01.l	a town in southwest Michigan
+Lansing	lansing.n.01.l	capital of the state of Michigan; located in southern Michigan on the Grand River
+Monroe	monroe.n.03.l	a town of southeast Michigan on Lake Erie
+Saginaw	saginaw.n.01.l	a town in east central Michigan on an arm of Lake Huron
+Traverse_City	traverse_city.n.01.l	a town in northern Michigan on an arm of Lake Michigan
+Bemidji	bemidji.n.01.l	a town in northern Minnesota
+Duluth	duluth.n.01.l	a city in northeast Minnesota on Lake Superior
+Hibbing	hibbing.n.01.l	a town in northeastern Minnesota in the Mesabi Range
+Mankato	mankato.n.01.l	a town in southern Minnesota
+Rochester	rochester.n.02.l	a town in southeast Minnesota
+Saint_Cloud	saint_cloud.n.01.l	a town in central Minnesota on the Mississippi River; granite quarries
+Saint_Paul	saint_paul.n.02.l	capital of the state of Minnesota; located in southeastern Minnesota on the Mississippi river adjacent to Minneapolis; one of the Twin Cities
+Virginia	virginia.n.03.l	a town in northeastern Minnesota in the heart of the Mesabi Range
+Mississippi	mississippi.n.02.l	a state in the Deep South on the gulf of Mexico; one of the Confederate States during the American Civil War
+Biloxi	biloxi.n.02.l	an old town in southern Mississippi on the Gulf of Mexico
+Columbus	columbus.n.03.l	a town in eastern Mississippi near the border with Alabama
+Greenville	greenville.n.03.l	a town in western Mississippi on the Mississippi River to the north of Vicksburg
+Hattiesburg	hattiesburg.n.01.l	a town in southeast Mississippi
+Jackson	jackson.n.10.l	capital of the state of Mississippi on the Pearl River
+Meridian	meridian.n.02.l	a town in eastern Mississippi
+Natchez	natchez.n.01.l	a town in southwest Mississippi on the Mississippi River
+Tupelo	tupelo.n.03.l	a town in northeast Mississippi
+Vicksburg	vicksburg.n.01.l	a town in western Mississippi on bluffs above the Mississippi River to the west of Jackson; focus of an important campaign during the American Civil War as the Union fought to control the Mississippi River and so to cut the Confederacy into two halves
+Cape_Girardeau	cape_girardeau.n.01.l	a town in southeast Missouri
+Columbia	columbia.n.04.l	a university town in central Missouri
+Hannibal	hannibal.n.02.l	a town in northeast Missouri on the Mississippi River; boyhood home of Mark Twain
+Independence	independence.n.03.l	a city in western Missouri; the beginning of the Santa Fe Trail
+Jefferson_City	jefferson_city.n.01.l	capital of the state of Missouri; located in central Missouri on the Missouri river
+Kansas_City	kansas_city.n.01.l	a city in western Missouri situated at the confluence of the Kansas River and the Missouri River; adjacent to Kansas City, Kansas
+Poplar_Bluff	poplar_bluff.n.01.l	a town in southeast Missouri
+Saint_Joseph	saint_joseph.n.02.l	a town in northwest Missouri on the Missouri River; in the 19th century it became the eastern terminus of the pony express
+Saint_Louis	saint_louis.n.02.l	the largest city in Missouri; a busy river port on the Mississippi River near its confluence with the Missouri River; was an important staging area for wagon trains westward in the 19th century
+Sedalia	sedalia.n.01.l	a town in east central Missouri
+Springfield	springfield.n.02.l	a city of southwestern Missouri
+Montana	montana.n.01.l	a state in northwestern United States on the Canadian border
+Bozeman	bozeman.n.01.l	a town in southwestern Montana; gateway to Yellowstone National Park
+Billings	billings.n.01.l	the largest city in Montana; located in southern Montana on the Yellowstone river
+Butte	butte.n.02.l	a town in southwestern Montana; center for mining copper
+Great_Falls	great_falls.n.01.l	a town in central Montana on the Missouri river; a center of extensive hydroelectric power
+Helena	helena.n.01.l	capital of the state of Montana; located in western Montana
+Missoula	missoula.n.01.l	a university town in western Montana
+Grand_Island	grand_island.n.01.l	a town in south central Nebraska
+Lincoln	lincoln.n.02.l	capital of the state of Nebraska; located in southeastern Nebraska; site of the University of Nebraska
+North_Platte	north_platte.n.02.l	a town in west central Nebraska on the Platte River
+Nevada	nevada.n.01.l	a state in the southwestern United States
+Carson_City	carson_city.n.01.l	capital of the state of Nevada; located in western Nevada
+Reno	reno.n.01.l	a city in western Nevada at the foot of the Sierra Nevada Mountains; known for gambling casinos and easy divorce and remarriage
+New_Hampshire	new_hampshire.n.01.l	a state in New England; one of the original 13 colonies
+Concord	concord.n.01.l	capital of the state of New Hampshire; located in south central New Hampshire on the Merrimack river
+Portsmouth	portsmouth.n.02.l	a port town in southeastern New Hampshire on the Atlantic Ocean
+Trenton	trenton.n.01.l	capital of the state of New Jersey; located in western New Jersey on the Delaware river
+Bayonne	bayonne.n.01.l	a city in northeastern New Jersey
+Camden	camden.n.01.l	a city in southwestern New Jersey on the Delaware River near Philadelphia
+Jersey_City	jersey_city.n.01.l	a city in northeastern New Jersey (opposite Manhattan)
+Morristown	morristown.n.01.l	a town in northern New Jersey where the Continental Army spent two winters
+Newark	newark.n.01.l	the largest city in New Jersey; located in northeastern New Jersey
+New_Brunswick	new_brunswick.n.01.l	a university town in central New Jersey
+Paterson	paterson.n.02.l	a city of northeastern New Jersey
+Princeton	princeton.n.01.l	a university town in central New Jersey
+New_Mexico	new_mexico.n.01.l	a state in southwestern United States on the Mexican border
+Albuquerque	albuquerque.n.01.l	the largest city in New Mexico; located in central New Mexico on the Rio Grande river
+Carlsbad	carlsbad.n.01.l	a town in southeastern New Mexico on the Pecos River near the Mexican border; potash deposits
+Farmington	farmington.n.01.l	a town in northwestern New Mexico
+Gallup	gallup.n.01.l	a town in northwestern New Mexico near the Arizona border
+Las_Cruces	las_cruces.n.01.l	a town in southern New Mexico on the Rio Grande
+Los_Alamos	los_alamos.n.01.l	a town in north central New Mexico; in 1942 it was chosen as a nuclear research site where the first atomic bombs were produced
+Roswell	roswell.n.01.l	a town in southeast New Mexico
+Santa_Fe	santa_fe.n.01.l	capital of the state of New Mexico; located in north central New Mexico
+Silver_City	silver_city.n.01.l	a town in southwestern New Mexico
+Albany	albany.n.01.l	state capital of New York; located in eastern New York State on the west bank of the Hudson river
+Cooperstown	cooperstown.n.01.l	a small town in east central New York; site of the National Baseball Hall of Fame
+New_York	new_york.n.01.l	the largest city in New York State and in the United States; located in southeastern New York at the mouth of the Hudson river; a major financial and cultural center
+Brooklyn	brooklyn.n.01.l	a borough of New York City
+Ithaca	ithaca.n.01.l	a college town in central New York on Lake Cayuga
+Queens	queens.n.01.l	a borough of New York City
+Staten_Island	staten_island.n.01.l	a borough of New York City
+Binghamton	binghamton.n.01.l	a city in south central New York near the border with Pennsylvania
+Niagara_Falls	niagara_falls.n.02.l	a city in western New York State at the falls of the Niagara river; tourist attraction and honeymoon resort
+Rochester	rochester.n.01.l	a city in western New York; a center of the photographic equipment industry
+Schenectady	schenectady.n.01.l	a city of eastern New York on the Mohawk river; it prospered after the opening of the Erie Canal
+Syracuse	syracuse.n.01.l	a city in central New York
+Utica	utica.n.01.l	a city in central New York
+Saratoga_Springs	saratoga_springs.n.01.l	a town in eastern New York State famed for its spa and its horse racing
+Watertown	watertown.n.02.l	a town in northern New York
+North_Carolina	north_carolina.n.01.l	a state in southeastern United States; one of the original 13 colonies
+Raleigh	raleigh.n.02.l	capital of the state of North Carolina; located in the east central part of the North Carolina
+Asheville	asheville.n.01.l	a town in western North Carolina in the Blue Ridge Mountains to the west of Charlotte
+Chapel_Hill	chapel_hill.n.01.l	a town in central North Carolina; site of the University of North Carolina
+Charlotte	charlotte.n.01.l	the largest city in North Carolina; located in south central North Carolina
+Queen_City	charlotte.n.01.l	the largest city in North Carolina; located in south central North Carolina
+Durham	durham.n.01.l	a city of north central North Carolina; site of Duke University
+Fayetteville	fayetteville.n.02.l	a town in south central North Carolina
+Greensboro	greensboro.n.01.l	a city of north central North Carolina
+Greenville	greenville.n.02.l	a city in eastern North Carolina; tobacco market
+Wilmington	wilmington.n.01.l	a town in southeastern North Carolina on the Cape Fear River
+Winston-Salem	winston-salem.n.01.l	a city of north central North Carolina
+Bismarck	bismarck.n.02.l	capital of the state of North Dakota; located in south central North Dakota overlooking the Missouri river
+Akron	akron.n.01.l	a city in northeastern Ohio; the heart of the United States rubber industry
+Athens	athens.n.02.l	a town in southeast Ohio
+Cleveland	cleveland.n.01.l	the largest city in Ohio; located in northeastern Ohio on Lake Erie; a major Great Lakes port
+Cincinnati	cincinnati.n.01.l	a city in southern Ohio on the Ohio river
+Columbus	columbus.n.01.l	the state capital of Ohio; located in the center of the state; site of Ohio State University
+Dayton	dayton.n.01.l	a city in southwest Ohio; manufacturing center
+Mansfield	mansfield.n.02.l	a town in north central Ohio
+Toledo	toledo.n.01.l	an industrial city in northwestern Ohio on Lake Erie
+Youngstown	youngstown.n.01.l	a city in northeast Ohio
+Oklahoma	oklahoma.n.01.l	a state in south central United States
+Bartlesville	bartlesville.n.01.l	a town in northeastern Oklahoma
+Enid	enid.n.01.l	a town in north central Oklahoma
+Lawton	lawton.n.01.l	a town in southwest Oklahoma
+McAlester	mcalester.n.01.l	a town in southeastern Oklahoma
+Muskogee	muskogee.n.02.l	a town in eastern Oklahoma on the Arkansas River
+Oklahoma_City	oklahoma_city.n.01.l	capital and largest city of Oklahoma; the economy is based on oil and livestock
+Tulsa	tulsa.n.01.l	a major city of northeastern Oklahoma on the Arkansas river; once known as the oil capital of the world and still heavily involved in the oil and gas industries
+Oregon	oregon.n.01.l	a state in northwestern United States on the Pacific
+Bend	bend.n.05.l	a town in central Oregon at the eastern foot of the Cascade Range
+Eugene	eugene.n.02.l	a city in western Oregon on the Willamette River; site of a university
+Klamath_Falls	klamath_falls.n.01.l	a town in southern Oregon near the California border
+Medford	medford.n.01.l	a town in southwestern Oregon; a summer resort
+Salem	salem.n.01.l	capital of the state of Oregon in the northwestern part of the state on the Willamette River
+Allentown	allentown.n.01.l	a city in eastern Pennsylvania; an industrial and commercial center
+Altoona	altoona.n.01.l	a town in central Pennsylvania
+Bethlehem	bethlehem.n.01.l	a town in eastern Pennsylvania on the Lehigh River to the northwest of Philadelphia; an important center for steel production
+Erie	erie.n.03.l	a port city on Lake Erie in northwestern Pennsylvania
+Gettysburg	gettysburg.n.01.l	a small town in southern Pennsylvania; site of a national cemetery
+Harrisburg	harrisburg.n.01.l	capital of Pennsylvania; located in southern part of state
+Chester	chester.n.01.l	a city of southeastern Pennsylvania on the Delaware river (an industrial suburb of Philadelphia)
+Philadelphia	philadelphia.n.01.l	the largest city in Pennsylvania; located in the southeastern part of the state on the Delaware river; site of Independence Hall where the Declaration of Independence and the Constitution were signed; site of the University of Pennsylvania
+Pittsburgh	pittsburgh.n.01.l	a city in southwestern Pennsylvania where the confluence of the Allegheny River and Monongahela River forms the Ohio River; long an important urban industrial area; site of Carnegie Mellon University and the University of Pittsburgh
+Scranton	scranton.n.01.l	an industrial city of northeastern Pennsylvania
+Rhode_Island	rhode_island.n.01.l	a state in New England; one of the original 13 colonies; the smallest state
+Providence	providence.n.01.l	the capital and largest city of Rhode Island; located in northeastern Rhode Island on Narragansett Bay; site of Brown University
+South_Carolina	south_carolina.n.02.l	a state in the Deep South; one of the original 13 colonies
+Columbia	columbia.n.03.l	capital and largest city in South Carolina; located in central South Carolina
+Charleston	charleston.n.02.l	a port city in southeastern South Carolina
+Florence	florence.n.02.l	a town in northeast South Carolina; transportation center
+Greenville	greenville.n.01.l	a town in northwest South Carolina in the Piedmont
+South_Dakota	south_dakota.n.01.l	a state in north central United States
+Aberdeen	aberdeen.n.02.l	a town in northeastern South Dakota
+Pierre	pierre.n.01.l	capital of the state of South Dakota; located in central South Dakota on the Missouri river
+Rapid_City	rapid_city.n.01.l	a town in southwestern South Dakota in the eastern part of the Black Hills
+Tennessee	tennessee.n.01.l	a state in east central United States
+Chattanooga	chattanooga.n.01.l	a city in eastern Tennessee
+Columbia	columbia.n.02.l	a town in west central Tennessee
+Jackson	jackson.n.09.l	a town in western Tennessee
+Johnson_City	johnson_city.n.01.l	a town in northeastern Tennessee
+Knoxville	knoxville.n.01.l	a city in eastern Tennessee on the Tennessee River
+Nashville	nashville.n.01.l	capital of the state of Tennessee; located in the north central part of the state on the Cumberland River; known for country music
+Abilene	abilene.n.01.l	a city in central Texas
+Amarillo	amarillo.n.01.l	a city in the northern panhandle of Texas
+Arlington	arlington.n.01.l	a city in northern Texas between Dallas and Fort Worth
+Austin	austin.n.01.l	state capital of Texas on the Colorado River; site of the University of Texas
+Beaumont	beaumont.n.03.l	a city of southeastern Texas near Houston
+Brownsville	brownsville.n.01.l	a city in southern Texas on the Rio Grande near its mouth into the Gulf of Mexico; has a channel that accommodates oceangoing ships
+Bryan	bryan.n.02.l	a town of east central Texas
+Corpus_Christi	corpus_christi.n.02.l	a city in southern Texas on an arm of the Gulf of Mexico
+Del_Rio	del_rio.n.01.l	a town in southwest Texas on the Rio Grande to the west of San Antonio
+El_Paso	el_paso.n.01.l	a city in western Texas on the Mexican border; located on the northern bank of the Rio Grande across from the Mexican city of Juarez
+Fort_Worth	fort_worth.n.01.l	a city in northeastern Texas (just to the west of Dallas); a major industrial center
+Galveston	galveston.n.01.l	a town in southeast Texas on Galveston Island
+Garland	garland.n.02.l	a city in northeastern Texas (suburb of Dallas)
+Houston	houston.n.01.l	the largest city in Texas; located in southeastern Texas near the Gulf of Mexico; site of the National Aeronautics and Space Administration
+Laredo	laredo.n.01.l	a city in southern Texas on the Rio Grande
+Lubbock	lubbock.n.01.l	a city in northwest Texas to the south of Amarillo
+Lufkin	lufkin.n.01.l	a town in eastern Texas
+McAllen	mcallen.n.01.l	a town in southern Texas on the Rio Grande
+Midland	midland.n.01.l	a town in west central Texas
+Odessa	odessa.n.02.l	a city in western Texas
+Paris	paris.n.04.l	a town in northeastern Texas
+Plano	plano.n.01.l	a city in northeastern Texas (suburb of Dallas)
+San_Angelo	san_angelo.n.01.l	a town in west central Texas; formerly a notorious frontier town
+San_Antonio	san_antonio.n.01.l	a city of south central Texas; site of the Alamo; site of several military bases and a popular haven for vacationers
+Sherman	sherman.n.04.l	a town in northeastern Texas near the Oklahoma border
+Texarkana	texarkana.n.01.l	a town in northeast Texas adjacent to Texarkana, Arkansas
+Tyler	tyler.n.02.l	a town in northeast Texas
+Victoria	victoria.n.04.l	a town in southeast Texas to the southeast of San Antonio
+Waco	waco.n.01.l	a city in east central Texas
+Wichita_Falls	wichita_falls.n.01.l	a city in north central Texas near the Oklahoma border
+Utah	utah.n.01.l	a state in the western United States; settled in 1847 by Mormons led by Brigham Young
+Ogden	ogden.n.02.l	a town in northern Utah settled by Mormons
+Provo	provo.n.01.l	a city in north central Utah settled by Mormons
+Salt_Lake_City	salt_lake_city.n.01.l	the capital and largest city of Utah; located near the Great Salt Lake in north central Utah; world capital of the Mormon Church
+Vermont	vermont.n.01.l	a state in New England
+Montpelier	montpelier.n.01.l	capital of the state of Vermont; located in north central Vermont
+Bennington	bennington.n.01.l	a town in southwestern Vermont
+Brattleboro	brattleboro.n.01.l	a town in southeastern Vermont on the Connecticut River
+Burlington	burlington.n.01.l	the largest city in Vermont; located in northwestern Vermont on Lake Champlain; site of the University of Vermont
+Rutland	rutland.n.01.l	a town in central Vermont
+Virginia	virginia.n.01.l	a state in the eastern United States; one of the original 13 colonies; one of the Confederate States in the American Civil War
+Old_Dominion	virginia.n.01.l	a state in the eastern United States; one of the original 13 colonies; one of the Confederate States in the American Civil War
+VA	virginia.n.01.l	a state in the eastern United States; one of the original 13 colonies; one of the Confederate States in the American Civil War
+Richmond	richmond.n.01.l	capital of the state of Virginia located in the east central part of the state; was capital of the Confederacy during the American Civil War
+Blacksburg	blacksburg.n.01.l	a university town in southwestern Virginia (west of Roanoke) in the Allegheny Mountains
+Newport_News	newport_news.n.01.l	a port city in southeastern Virginia at the mouth of the James River off Hampton Roads; large shipyards
+Lynchburg	lynchburg.n.01.l	a city in central Virginia
+Portsmouth	portsmouth.n.01.l	a port city in southeastern Virginia on the Elizabeth River opposite Norfolk; naval base; shipyards
+Roanoke	roanoke.n.01.l	a city in southwestern Virginia
+Virginia_Beach	virginia_beach.n.01.l	the largest city in Virginia; long overshadowed by Norfolk but growing rapidly since 1970; with 28 miles of public beaches tourism is a major factor in the economy; site of three United States Navy bases
+Fredericksburg	fredericksburg.n.01.l	a town in northeastern Virginia on the Rappahannock River
+Petersburg	petersburg.n.01.l	a town in southeastern Virginia (south of Richmond); scene of heavy fighting during the American Civil War
+Spotsylvania	spotsylvania.n.01.l	a village in northeastern Virginia where battles were fought during the American Civil War
+Washington	washington.n.02.l	a state in northwestern United States on the Pacific
+WA	washington.n.02.l	a state in northwestern United States on the Pacific
+Aberdeen	aberdeen.n.01.l	a town in western Washington
+Bellingham	bellingham.n.01.l	a town in northwestern Washington on a bay near the Canadian border
+Kennewick	kennewick.n.01.l	a town in southern Washington on the Columbia River
+Olympia	olympia.n.01.l	capital of the state of Washington; located in western Washington on Puget Sound
+Seattle	seattle.n.01.l	a major port of entry and the largest city in Washington; located in west central Washington on the protected waters of Puget Sound with the snow-capped peaks of the Cascade Range and Mount Ranier visible to the south and east; an aerospace and computer center; site of the University of Washington
+Spokane	spokane.n.01.l	a city in eastern Washington near the Idaho border
+Tacoma	tacoma.n.01.l	a city in west central Washington on an arm of Puget Sound to the south of Seattle
+Vancouver	vancouver.n.02.l	a town in southwestern Washington on the Columbia River across from Portland, Oregon
+Walla_Walla	walla_walla.n.01.l	a town in southeastern Washington near the Oregon border
+Yakima	yakima.n.01.l	a town in south central Washington
+West_Virginia	west_virginia.n.01.l	a state in east central United States
+Beckley	beckley.n.01.l	a city in southern West Virginia
+Charleston	charleston.n.01.l	state capital of West Virginia in the central part of the state on the Kanawha river
+Clarksburg	clarksburg.n.01.l	a city in northern West Virginia
+Fayetteville	fayetteville.n.01.l	a town in central West Virginia on the New River
+Huntington	huntington.n.04.l	a city of western West Virginia on the Ohio river at the mouth of the Kanawha
+Harpers_Ferry	harpers_ferry.n.01.l	a small town in northeastern West Virginia that was the site of a raid in 1859 by the abolitionist John Brown and his followers who captured an arsenal that was located there
+Morgantown	morgantown.n.01.l	a city in northern West Virginia on the Monongahela river near the Pennsylvania border; site of the University of West Virginia
+Parkersburg	parkersburg.n.01.l	a city in northwestern West Virginia on the Ohio river
+Wheeling	wheeling.n.01.l	a city in the northern panhandle of West Virginia on the Ohio river
+Appleton	appleton.n.02.l	a town in eastern Wisconsin
+Eau_Claire	eau_claire.n.01.l	a town in west central Wisconsin
+Green_Bay	green_bay.n.01.l	a city of eastern Wisconsin on an arm of Lake Michigan
+La_Crosse	la_crosse.n.01.l	a town in western Wisconsin on the Mississippi River
+Madison	madison.n.02.l	capital of the state of Wisconsin; located in the southern part of state; site of the main branch of the University of Wisconsin
+Racine	racine.n.02.l	a city in southeastern Wisconsin on Lake Michigan to the south of Milwaukee
+Superior	superior.n.05.l	a town in northwest Wisconsin on Lake Superior across from Duluth
+Watertown	watertown.n.01.l	a town in southeastern Wisconsin
+Wausau	wausau.n.01.l	a town in north central Wisconsin
+Wyoming	wyoming.n.01.l	a state in the western United States; mountainous in the west and north with the Great Plains in the east
+Casper	casper.n.01.l	a city of east central Wyoming on the North Platte river
+Cheyenne	cheyenne.n.01.l	the capital and largest city of Wyoming; located in the southeastern corner of the state
+Jackson	jackson.n.08.l	a town in western Wyoming
+Lander	lander.n.01.l	a town in central Wyoming
+Laramie	laramie.n.01.l	a university town in southeast Wyoming
+Rock_Springs	rock_springs.n.01.l	a town of southwest Wyoming near the Utah border
+Montevideo	montevideo.n.01.l	the capital and largest city of Uruguay; a cosmopolitan city and one of the busiest ports in South America
+Port_Vila	port_vila.n.01.l	capital of Vanuatu
+Vila	port_vila.n.01.l	capital of Vanuatu
+Vatican_City	vatican_city.n.01.l	the capital of the State of the Vatican City
+Venezuela	venezuela.n.01.l	a republic in northern South America on the Caribbean; achieved independence from Spain in 1811; rich in oil
+Caracas	caracas.n.01.l	the capital and largest city of Venezuela
+Ciudad_Bolivar	ciudad_bolivar.n.01.l	a port in eastern Venezuela on the Orinoco river
+Cumana	cumana.n.01.l	a port city in northeastern Venezuela on the Caribbean Sea; founded in 1523, it is the oldest European settlement in South America
+Maracaibo	maracaibo.n.01.l	a port city in northwestern Venezuela; a major oil center
+Maracay	maracay.n.01.l	a city in north central Venezuela; cattle center
+Valencia	valencia.n.01.l	an industrial city in northern Venezuela
+Hanoi	hanoi.n.01.l	the capital city of Vietnam; located in North Vietnam
+Ho_Chi_Minh_City	ho_chi_minh_city.n.01.l	a city in South Vietnam; formerly (as Saigon) it was the capital of French Indochina
+Haiphong	haiphong.n.01.l	a port city in northern Vietnam; industrial center
+Yemen	yemen.n.01.l	a republic on the southwestern shores of the Arabian Peninsula on the Indian Ocean; formed in 1990
+Sana	sana.n.01.l	the capital and largest city of Yemen; on the central plateau
+Sanaa	sana.n.01.l	the capital and largest city of Yemen; on the central plateau
+Zambia	zambia.n.01.l	a republic in central Africa; formerly controlled by Great Britain and called Northern Rhodesia until it gained independence within the commonwealth in 1964
+Northern_Rhodesia	zambia.n.01.l	a republic in central Africa; formerly controlled by Great Britain and called Northern Rhodesia until it gained independence within the commonwealth in 1964
+Lusaka	lusaka.n.01.l	the capital and largest city of Zambia
+Zimbabwe	zimbabwe.n.01.l	a landlocked republic in south central Africa formerly called Rhodesia; achieved independence from the United Kingdom in 1980
+Rhodesia	zimbabwe.n.01.l	a landlocked republic in south central Africa formerly called Rhodesia; achieved independence from the United Kingdom in 1980
+Southern_Rhodesia	zimbabwe.n.01.l	a landlocked republic in south central Africa formerly called Rhodesia; achieved independence from the United Kingdom in 1980
+Harare	harare.n.01.l	the capital and largest city of Zimbabwe
+Salisbury	harare.n.01.l	the capital and largest city of Zimbabwe
+Isle_of_Wight	wight.n.02.l	an isle and county of southern England in the English Channel
+Egbert	egbert.n.01.l	king of Wessex whose military victories made Wessex the most powerful kingdom in England (died in 839)
+Hershey	hershey.n.01.l	United States confectioner and philanthropist who created the model industrial town of Hershey, Pennsylvania; founded an industrial school for orphan boys (1857-1945)

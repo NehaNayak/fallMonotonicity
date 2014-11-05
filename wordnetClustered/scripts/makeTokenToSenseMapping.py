@@ -13,6 +13,9 @@ def getSynset(dataFile, offset):
     offset = others_separate[0]
     ss_type=others_separate[2]
 
+    if ss_type=='s':
+        ss_type='a'
+
     return offset+"."+ss_type
 
 def main():

@@ -1,0 +1,50 @@
+quebec	the largest province of Canada; a French colony from 1663 to 1759 when it was lost to the British	Yes
+inning	a period of play in baseball during which each team has a turn at bat	No
+roble	tall graceful deciduous California oak having leathery leaves and slender pointed acorns	No
+roble	large tree of Trinidad and Guyana having odd-pinnate leaves and violet-scented axillary racemes of yellow flowers and long smooth pods; grown as a specimen in parks and large gardens	No
+taconic mountains	a range of the Appalachian Mountains long the eastern border of New York with Connecticut, Massachusetts, and Vermont	No
+nunnery	the convent of a community of nuns	No
+horseshoe falls	a part of Niagara Falls in Ontario	No
+sichuan	a populous province of south central China	Yes
+soissons	a battle in World War I (May 1918); the Germans tried to attack before the American numbers were too great to defeat; the tactical success of the Germans proved to be a strategic failure	No
+wister	United States writer (1860-1938)	No
+bench mark	a standard by which something can be measured or judged; "his painting sets the benchmark of quality"	No
+bench mark	a surveyor's mark on a permanent object of predetermined position and elevation used as a reference point	No
+santa fe trail	a trail that extends from Missouri to New Mexico; an important route for settlers moving west in the 19th century	No
+cyprus	an island in the eastern Mediterranean	Yes
+kobo	100 kobos equal 1 naira in Nigeria	No
+gillespie	United States jazz trumpeter and exponent of bebop (1917-1993)	No
+trolley	a four-wheeled wagon that runs on tracks in a mine; "a tramcar carries coal out of a coal mine"	No
+trolley	a wheeled vehicle that runs on rails and is propelled by electricity; "`tram' and `tramcar' are British terms"	No
+trolley	a conveyance that transports passengers or freight in carriers suspended from cables and supported by a series of towers	No
+valdez	a port on Alaska's southern coast from which oil is shipped to markets around the world	Yes
+solar system	the sun with the celestial bodies that revolve around it in its gravitational field	No
+gamut	a complete extent or range: "a face that expressed a gamut of emotions"	No
+gamut	the entire scale of musical notes	No
+turner	cooking utensil having a flat flexible part and a long handle; used for turning or serving food	No
+turner	a tumbler who is a member of a turnverein	No
+turner	United States endocrinologist (1892-1970)	No
+turner	one of two persons who swing ropes for jumpers to skip over in the game of jump rope	No
+turner	United States slave and insurrectionist who in 1831 led a rebellion of slaves in Virginia; he was captured and executed (1800-1831)	No
+turner	English landscape painter whose treatment of light and color influenced the French impressionists (1775-1851)	No
+turner	a lathe operator	No
+turner	United States historian who stressed the role of the western frontier in American history (1861-1951)	No
+punjab	a historical region on northwestern India and northern Pakistan	No
+andalucia	a region in southern Spain on the Atlantic and the Mediterranean; formerly a center of Moorish civilization	No
+potomac	term sometimes used to refer to Washington, D.C.	No
+la fayette	French soldier who served under George Washington in the American Revolution (1757-1834)	No
+churchill downs	a racetrack for thoroughbred racing in Louisville; site of the Kentucky Derby	No
+cebuano	language of the people of Cebu in the Philippines; its lexicon contributes to the official language of the Philippines	No
+kalimantan	the part of Indonesia on the southern side of the island of Borneo	Yes
+kalimantan	3rd largest island in the world; in the western Pacific north of Java; largely covered by dense jungle and rain forest; part of the Malay Archipelago	No
+french polynesia	a French overseas possession in the South Pacific	Yes
+hermann	Dutch Protestant theologian who founded Arminianism which opposed the absolute predestinarianism of John Calvin (1559-1609)	No
+hermann	German hero; leader at the battle of Teutoburger Wald in AD 9 (circa 18 BC - AD 19)	No
+oriental	a member of an Oriental race; the term is regarded as offensive by Asians (especially by Asian Americans)	No
+tweed	thick woolen fabric used for clothing; originated in Scotland	No
+tweed	United States jurist appointed chief justice of the United States Supreme Court in 1910 by President Taft; noted for his work on antitrust legislation (1845-1921)	No
+borneo	the part of Indonesia on the southern side of the island of Borneo	Yes
+borneo	3rd largest island in the world; in the western Pacific north of Java; largely covered by dense jungle and rain forest; part of the Malay Archipelago	No
+andalusia	a region in southern Spain on the Atlantic and the Mediterranean; formerly a center of Moorish civilization	No
+quebec city	the largest province of Canada; a French colony from 1663 to 1759 when it was lost to the British	Yes
+lafayette	French soldier who served under George Washington in the American Revolution (1757-1834)	No

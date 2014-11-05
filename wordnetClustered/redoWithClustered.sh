@@ -79,9 +79,42 @@
 #rm data/token_sense_32065_*
 
 
+# Make sense index
+#cat unclustered/data.noun | grep \| | python scripts/makeSenseIndex.py > data/synset_definition_unc_noun.txt
+#cat unclustered/data.adj | grep \| | python scripts/makeSenseIndex.py > data/synset_definition_unc_adj.txt
+#cat unclustered/data.verb | grep \| | python scripts/makeSenseIndex.py > data/synset_definition_unc_verb.txt
+#cat unclustered/data.adv | grep \| | python scripts/makeSenseIndex.py > data/synset_definition_unc_adv.txt
+#cat data/synset_definition_unc* | sort > data/synset_definition_unc.txt
+#rm data/synset_definition_unc_*
 
-python scripts/makeTokenSenseSynset.py data/synset_definition_3584.txt data/token_sense_3584.txt > data/token_sense_definition_3584.txt
-python scripts/makeTokenSenseSynset.py data/synset_definition_9868.txt data/token_sense_9868.txt > data/token_sense_definition_9868.txt
-python scripts/makeTokenSenseSynset.py data/synset_definition_12619.txt data/token_sense_12619.txt > data/token_sense_definition_12619.txt
-python scripts/makeTokenSenseSynset.py data/synset_definition_19370.txt data/token_sense_19370.txt > data/token_sense_definition_19370.txt
-python scripts/makeTokenSenseSynset.py data/synset_definition_32065.txt data/token_sense_32065.txt > data/token_sense_definition_32065.txt
+# Make token to sense mappings
+#cat unclustered/index.noun | grep ^[a-z] | python scripts/makeTokenToSenseMapping.py unclustered/data.noun > data/token_sense_unc_noun.txt
+#cat unclustered/index.adj | grep ^[a-z] | python scripts/makeTokenToSenseMapping.py unclustered/data.adj > data/token_sense_unc_adj.txt
+#cat unclustered/index.adv | grep ^[a-z] | python scripts/makeTokenToSenseMapping.py unclustered/data.adv > data/token_sense_unc_adv.txt
+#cat unclustered/index.verb | grep ^[a-z] | python scripts/makeTokenToSenseMapping.py unclustered/data.verb > data/token_sense_unc_verb.txt
+#cat data/token_sense_unc_* | sort > data/token_sense_unc.txt
+
+#python scripts/makeTokenSenseSynset.py data/synset_definition_3584.txt data/token_sense_3584.txt > data/token_sense_definition_3584.txt
+#python scripts/makeTokenSenseSynset.py data/synset_definition_9868.txt data/token_sense_9868.txt > data/token_sense_definition_9868.txt
+#python scripts/makeTokenSenseSynset.py data/synset_definition_12619.txt data/token_sense_12619.txt > data/token_sense_definition_12619.txt
+#python scripts/makeTokenSenseSynset.py data/synset_definition_19370.txt data/token_sense_19370.txt > data/token_sense_definition_19370.txt
+#python scripts/makeTokenSenseSynset.py data/synset_definition_32065.txt data/token_sense_32065.txt > data/token_sense_definition_32065.txt
+#python scripts/makeTokenSenseSynset.py data/synset_definition_unc.txt data/token_sense_unc.txt > data/token_sense_definition_unc.txt
+
+
+# Make sense index
+cat unclustered3.0/data.noun | grep \| | python scripts/makeSenseIndex.py > data/synset_definition_unc3.0_noun.txt
+cat unclustered3.0/data.adj | grep \| | python scripts/makeSenseIndex.py > data/synset_definition_unc3.0_adj.txt
+cat unclustered3.0/data.verb | grep \| | python scripts/makeSenseIndex.py > data/synset_definition_unc3.0_verb.txt
+cat unclustered3.0/data.adv | grep \| | python scripts/makeSenseIndex.py > data/synset_definition_unc3.0_adv.txt
+cat data/synset_definition_unc3.0* | sort > data/synset_definition_unc3.0.txt
+rm data/synset_definition_unc3.0_*
+
+# Make token to sense mappings
+cat unclustered3.0/index.noun | grep ^[a-z] | python scripts/makeTokenToSenseMapping.py unclustered3.0/data.noun > data/token_sense_unc3.0_noun.txt
+cat unclustered3.0/index.adj | grep ^[a-z] | python scripts/makeTokenToSenseMapping.py unclustered3.0/data.adj > data/token_sense_unc3.0_adj.txt
+cat unclustered3.0/index.adv | grep ^[a-z] | python scripts/makeTokenToSenseMapping.py unclustered3.0/data.adv > data/token_sense_unc3.0_adv.txt
+cat unclustered3.0/index.verb | grep ^[a-z] | python scripts/makeTokenToSenseMapping.py unclustered3.0/data.verb > data/token_sense_unc3.0_verb.txt
+cat data/token_sense_unc3.0_* | sort > data/token_sense_unc3.0.txt
+
+python scripts/makeTokenSenseSynset.py data/synset_definition_unc3.0.txt data/token_sense_unc3.0.txt > data/token_sense_definition_unc3.0.txt

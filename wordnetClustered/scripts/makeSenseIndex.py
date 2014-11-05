@@ -14,6 +14,9 @@ def main():
         lex_id = "{0:0{1}d}".format(int(others_separate[5],16),2)
         definition = "_".join(gloss.split())
 
+        if ss_type=='s':
+            ss_type = 'a'
+
         sys.stdout.write(synset_offset+"."+ss_type+"\t"+definition+"\n")
 
 if __name__=='__main__':

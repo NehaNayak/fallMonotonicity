@@ -1,0 +1,3 @@
+python scripts/getWordsFromNLTK.py data/locationList.pickle data/locationSenses_wn3.txt | sort -k1,2 > data/token_sense_definition_wn3.txt
+cat data/locationSenses_wn3.txt | grep [\.]n[\.] | python scripts/findLocationSenses_wn3.py data/confirmed_location_wn3.txt data/ambiguous_location_wn3.txt
+
