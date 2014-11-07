@@ -1,51 +1,72 @@
 import sys
 import random
 
-def titlecase(inp):
-    output = inp[0].upper()+inp[1:]
-    return output
-
-Gold = [\
-("wurzburg", "gold", "a_city_of_south_central_Germany"),\
-("aachen", "gold", "a_city_in_western_Germany_near_the_Dutch_and_Belgian_borders;_formerly_it_was_Charlemagnes_northern_capital"),\
-("frederick", "gold", "a_town_in_northern_Maryland_west_of_Baltimore"),\
-("des_moines", "gold", "the_capital_and_largest_city_in_Iowa"),\
-("quito", "gold", "the_capital_of_Ecuador"),\
-("samaria", "gold", "an_ancient_city_in_central_Palestine_founded_in_the_9th_century_BC_as_the_capital_of_the_northern_Hebrew_kingdom_of_Israel;_the_site_is_in_present-day_northwestern_Jordan"),\
-("panama", "gold", "a_republic_on_the_Isthmus_of_Panama;_achieved_independence_from_Colombia_in_1903"),\
-("castries", "gold", "a_port_on_the_island_of_Saint_Lucia;_capital_and_largest_city_of_Saint_Lucia"),\
-("joao_pessoa", "gold", "a_city_in_northeastern_Brazil_near_the_Atlantic_Ocean_north_of_Recife"),\
-("philippi", "gold", "a_city_in_ancient_Macedonia_that_was_important_in_early_Christianity"),\
-("alpena", "gold", "a_town_in_northern_Michigan_on_an_arm_of_Lake_Huron"),\
-("bangkok", "gold", "the_capital_and_largest_city_and_chief_port_of_Thailand;_a_leading_city_in_southeastern_Asia;_noted_for_Buddhist_architecture"),\
-("haiphong", "gold", "a_port_city_in_northern_Vietnam;_industrial_center"),\
-("biloxi", "gold", "a_old_town_in_southern_Mississippi_on_the_Gulf_of_Mexico"),\
-("melbourne", "gold", "the_capital_of_Victoria_state_and_2nd_largest_Australian_city;_a_financial_and_commercial_center"),\
-("melbourne", "gold", "a_resort_town_in_east_central_Florida"),\
-("spokane", "gold", "a_city_in_eastern_Washington_near_the_Idaho_border"),\
-("juarez", "gold", "a_city_in_northern_Mexico_on_the_Rio_Grande_opposite_El_Paso"),\
-("wuhan", "gold", "a_city_of_central_China_on_the_Chang_Jiang;_the_commercial_and_industrial_center_of_central_China"),\
-("paris", "gold", "the_capital_and_largest_city_of_France;_and_international_center_of_culture_and_commerce"),\
-("paris", "gold", "a_town_in_northeastern_Texas"),\
-("brownsville", "gold", "a_city_in_southern_Texas_on_the_Rio_Grande_near_its_mouth_into_the_Gulf_of_Mexico;_has_a_channel_that_accommodates_oceangoing_ships"),\
+GoldYes = [
+("Namibia", "goldYes", "a republic in southwestern Africa on the south Atlantic coast (formerly called South West Africa); achieved independence from South Africa in 1990; the greater part of Namibia forms part of the high Namibian plateau of South Africa"),
+("South_West_Africa", "goldYes", "a republic in southwestern Africa on the south Atlantic coast (formerly called South West Africa); achieved independence from South Africa in 1990; the greater part of Namibia forms part of the high Namibian plateau of South Africa"),
+("Windhoek", "goldYes", "capital of Namibia in the center of the country"),
+("Herat", "goldYes", "a city in northwestern Afghanistan on the site of several ancient cities"),
+("Jalalabad", "goldYes", "a town in eastern Afghanistan (east of Kabul)"),
+("Kabul", "goldYes", "the capital and largest city of Afghanistan; located in eastern Afghanistan"),
+("Kandahar", "goldYes", "a city in southern Afghanistan; an important trading center"),
+("Qandahar", "goldYes", "a city in southern Afghanistan; an important trading center"),
+("Albania", "goldYes", "a republic in southeastern Europe on the Adriatic coast of the Balkan Peninsula"),
+("Tirana", "goldYes", "the capital and largest city of Albania in the center of the country"),
+("Algeria", "goldYes", "a republic in northwestern Africa on the Mediterranean Sea with a population that is predominantly Sunni Muslim; colonized by France in the 19th century but gained autonomy in the early 1960s"),
+("Algiers", "goldYes", "an ancient port on the Mediterranean; the capital and largest city of Algeria"),
+("Batna", "goldYes", "a town in north central Algeria"),
+("Blida", "goldYes", "a city in northern Algeria at the foot of the Atlas Mountains to the southwest of Algiers"),
+("Oran", "goldYes", "a port city in northwestern Algeria and the country's 2nd largest city"),
+("Djanet", "goldYes", "a desert town in southeastern Algeria"),
+("Reggane", "goldYes", "a town in central Algeria"),
+("Timgad", "goldYes", "an ancient town founded by the Romans; noted for extensive and well-preserved ruins"),
+("Timimoun", "goldYes", "a town in central Algeria in the Atlas Mountains"),
+("Angola", "goldYes", "a republic in southwestern Africa on the Atlantic Ocean; achieved independence from Portugal in 1975 and was the scene of civil war until 1990")
 ]
+
+GoldNo = [
+("flora", "goldNo", "(botany) a living organism lacking the power of locomotion"),
+("hit", "goldNo", "(baseball) a successful stroke in an athletic contest (especially in baseball)"),
+("anchorage", "goldNo", "the act of anchoring"),
+("docking", "goldNo", "the act of securing an arriving vessel with ropes"),
+("clinch", "goldNo", "(boxing) the act of one boxer holding onto the other to avoid being hit and to rest momentarily"),
+("lam", "goldNo", "a rapid escape (as by criminals)"),
+("hit", "goldNo", "a conspicuous success"),
+("bloomer", "goldNo", "an embarrassing mistake"),
+("purchase", "goldNo", "the acquisition of something for payment"),
+("assumption", "goldNo", "the act of taking possession of or power over something"),
+("assumption", "goldNo", "the act of assuming or taking for granted"),
+("conversion", "goldNo", "a spiritual enlightenment causing a person to lead a new life"),
+("magic", "goldNo", "an illusory feat; considered magical by naive observers"),
+("bender", "goldNo", "a pitch of a baseball that is thrown with spin so that its path curves as it approaches the batter"),
+("raise", "goldNo", "the act of raising something"),
+("spring", "goldNo", "a light self-propelled movement upwards or forwards"),
+("wheeling", "goldNo", "propelling something on wheels"),
+("rolling", "goldNo", "propelling something on wheels"),
+("hit", "goldNo", "the act of contacting one thing with another"),
+("best", "goldNo", "the supreme effort one can make")
+]
+
 Data = []
 
 for line in sys.stdin:
-    (location, identifier, definition) = line.split() 
+    (location, identifier, definition) = line[:-1].split("\t") 
     Data.append((location, identifier, definition))
 
+sys.stdout.write(",".join(["Location"+str(i)+",Definition"+str(i)+",Identifier"+str(i) for i in range(1,21)])+"\n")
 
-sys.stdout.write(",".join(["Location"+str(i)+",Definition"+str(i)+",Identifier"+str(i) for i in range(1,11)])+"\n")
-
-for i in range(len(Data)/10):
-    x = random.randint(0,9)
-    while x>0 and Data[10*i+x-1][0]==Data[10*i+x][0]:
+for i in range(len(Data)/20):
+    x = random.randint(0,18)
+    while x>0 and Data[20*i+x-1][0]==Data[20*i+x][0]:
         x-=1
-    Data.insert(10*i+x,Gold[i%len(Gold)])
+    Data.insert(20*i+x,GoldYes[i%len(GoldYes)])
+    x = random.randint(0,19)
+    while x>0 and Data[20*i+x-1][0]==Data[20*i+x][0]:
+        x-=1
+    Data.insert(20*i+x,GoldNo[i%len(GoldNo)])
 
-for j in range(len(Data)/10):
-    for k in range(10*j,10*j+9):
-        sys.stdout.write(titlecase(Data[k][0].replace("_"," "))+",\""+Data[k][2].replace("_"," ")+"\","+Data[k][1]+",")
-    k = 10*j+9
-    sys.stdout.write(titlecase(Data[k][0].replace("_"," "))+",\""+Data[k][2].replace("_"," ")+"\","+Data[k][1]+"\n")
+for j in range(len(Data)/20):
+    for k in range(20*j,20*j+19):
+        sys.stdout.write(Data[k][0].replace("_"," ")+","+Data[k][2].replace("_"," ")+","+Data[k][1]+",")
+    k = 20*j+19
+    sys.stdout.write(Data[k][0].replace("_"," ")+","+Data[k][2].replace("_"," ")+","+Data[k][1]+"\n")
