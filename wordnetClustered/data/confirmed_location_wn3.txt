@@ -1,3 +1,7 @@
+Borodino	borodino.n.01.l	Napoleon defeated the Russians in 1812 in a pitched battle at a village in western Russia west of Moscow, but irreparably weakened his army
+Nag_Hammadi	nag_hammadi.n.02.l	a collection of 13 ancient papyrus codices translated from Greek into Coptic that were discovered by farmers near the town of Nag Hammadi in 1945; the codices contain 45 distinct works including the chief sources of firsthand knowledge of Gnosticism
+cow_town	cow_town.n.01.l	a small town in a cattle-raising area of western North America
+national_capital	national_capital.n.01.l	the capital city of a nation
 Namibia	namibia.n.01.l	a republic in southwestern Africa on the south Atlantic coast (formerly called South West Africa); achieved independence from South Africa in 1990; the greater part of Namibia forms part of the high Namibian plateau of South Africa
 South_West_Africa	namibia.n.01.l	a republic in southwestern Africa on the south Atlantic coast (formerly called South West Africa); achieved independence from South Africa in 1990; the greater part of Namibia forms part of the high Namibian plateau of South Africa
 Windhoek	windhoek.n.01.l	capital of Namibia in the center of the country

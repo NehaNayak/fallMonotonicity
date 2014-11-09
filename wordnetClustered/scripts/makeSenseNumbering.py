@@ -5,8 +5,8 @@ from nltk.corpus import wordnet as wn
 for line in sys.stdin:
     lemma = line[:-1]
     synsets = wn.synsets(lemma)
-    if len(synsets)>31:
-        ratio = 31.0/len(synsets)
+    if len(synsets)>30:
+        ratio = 30.0/len(synsets)
         for pos in ['n','v','a','r']:
             thisPOSSynsets = wn.synsets(lemma,pos)
             limit = ratio*len(thisPOSSynsets)

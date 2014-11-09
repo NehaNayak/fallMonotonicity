@@ -1,0 +1,25 @@
+#!/bin/bash
+exec scala "$0" "$@"
+!#
+
+import scala.collection.JavaConversions._
+import scala.collection._
+import java.io._
+import au.com.bytecode.opencsv._
+
+val reader = new CSVReader(new FileReader(args(0)))
+var nextLine:Option[Array[String]] = Option(reader.readNext)
+var headerMap = new mutable.HashMap[String,Int]
+for ( (header, index) <- nextLine.get.zipWithIndex) {
+  headerMap(header) = index
+}
+while (nextLine.isDefined) {
+  nextLine = Option(reader.readNext)
+  for (line <- nextLine) {
+    val fields = headerMap.toList.filter(_._2 < line.length).map{ case (header, index) => 
+      (header, line(index)) }.toMap
+    for (i <- (1 to 20)) {
+      println(fields("Input.Location" + i) + "\t" + fields("Input.Identifier" + i) + "\t" + fields("Answer.Definition" + i))
+    }
+  }
+}

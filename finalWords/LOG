@@ -1,0 +1,13 @@
+#python scripts/getWordsFromNLTK.py data/locationList.pickle data/locationSenses_wn3.txt | sort -k1,2 > data/token_sense_definition_wn3.txt
+#cat data/locationSenses_wn3.txt | grep [\.]n[\.] | python scripts/findLocationSenses_wn3.py data/confirmed_location_wn3.txt data/ambiguous_location_wn3.txt
+#python scripts/findAllLemmas.py | sort > data/wn3_lemmas.txt
+#cat data/wn3_lemmas.txt | python scripts/makeSenseNumbering.py > data/token_number_sense_definition_wn3.txt
+#sh scripts/grok data/Batch_1725999_batch_results.csv | awk '$3=="Yes" && $2!="goldYes"' | cut -f1,2 | tr 'A-Z' 'a-z' > data/location_AMTselectedSenses_wn3.txt
+#cat data/token_number_sense_definition_wn3.txt | python scripts/makeTokenNumberSensePickle.py > data/token_number_synset_wn3.pickle
+#cat data/locationList.txt | python scripts/findLocationLemmas.py data/token_number_synset_wn3.pickle data/location_AMTselectedSenses_wn3.txt data/confirmed_location_wn3.txt > data/locationSenses_wn3.txt
+cut -f1,2 data/token_number_sense_definition_wn3.txt | sort | uniq > data/lemma_senses_wn3.txt
+cut -f1 data/lemma_senses_wn3.txt | awk '{print $1"\t0"}' > temp
+cat temp >> data/lemma_senses_wn3.txt
+cat data/locationSenses_wn3.txt >> data/lemma_senses_wn3.txt 
+sort data/lemma_senses_wn3.txt |uniq > data/temp
+mv data/temp data/lemma_senses_wn3.txt
