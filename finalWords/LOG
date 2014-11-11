@@ -11,3 +11,6 @@ cat temp >> data/lemma_senses_wn3.txt
 cat data/locationSenses_wn3.txt >> data/lemma_senses_wn3.txt 
 sort data/lemma_senses_wn3.txt |uniq > data/temp
 mv data/temp data/lemma_senses_wn3.txt
+sed -i .bak 's/ /_/g' data/weighted_wordnet_vocabulary.txt
+rm data/weighted_wordnet_vocabulary.txt.bak
+cat data/token_number_sense_definition_wn3.txt | python scripts/printGraphEdges.py > data/wordnetEdgesUp.txt

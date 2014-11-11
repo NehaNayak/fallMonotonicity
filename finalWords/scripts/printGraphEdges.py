@@ -24,17 +24,8 @@ for (token,number), synset in TokenNumberToSynset.iteritems():
                 number,\
                 topLemma[0],\
                 topLemma[1],\
-                "0\n"
-                ])\
-                )
-            sys.stdout.write(\
-                "\t".join([\
-                topLemma[0],\
-                topLemma[1],\
-                token,\
-                number,\
-                "1\n"
+                "\n"
                 ])\
                 )
         except:
-            print "aaaaaaah",hypernym 
+            pass
