@@ -1,0 +1,33 @@
+python scripts/findAllLemmas.py | sort | uniq > data/lemmas.txt
+
+cat data/lemmas.txt | python scripts/makeSenseNumbering.py > data/lemma_sense_synset_defn.txt
+
+cat data/lemmas.txt | awk '{print $0"\t"NR-1}' > data/table_word.txt
+
+cat data/table_word.txt | python scripts/pickleTable_word.py > data/table_word.pickle
+
+cat data/lemma_sense_synset_defn.txt | python scripts/makeTable_word_sense.py > data/table_word_sense.txt
+
+cat data/lemma_sense_synset_defn.txt | python scripts/printHypernymEdges.py > data/edge_hypernym.txt
+
+#sh scripts/grok data/Batch_1725999_batch_results.csv | awk '$3=="Yes" && $2!="goldYes"' | cut -f1,2 | tr 'A-Z' 'a-z' > data/location_AMTselectedSenses_wn3.txt
+
+#sed -i .bak 's/ /_/g' data/weighted_wordnet_vocabulary.txt
+#rm data/weighted_wordnet_vocabulary.txt.bak
+
+cat data/lemma_sense_synset_defn.txt | cut -f1,2,3 | python scripts/findSynonyms.py > data/edge_synonym.txt
+cat data/lemma_sense_synset_defn.txt | cut -f1,2,3 | python scripts/findAntonyms.py > data/edge_antonym.txt
+
+cat data/lemma_sense_synset_defn.txt | cut -f1,2,3 | python scripts/makeLemmaToSenseSynset.py > data/LemmaToSenseSynset.pickle
+cat data/verbOceanEntailment.txt | python scripts/makeEdges_entailment.py data/LemmaToSenseSynset.pickle > data/edge_verbEntailment.txt
+
+cat data/locationSynsets_* | python scripts/makeLocationSynsetPickle.py > data/locationSynsets_all.pickle
+cut -f1 data/locations.txt | python scripts/expandLSSDFile.py data/locationSynsets_all.pickle >> data/lemma_sense_synset_defn.txt
+
+cut -f1,2,3 data/lemma_sense_synset_defn.txt | python scripts/makeLemmaSynsetToSense.py > data/LemmaSynsetToSense.pickle 
+
+cat data/locationSynsets_confirmed_withDefn.txt | tr 'A-Z' 'a-z' | sed 's/\.l$//'| head
+cat data/locationSynsets_confirmed_withDefn.txt | tr 'A-Z' 'a-z' | sed 's/\.l$//' >> data/locationSynsets_all.txt 
+cat data/locationSynsets_all.txt | python scripts/makeLocationSynsetPickle.py > data/locationSynsets_all.pickle
+
+cat data/weighted_wordnet_vocabulary.txt | python scripts/makeCountDict.py > data/wnCounts.pickle

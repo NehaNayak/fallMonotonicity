@@ -14,3 +14,19 @@ mv data/temp data/lemma_senses_wn3.txt
 sed -i .bak 's/ /_/g' data/weighted_wordnet_vocabulary.txt
 rm data/weighted_wordnet_vocabulary.txt.bak
 cat data/token_number_sense_definition_wn3.txt | python scripts/printGraphEdges.py > data/wordnetEdgesUp.txt
+cat data/weighted_wordnet_vocabulary.txt | python scripts/makeCountDict.py data/wn3EdgesUpAncestor.pickle > data/weighted_wordnet_vocabulary.pickle
+python scripts/JCDistance.py data/wn3EdgesUpAncestor.pickle data/weighted_wordnet_vocabulary.pickle > data/wn3_JCDistance.txt
+cat data/lemma_senses_wn3.txt | awk '$2==1' > data/lemma_senses_wn3_location.txt
+cat data/lemma_senses_wn3.txt | awk '$2!=1' > data/lemma_senses_wn3_nonLocation.txt
+echo "UNK" > data/lemmas_wn3.txt
+echo "NUM" >> data/lemmas_wn3.txt
+cut -f1 data/lemma_senses_wn3_nonLocation.txt | sort | uniq >> data/lemmas_wn3.txt 
+cut -f1 data/lemma_senses_wn3_location.txt | grep -vFxf data/lemmas_wn3.txt >> data/lemmas_wn3.txt
+nl -v0 -p data/lemmas_wn3.txt > data/index_gloss.txt 
+cat data/index_gloss.txt python scripts/makeGlossIndex.py data/IndexToGloss.pickle data/GlossToIndex.pickle
+
+# psql stuff
+cat data/index_gloss.txt | python psqlscripts/insertInto_new_word.py
+cat data/token_number_sense_definition_wn3.txt | cut -f1,2,4 | python psqlscripts/insertInto_new_word_sense.py data/GlossToIndex.pickle
+cat data/wn3_JCDistance.txt | awk '$1!=$3||$2!=$4' | python psqlscripts/insertInto_new_edge.py data/GlossToIndex.pickle
+cat data/token_number_sense_definition_wn3.txt| cut -f1,2 | python psqlscripts/insertInto_new_edge_sense_edges.py data/GlossToIndex.pickle 
